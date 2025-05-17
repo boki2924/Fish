@@ -1,0 +1,1081 @@
+﻿Station Name,Station Description,Parameter Description,Units,Year,Result Count,Result Min,Result Max,Result Median,Waterway,x,y
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2025,3,444,632,499,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2025,1,329,329,329,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2025,3,220,502,336,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2025,2,215,438,327,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2025,3,211,398,322,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2025,3,218,533,339,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2025,3,155,192,171,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2025,3,200,281,217,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2025,3,239,321,261,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2025,1,313,313,313,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2025,3,189,392,295,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2025,3,196,522,299,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2025,3,363,1135,546,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2025,1,224,224,224,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2025,1,272,272,272,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2025,1,743,743,743,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2025,2,214,226,220,Little Calumet River,-9753472.181457821,5108772.571885121
+Lincoln Street,Weller Creek at Lincoln Street,Chloride,mg/L,2025,3,554,815,590,Weller Creek,-9791310.180190712,5169842.130070917
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2025,14,141,484,267,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2025,3,197,267,256,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2025,3,228,547,335,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2025,3,216,447,320,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2025,1,213,213,213,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2025,1,260,260,260,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2025,3,147,345,205,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2025,3,211,319,257,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2025,3,158,411,305,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2025,3,225,482,342,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2025,3,194,349,297,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2024,12,50,434,164,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2024,12,64,432,115,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2024,12,90,354,125,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2024,12,64,246,150,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2024,12,93,289,163,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2024,12,131,489,171,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2024,12,97,237,143,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2024,12,46,389,109,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2024,12,88,228,160,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2024,12,15,350,25,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2024,12,110,359,149,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2024,12,63,255,106,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2024,12,68,833,242,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2024,18,91,301,129,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2024,12,58,398,129,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2024,12,117,465,197,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2024,12,65,287,144,Little Calumet River,-9753472.181457821,5108772.571885121
+Lincoln Street,Weller Creek at Lincoln Street,Chloride,mg/L,2024,12,81,688,330,Weller Creek,-9791310.180190712,5169842.130070917
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2024,53,86,464,127,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2024,12,50,370,108,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2024,12,99,287,164,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2024,12,105,397,165,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2024,12,86,242,154,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2024,12,98,907,219,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2024,12,92,469,142,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2024,12,50,185,100,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2024,12,18,325,50,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2024,12,109,385,147,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2024,12,101,417,167,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2024,12,52,267,107,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2023,12,164,329,209,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2023,12,69,363,124,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2023,12,103,347,162,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2023,12,95,583,135,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2023,12,163,443,191,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2023,6,157,181,166,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2023,12,95,264,156,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2023,12,53,298,116,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2023,18,104,531,147,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2023,12,15,321,69,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2023,12,129,293,177,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2023,12,91,308,124,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2023,12,177,857,334,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2023,12,89,387,146,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2023,12,83,317,139,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2023,12,203,493,250,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2023,12,64,172,122,Little Calumet River,-9753472.181457821,5108772.571885121
+Lincoln Street,Weller Creek at Lincoln Street,Chloride,mg/L,2023,12,260,785,350,Weller Creek,-9791310.180190712,5169842.130070917
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2023,52,93,612,145,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2023,12,65,648,111,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2023,12,155,400,196,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2023,12,166,369,194,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2023,11,96,257,121,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2023,12,193,482,295,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2023,12,81,449,140,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2023,12,87,259,110,North Shore Channel,-9763880.193364626,5162772.158302309
+Washington Avenue,Salt Creek at Washington Avenue,Chloride,mg/L,2023,6,239,389,260,Salt Creek,-9778632.442307537,5135217.403079835
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2023,12,16,505,54,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2023,12,142,272,186,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2023,12,170,369,191,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2023,12,95,306,123,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2022,12,75,537,207,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2022,9,78,449,136,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2022,12,99,861,144,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2022,11,66,379,164,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2022,11,85,547,193,Des Plaines River,-9779371.53102385,5151588.097147647
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2022,12,83,219,147,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2022,12,69,428,122,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2022,11,79,450,139,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2022,10,15,471,19,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2022,12,131,541,209,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2022,12,84,557,132,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2022,12,137,1527,264,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2022,10,83,362,142,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2022,12,100,444,147,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2022,10,139,749,228,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2022,11,56,202,91,Little Calumet River,-9753472.181457821,5108772.571885121
+Lincoln Street,Weller Creek at Lincoln Street,Chloride,mg/L,2022,12,112,2543,312,Weller Creek,-9791310.180190712,5169842.130070917
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2022,52,101,539,149,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2022,12,64,529,124,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2022,11,143,687,203,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2022,11,134,640,181,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2022,11,99,366,138,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2022,10,86,1484,203,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2022,12,93,422,153,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2022,12,93,340,117,North Shore Channel,-9763880.193364626,5162772.158302309
+Washington Avenue,Salt Creek at Washington Avenue,Chloride,mg/L,2022,11,141,700,169,Salt Creek,-9778632.442307537,5135217.403079835
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2022,12,23,354,72,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2022,12,127,605,221,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2022,11,147,660,195,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2022,12,86,476,136,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2021,11,148,429,224,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2021,10,63,419,119,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2021,12,128,672,185,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2021,10,39,308,171,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2021,12,161,638,253,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2021,5,407,842,656,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2021,11,69,149,109,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2021,11,75,358,99,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2021,12,63,351,136,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2021,10,15,198,18,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2021,12,144,1121,203,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2021,12,105,731,137,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2021,11,170,2793,334,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2021,12,83,293,133,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2021,11,93,332,128,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2021,10,149,730,347,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2021,11,51,129,97,Little Calumet River,-9753472.181457821,5108772.571885121
+Lincoln Street,Weller Creek at Lincoln Street,Chloride,mg/L,2021,3,186,260,239,Weller Creek,-9791310.180190712,5169842.130070917
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2021,48,99,871,146,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2021,11,52,341,99,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2021,12,147,842,263,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2021,11,167,764,256,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2021,12,66,341,136,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2021,11,167,904,404,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2021,11,105,356,133,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2021,12,76,445,113,North Shore Channel,-9763880.193364626,5162772.158302309
+Washington Avenue,Salt Creek at Washington Avenue,Chloride,mg/L,2021,3,144,164,156,Salt Creek,-9778632.442307537,5135217.403079835
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2021,11,16,345,59,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2021,11,124,789,239,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2021,12,164,832,264,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2021,12,107,649,137,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2020,12,104,683,173,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2020,11,61,370,93,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2020,12,87,352,127,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2020,11,80,413,147,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2020,12,81,264,138,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2020,12,97,492,162,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2020,11,68,128,87,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2020,11,44,378,84,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2020,11,86,325,115,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2020,12,15,445,50,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2020,11,109,524,151,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2020,12,87,532,112,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2020,12,100,1143,281,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2020,11,69,232,102,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2020,11,60,457,98,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2020,12,89,604,211,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2020,11,53,146,80,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2020,46,60,708,115,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2020,11,53,452,95,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2020,12,115,356,144,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2020,12,103,333,145,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2020,10,79,291,96,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2020,12,58,725,275,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2020,10,54,516,109,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2020,12,60,851,104,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2020,11,16,440,46,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2020,12,117,321,157,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2020,12,106,342,146,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2020,12,95,772,112,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2019,12,89,846,217,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2019,9,78,653,152,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2019,11,85,679,165,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2019,10,35,263,140,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2019,12,62,721,157,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2019,11,88,478,184,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2019,11,72,164,97,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2019,11,52,299,104,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2019,11,56,702,147,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2019,10,15,345,25,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2019,13,81,675,183,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2019,11,93,1200,190,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2019,11,100,982,310,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2019,10,69,356,113,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2019,11,62,1056,157,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2019,12,98,855,226,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2019,10,47,200,93,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2019,49,60,762,144,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2019,9,60,609,203,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2019,12,72,482,166,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2019,10,71,280,154,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2019,10,64,444,103,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2019,11,95,483,228,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2019,11,80,487,149,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2019,12,81,830,155,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2019,11,17,471,44,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2019,9,116,859,177,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2019,4,70,149,122,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2019,8,92,599,129,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2018,10,73,506,149,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2018,10,74,646,155,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2018,12,83,308,171,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2018,12,91,329,152,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2018,10,60,277,160,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2018,11,77,384,154,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2018,12,77,162,101,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2018,12,60,784,135,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2018,12,98,250,153,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2018,9,13,289,32,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2018,12,66,374,177,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2018,10,86,248,116,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2018,9,91,445,170,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2018,12,91,238,146,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2018,12,81,646,159,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2018,10,55,589,206,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2018,12,58,130,107,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2018,51,85,524,158,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2018,10,57,572,161,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2018,12,99,334,207,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2018,10,60,324,165,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2018,12,93,346,160,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2018,10,92,567,229,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2018,12,94,411,160,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2018,12,52,828,129,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2018,12,15,584,85,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2018,11,68,285,194,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2018,5,149,338,269,Des Plaines River,-9782918.22214516,5121485.94585754
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2017,11,64,333,184,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2017,12,62,477,123,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2017,12,56,242,113,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2017,11,61,242,120,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2017,12,75,241,151,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2017,12,109,366,157,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2017,11,63,138,104,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2017,12,41,344,107,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2017,11,69,173,105,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2017,11,13,134,28,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2017,12,114,312,148,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2017,11,69,214,140,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2017,3,131,325,141,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2017,11,63,187,110,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2017,12,70,245,120,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2017,10,81,352,193,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2017,11,42,153,82,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2017,46,76,446,130,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2017,12,47,573,118,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2017,12,93,279,163,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,Higgins Creek at Oakton Street,Chloride,mg/L,2017,7,12,527,132,Higgins Creek,-9790431.138942767,5164381.759368491
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2017,12,100,269,161,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2017,11,68,184,118,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2017,11,1,388,183,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2017,12,55,327,122,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2017,11,58,174,116,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2017,12,14,424,47,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2017,12,114,253,163,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2017,11,109,265,151,Des Plaines River,-9782918.22214516,5121485.94585754
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2016,12,159,489,227,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2016,9,84,330,114,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2016,12,113,427,154,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2016,10,53,284,182,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2016,12,121,329,192,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2016,12,126,520,205,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2016,10,21,136,94,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2016,11,64,319,96,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2016,11,62,223,118,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2016,10,14,278,30,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2016,12,42,399,173,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2016,12,99,324,172,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2016,10,76,201,129,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2016,12,45,386,118,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2016,9,142,712,185,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2016,10,46,107,66,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2016,49,71,343,133,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2016,12,65,306,111,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2016,12,109,440,208,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,Higgins Creek at Oakton Street,Chloride,mg/L,2016,8,33,587,164,Higgins Creek,-9790431.138942767,5164381.759368491
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2016,12,121,403,203,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2016,11,59,231,129,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2016,11,155,782,199,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2016,12,89,316,124,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2016,12,77,238,110,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2016,11,17,253,65,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2016,11,101,433,171,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2016,11,110,434,184,Des Plaines River,-9782918.22214516,5121485.94585754
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2015,9,134,308,247,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2015,10,93,506,124,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2015,12,116,360,195,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2015,10,86,495,201,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2015,11,134,444,218,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2015,10,147,540,224,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2015,11,108,178,149,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2015,12,68,729,146,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2015,10,109,248,160,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2015,9,13,149,16,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2015,11,92,547,232,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2015,12,106,1055,160,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2015,10,105,266,156,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2015,12,97,483,150,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2015,9,158,845,298,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2015,9,62,176,90,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2015,51,79,794,168,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2015,11,78,443,132,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2015,12,155,464,267,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2015,10,150,511,208,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2015,11,100,310,161,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2015,9,158,711,273,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2015,10,98,546,144,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2015,12,75,777,143,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2015,12,14,406,56,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2015,10,132,406,211,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2015,9,131,399,206,Des Plaines River,-9782918.22214516,5121485.94585754
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2014,11,187,894,295,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2014,11,80,519,116,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2014,11,130,422,175,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2014,11,58,280,183,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2014,10,175,495,198,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2014,9,168,475,201,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2014,10,59,120,107,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2014,11,69,547,115,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2014,11,68,334,145,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2014,9,15,391,24,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2014,11,160,759,197,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2014,12,119,560,151,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2014,4,214,1025,525,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2014,12,103,385,141,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2014,11,110,601,143,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2014,9,215,747,302,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2014,10,47,199,121,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2014,51,73,866,148,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2014,12,50,469,143,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2014,10,141,477,201,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2014,9,170,366,196,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2014,11,72,377,156,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2014,8,156,615,284,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2014,11,106,550,144,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2014,12,80,480,132,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2014,11,16,370,72,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2014,12,145,363,242,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2014,9,165,380,201,Des Plaines River,-9782918.22214516,5121485.94585754
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2013,12,23,635,222,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2013,10,57,473,95,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2013,12,85,565,135,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2013,10,89,467,127,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2013,12,110,549,175,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2013,11,106,717,169,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2013,9,35,175,125,Grand Calumet River,-9744810.951107476,5105915.20396417
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2013,12,61,403,106,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2013,11,71,240,118,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2013,10,13,539,24,North Shore Channel,-9763803.492506059,5167131.2098396
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2013,12,139,595,176,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2013,12,78,453,127,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2013,4,81,815,304,Higgins Creek,-9789503.463971145,5164194.269628853
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2013,11,62,327,132,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2013,12,81,313,128,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2013,8,120,519,193,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2013,8,35,220,68,Little Calumet River,-9753472.181457821,5108772.571885121
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2013,51,72,679,130,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2013,12,52,376,125,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2013,12,96,677,174,Des Plaines River,-9803757.593335949,5100729.017568359
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2013,12,115,642,172,Des Plaines River,-9775033.160497827,5134155.08934849
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2013,11,77,246,117,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2013,8,99,485,210,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2013,12,86,323,143,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2013,11,44,294,108,North Shore Channel,-9763880.193364626,5162772.158302309
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2013,12,35,349,76,Chicago River,-9755339.676982595,5144145.544547021
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2013,12,107,502,160,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2013,11,107,648,172,Des Plaines River,-9782918.22214516,5121485.94585754
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2012,7,47,172,152,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2012,6,154,340,216,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2012,12,129,755,236,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2012,12,67,670,96,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2012,12,107,340,147,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2012,7,125,391,296,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2012,11,80,323,146,Little Calumet River,-9758345.734333793,5108959.791525536
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2012,7,78,333,165,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2012,12,149,242,180,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2012,12,105,503,173,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2012,7,93,128,99,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2012,11,24,219,118,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2012,5,13,336,78,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2012,12,50,618,107,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2012,10,78,386,138,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2012,7,71,556,165,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster St.,North Shore Channel at Dempster Street,Chloride,mg/L,2012,5,53,179,172,North Shore Channel,-9763803.492506059,5167131.2098396
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2012,7,156,866,364,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2012,12,97,410,153,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2012,12,82,329,115,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2012,5,193,1255,383,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2012,8,36,548,274,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2012,6,14,98,27,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2012,7,79,595,148,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2012,7,169,318,241,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2012,7,146,579,276,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2012,7,84,1004,380,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2012,7,82,412,178,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2012,11,78,302,127,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2012,12,74,497,114,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2012,11,224,511,322,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2012,10,47,190,85,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2012,7,141,292,178,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2012,6,14,375,160,Chicago River,-9753112.184339533,5144283.186382862
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2012,6,79,675,270,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2012,4,238,393,331,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2012,7,150,211,180,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2012,6,236,401,281,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2012,51,85,410,128,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2012,12,52,415,96,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2012,6,61,310,186,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2012,12,157,340,195,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2012,7,14,405,153,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2012,7,163,226,209,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2012,12,135,319,183,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2012,7,142,256,187,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2012,7,184,403,293,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2012,11,49,299,125,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2012,7,97,444,171,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2012,11,162,475,308,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2012,7,166,342,208,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2012,12,92,375,130,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2012,12,69,576,88,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2012,7,113,241,155,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2012,11,27,298,85,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2012,7,105,180,159,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2012,11,88,285,156,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2012,12,134,335,189,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2012,6,90,612,164,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2012,7,128,384,221,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2011,10,33,193,91,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2011,10,55,280,127,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2011,11,116,479,221,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2011,12,63,349,137,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Dr.,West Branch DuPage River at Arlington Drive,Chloride,mg/L,2011,12,111,395,146,West Branch DuPage River,-9811547.219382191,5157233.888994125
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2011,11,131,832,188,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2011,11,64,415,150,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2011,10,59,441,125,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2011,11,94,438,179,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2011,11,121,715,185,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2011,11,79,109,90,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2011,10,18,83,64,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2011,8,7,279,14,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2011,12,53,479,129,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2011,11,63,474,137,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2011,12,58,440,137,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2011,11,75,452,209,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2011,11,133,822,180,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2011,12,72,429,144,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2011,10,131,2076,419,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2011,5,153,461,208,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2011,6,7,99,44,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2011,12,58,1058,139,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2011,12,85,397,169,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2011,12,68,592,177,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2011,11,94,1116,291,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2011,12,85,364,147,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2011,11,62,366,157,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2011,12,87,479,145,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2011,10,154,715,243,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2011,10,34,214,116,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2011,10,77,234,142,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2011,12,11,599,56,Chicago River,-9753112.184339533,5144283.186382862
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2011,10,55,421,194,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2011,9,73,438,279,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2011,9,124,454,188,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2011,11,93,339,161,Des Plaines River,-9786103.272410415,5183885.200209065
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2011,51,95,566,143,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2011,12,57,414,137,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2011,6,145,395,245,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2011,11,102,479,172,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2011,12,12,382,127,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2011,11,96,397,172,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2011,11,99,489,180,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2011,11,91,470,182,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2011,11,133,517,192,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2011,12,91,478,170,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2011,11,73,425,121,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2011,10,119,571,254,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2011,11,101,487,174,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2011,12,95,413,154,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2011,12,66,1134,127,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2011,12,113,449,169,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2011,12,23,392,124,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2011,10,44,158,96,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2011,11,145,492,185,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2011,11,101,498,184,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2011,12,77,915,142,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2011,11,120,720,202,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2010,10,22,171,63,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2010,11,60,715,152,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2010,11,132,707,222,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2010,10,68,314,164,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2010,12,124,706,190,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2010,10,60,302,147,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2010,10,77,553,137,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2010,11,105,568,168,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2010,11,119,865,194,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2010,11,75,126,82,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2010,7,19,133,81,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2010,8,6,82,13,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2010,12,61,298,122,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2010,10,66,321,124,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2010,12,67,482,124,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2010,8,166,667,280,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2010,10,131,728,321,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2010,12,70,362,171,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2010,9,106,1038,248,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2010,1,583,583,583,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2010,6,10,88,25,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2010,12,64,575,141,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2010,12,130,483,188,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2010,9,116,529,272,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2010,10,161,915,244,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2010,12,74,357,139,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2010,10,56,335,138,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2010,9,92,284,195,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2010,8,153,394,253,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2010,10,27,235,67,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2010,9,91,678,144,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2010,11,11,308,19,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2010,6,144,790,257,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2010,9,72,677,190,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2010,9,156,665,220,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2010,11,108,379,164,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2010,7,104,814,291,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2010,50,88,554,123,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2010,11,60,457,148,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2010,12,57,525,114,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2010,12,97,859,174,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2010,11,1,287,84,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2010,11,107,502,171,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2010,12,106,697,190,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2010,11,105,621,171,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2010,10,135,761,188,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2010,11,65,447,122,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2010,12,89,509,128,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2010,8,133,395,221,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2010,12,102,813,179,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2010,12,86,537,137,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2010,11,61,504,104,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2010,12,84,458,139,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2010,12,17,453,71,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2010,11,40,362,90,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2010,9,127,463,179,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2010,11,104,747,170,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2010,12,69,584,173,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2010,10,121,796,311,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2009,9,25,199,68,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2009,9,123,295,141,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2009,12,148,510,230,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2009,11,52,307,112,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2009,12,123,440,202,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2009,9,67,189,134,Little Calumet River,-9758345.734333793,5108959.791525536
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2009,11,57,318,139,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2009,12,105,275,173,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2009,11,117,401,172,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2009,10,57,91,81,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2009,5,131,173,148,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2009,9,12,133,18,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2009,10,59,260,135,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2009,12,50,355,121,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2009,11,51,357,119,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2009,12,141,477,184,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2009,11,118,435,168,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2009,12,78,1035,161,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2009,11,151,764,349,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2009,4,107,530,292,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2009,7,14,75,31,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2009,12,47,681,174,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2009,12,132,418,188,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2009,12,132,422,185,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2009,11,127,693,261,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2009,12,76,552,172,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2009,11,58,311,144,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2009,12,63,374,159,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2009,8,157,387,259,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2009,8,26,184,94,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2009,9,96,236,136,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2009,9,14,163,17,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2009,12,102,332,149,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2009,10,132,388,178,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2009,10,114,345,170,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2009,12,92,219,148,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2009,9,123,310,191,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2009,51,72,372,144,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2009,12,49,327,140,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2009,11,51,361,120,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2009,12,109,310,170,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2009,11,12,269,105,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2009,11,104,193,162,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2009,11,116,257,166,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2009,11,106,238,161,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2009,11,128,359,186,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2009,10,57,265,131,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2009,10,90,343,138,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2009,9,107,779,202,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2009,11,117,299,163,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2009,10,81,323,124,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2009,10,49,557,179,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2009,12,101,413,120,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2009,11,15,242,64,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2009,10,53,182,107,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2009,12,130,572,186,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2009,11,119,277,167,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2009,12,78,706,170,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2009,12,126,424,199,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2008,9,22,223,51,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2008,11,77,340,182,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2008,12,117,1103,236,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2008,12,61,412,170,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2008,12,134,1096,235,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2008,12,64,532,176,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2008,10,57,296,185,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2008,12,170,686,196,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2008,11,145,761,250,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2008,12,56,86,65,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2008,10,93,185,133,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2008,9,12,376,19,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2008,12,47,487,170,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2008,11,69,343,169,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2008,12,53,462,143,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2008,11,129,523,197,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2008,12,138,966,241,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2008,12,100,631,160,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2008,11,222,665,282,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2008,5,235,1073,452,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2008,9,12,67,30,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2008,12,78,443,140,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2008,12,109,728,181,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2008,12,101,829,205,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2008,10,170,708,241,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2008,12,109,916,159,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2008,12,55,476,170,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2008,12,82,378,175,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2008,9,114,920,321,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2008,9,23,217,83,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2008,9,111,285,160,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2008,10,13,199,38,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2008,12,100,583,169,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2008,12,138,408,182,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2008,11,146,868,286,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2008,10,68,612,215,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2008,10,127,603,270,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2008,51,50,867,162,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2008,11,52,453,149,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2008,12,47,438,134,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2008,12,105,654,193,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2008,11,12,468,37,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2008,11,161,448,190,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2008,11,162,597,195,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2008,12,165,623,195,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2008,11,128,632,245,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2008,12,69,517,169,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2008,10,63,330,153,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2008,11,64,924,243,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2008,12,24,696,198,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2008,12,57,412,167,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2008,12,71,407,135,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2008,12,89,542,151,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2008,12,14,449,105,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2008,10,41,189,162,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2008,12,143,610,188,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2008,11,150,603,208,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2008,12,89,554,166,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2008,12,136,792,252,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2007,10,34,175,53,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2007,11,43,327,145,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2007,11,153,506,267,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2007,11,52,726,79,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2007,12,129,538,215,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2007,11,40,429,137,Little Calumet River,-9758345.734333793,5108959.791525536
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2007,11,65,571,108,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2007,11,85,408,178,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2007,11,97,659,226,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2007,11,44,119,62,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2007,10,103,196,132,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2007,9,13,265,17,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2007,12,50,960,129,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2007,11,65,620,120,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2007,12,48,758,115,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2007,11,131,560,286,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2007,12,131,736,222,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2007,12,90,412,150,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2007,4,235,473,239,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2007,5,54,422,282,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2007,10,15,109,35,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2007,12,85,812,128,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2007,11,120,476,214,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2007,11,142,576,237,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2007,10,165,554,300,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2007,11,97,567,143,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2007,11,79,689,116,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2007,12,86,1154,133,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2007,10,114,549,369,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2007,9,36,242,81,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2007,10,97,406,142,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2007,11,14,383,19,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2007,12,94,1013,162,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2007,10,152,438,269,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2007,10,161,460,254,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2007,9,117,638,250,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2007,12,74,311,176,Des Plaines River,-9786103.272410415,5183885.200209065
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2007,51,85,669,137,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2007,12,51,656,115,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2007,11,45,506,83,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2007,11,87,519,190,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2007,12,14,495,54,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2007,11,79,365,183,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2007,11,89,482,184,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2007,11,84,429,179,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2007,11,115,508,294,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2007,11,50,562,122,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2007,11,77,424,121,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2007,10,110,526,241,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2007,11,91,730,167,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2007,11,68,325,127,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2007,12,80,657,121,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2007,12,96,485,130,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2007,11,13,504,50,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2007,11,33,207,127,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2007,12,103,562,202,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2007,11,90,533,189,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2007,12,96,824,146,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2007,11,110,657,234,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2006,11,30,135,76,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2006,11,124,314,158,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2006,12,118,526,217,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2006,7,47,227,65,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2006,12,124,562,216,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2006,11,109,351,150,Little Calumet River,-9758345.734333793,5108959.791525536
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2006,11,78,440,136,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2006,12,136,545,203,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2006,12,106,553,194,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2006,10,43,51,46,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2006,11,119,223,150,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2006,9,13,144,15,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2006,11,5,428,137,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2006,12,45,339,94,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2006,12,48,290,113,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2006,12,94,520,216,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2006,12,127,541,213,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2006,12,68,212,135,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2006,5,89,662,310,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2006,7,104,2097,295,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2006,11,15,80,42,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2006,12,72,319,114,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2006,12,96,393,180,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2006,12,32,543,186,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2006,12,117,809,278,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2006,12,69,250,139,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2006,11,72,390,135,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2006,12,70,240,132,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2006,9,171,560,263,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2006,11,28,150,104,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2006,9,141,277,181,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2006,11,13,149,35,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2006,12,99,435,176,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2006,11,101,519,241,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2006,12,57,327,226,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2006,12,125,407,192,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2006,9,134,482,206,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2006,51,80,306,142,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2006,12,56,284,114,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2006,12,43,234,120,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2006,12,144,575,209,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2006,12,13,186,78,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2006,12,133,522,202,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2006,12,136,551,184,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2006,12,115,534,195,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2006,12,109,585,228,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2006,11,76,310,133,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2006,12,69,254,143,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2006,11,106,2355,227,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2006,12,145,548,194,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2006,12,77,257,136,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2006,12,60,184,112,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2006,12,94,502,154,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2006,13,&lt RL,217,63,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2006,11,82,159,116,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2006,12,135,414,181,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2006,12,145,521,185,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2006,12,78,215,142,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2006,12,111,474,195,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2005,11,25,149,55,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2005,11,105,462,209,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2005,11,171,728,316,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2005,10,39,288,109,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2005,12,114,692,266,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2005,12,68,401,142,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2005,11,76,506,186,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2005,12,140,314,238,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2005,12,85,531,238,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2005,12,48,69,61,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2005,10,53,185,159,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2005,8,12,177,12,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2005,12,35,312,106,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2005,12,66,324,143,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2005,12,35,306,110,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2005,11,147,694,297,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2005,12,113,669,245,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2005,12,67,421,116,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2005,4,180,850,397,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2005,4,251,802,430,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2005,11,12,81,26,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2005,12,62,574,94,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2005,12,113,435,217,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2005,12,127,500,238,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2005,10,180,1346,466,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2005,12,69,553,119,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2005,12,60,467,139,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2005,12,56,320,122,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2005,9,162,856,371,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2005,9,27,176,59,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2005,8,68,394,202,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2005,10,13,250,20,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2005,12,100,500,170,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2005,12,139,405,213,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2005,7,265,521,347,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2005,11,113,553,310,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2005,10,190,467,303,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2005,52,3,671,142,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2005,10,35,295,140,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2005,12,49,344,110,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2005,12,90,546,207,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2005,12,12,394,49,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2005,12,147,567,227,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2005,12,98,516,242,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2005,12,130,590,242,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2005,11,74,560,309,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2005,11,75,395,112,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2005,11,1,274,133,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2005,11,57,641,325,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2005,12,104,574,211,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2005,11,83,307,119,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2005,12,54,455,91,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2005,12,97,406,143,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2005,12,16,286,65,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2005,11,27,244,147,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2005,12,136,528,167,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2005,12,124,535,244,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2005,12,67,643,113,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2005,12,109,520,237,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2004,10,24,138,52,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2004,11,104,427,195,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2004,11,108,372,180,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2004,12,44,354,107,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2004,12,115,576,168,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2004,10,88,478,183,Little Calumet River,-9758345.734333793,5108959.791525536
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2004,12,62,437,116,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2004,11,102,426,181,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2004,11,122,648,184,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2004,12,43,64,56,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2004,9,98,172,143,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2004,9,0,66,21,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2004,12,37,468,110,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2004,12,63,500,116,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2004,12,39,333,112,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2004,12,132,1273,195,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2004,13,106,586,186,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2004,12,74,667,152,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2004,8,218,1563,406,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2004,6,153,1112,521,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2004,10,13,65,28,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2004,12,0,356,128,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2004,12,113,408,157,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2004,12,106,893,176,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2004,10,142,492,213,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2004,12,70,857,153,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2004,12,66,396,120,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2004,12,75,320,135,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2004,11,205,728,282,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2004,9,22,192,58,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2004,7,99,457,200,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2004,9,12,211,29,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2004,13,51,503,141,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2004,10,130,357,195,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2004,10,122,319,187,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2004,7,122,432,259,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2004,11,87,292,175,Des Plaines River,-9786103.272410415,5183885.200209065
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2004,53,66,783,139,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2004,12,36,320,114,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2004,12,35,293,115,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2004,11,109,524,178,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2004,11,94,375,179,Des Plaines River,-9782189.77125312,5164756.208222484
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2004,12,13,309,64,North Shore Channel,-9763838.713194087,5164984.791142569
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2004,11,111,491,177,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2004,11,101,427,176,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2004,12,98,499,186,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2004,12,73,759,128,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2004,10,78,376,126,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,Chloride,mg/L,2004,11,66,949,235,West Branch Du Page River,-9809372.143319122,5162219.006850576
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2004,11,112,515,175,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2004,12,73,470,126,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2004,12,59,583,126,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2004,12,63,512,144,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2004,12,12,239,84,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2004,9,59,236,175,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2004,11,122,263,193,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2004,11,115,496,184,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2004,12,71,504,155,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2004,11,128,621,175,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2003,10,25,114,55,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2003,10,58,439,226,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2003,10,155,436,181,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2003,12,36,387,118,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2003,12,106,637,194,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2003,10,73,403,193,Little Calumet River,-9758345.734333793,5108959.791525536
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2003,13,47,269,168,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2003,12,99,832,179,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2003,10,100,563,148,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2003,12,28,50,45,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2003,10,63,247,184,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2003,9,11,189,15,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2003,11,65,278,138,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2003,13,43,510,115,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,Chloride,mg/L,2003,12,37,386,123,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2003,11,146,410,165,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2003,12,103,701,211,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2003,12,77,711,118,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2003,3,137,235,173,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2003,6,&lt RL,1283,186,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2003,11,12,75,31,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2003,12,49,393,95,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2003,12,122,328,163,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2003,3,145,340,161,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2003,8,185,640,220,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2003,12,67,640,134,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2003,11,71,215,113,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2003,13,66,343,133,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2003,9,94,571,214,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2003,11,28,173,81,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2003,3,71,130,83,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2003,10,11,396,18,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2003,12,91,474,151,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2003,9,141,488,188,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2003,9,147,425,191,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2003,12,110,307,184,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2003,8,142,536,201,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2003,53,29,550,145,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2003,12,35,421,119,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2003,11,33,395,116,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2003,11,72,401,161,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2003,10,12,285,58,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2003,10,119,338,174,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2003,5,84,434,301,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2003,7,104,310,159,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2003,10,85,440,174,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2003,12,1,279,115,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2003,13,78,407,134,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2003,11,112,434,174,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2003,13,86,382,136,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2003,12,52,640,98,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2003,11,102,592,131,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2003,12,11,412,83,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2003,10,53,290,193,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2003,12,126,609,175,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2003,10,112,433,160,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2003,12,69,570,122,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2003,12,61,627,196,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2002,12,23,132,54,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2002,12,137,268,191,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2002,12,113,592,159,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2002,12,49,262,88,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2002,10,93,443,143,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2002,12,80,209,154,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2002,12,66,268,170,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2002,12,93,674,167,Des Plaines River,-9779371.53102385,5151588.097147647
+Brookfield Avenue,Salt Creek at Brookfield Avenue,Chloride,mg/L,2002,6,74,205,124,Salt Creek,-9778479.118246686,5134478.740255858
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2002,12,28,58,43,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2002,11,44,360,219,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2002,9,11,273,16,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2002,12,51,269,98,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2002,12,74,234,147,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2002,12,108,432,144,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2002,10,93,457,127,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2002,12,65,281,114,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2002,6,160,518,235,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2002,6,65,1481,249,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2002,12,14,78,43,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2002,12,66,211,94,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2002,12,95,389,124,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2002,9,101,359,121,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2002,11,110,564,173,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2002,12,71,282,113,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2002,12,66,183,132,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2002,12,45,247,124,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2002,8,93,575,242,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2002,12,23,254,89,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2002,7,152,219,191,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2002,12,13,201,29,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2002,12,80,598,130,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2002,12,104,374,163,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2002,7,94,327,172,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2002,10,100,319,155,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2002,10,111,292,166,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2002,51,69,481,118,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2002,12,50,273,93,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2002,12,22,237,61,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2002,12,90,783,174,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2002,11,11,307,70,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2002,11,101,534,176,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2002,12,81,875,175,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2002,12,94,802,172,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2002,9,92,652,152,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2002,12,41,259,126,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2002,12,65,239,122,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2002,12,79,256,162,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2002,12,102,773,167,Des Plaines River,-9796385.089554068,5113414.579669373
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2002,12,55,194,91,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2002,12,83,619,116,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2002,12,12,283,59,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2002,11,104,259,195,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2002,12,62,831,184,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2002,10,103,599,179,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2002,12,71,280,103,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2002,12,99,847,168,Salt Creek,-9785016.345950183,5134927.534095098
+130th Street,Calumet River at 130th Street,Chloride,mg/L,2001,10,31,179,77,Calumet River,-9748530.69045206,5110104.230203494
+170th Street,Thorn Creek at 170th Street,Chloride,mg/L,2001,10,76,230,163,Thorn Creek,-9748874.28283881,5099238.777878965
+Albany Avenue,North Branch Chicago River at Albany Avenue,Chloride,mg/L,2001,10,117,490,148,North Branch Chicago River,-9764088.462110577,5156857.124687181
+Archer Avenue,Bubbly Creek at Archer Avenue,Chloride,mg/L,2001,10,48,245,95,Bubbly Creek,-9758696.948071491,5136817.240627698
+Arlington Heights Road,Salt Creek at Arlington Heights Road,Chloride,mg/L,2001,10,113,340,145,Salt Creek,-9796254.99295483,5162818.28541295
+Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,Chloride,mg/L,2001,10,79,234,144,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+Ashland Avenue,Little Calumet River at Ashland Avenue,Chloride,mg/L,2001,9,88,242,148,Little Calumet River,-9758345.734333793,5108959.791525536
+Belmont Avenue,Des Plaines River at Belmont Avenue,Chloride,mg/L,2001,10,104,225,164,Des Plaines River,-9779371.53102385,5151588.097147647
+Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,Chloride,mg/L,2001,9,39,51,49,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+Burnham Avenue,Grand Calumet River at Burnham Avenue,Chloride,mg/L,2001,9,121,254,166,Grand Calumet River,-9744810.951107476,5105915.20396417
+Central Street,North Shore Channel at Central Street,Chloride,mg/L,2001,9,12,22,15,North Shore Channel,-9761286.946422856,5170628.6171330195
+Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,Chloride,mg/L,2001,10,45,256,88,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,Chloride,mg/L,2001,10,63,250,147,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+Dempster Street,North Branch Chicago River at Dempster Street,Chloride,mg/L,2001,10,33,389,158,North Branch Chicago River,-9772519.197048591,5167261.607014383
+Devon Avenue,Salt Creek at Devon Avenue,Chloride,mg/L,2001,10,116,354,146,Salt Creek,-9795587.075606022,5159923.790866642
+Diversey Parkway,North Branch Chicago River at Diversey Parkway,Chloride,mg/L,2001,10,98,312,122,North Branch Chicago River,-9760793.273420712,5150867.342273781
+Dundee Road,West Fork North Branch Chicago River at Dundee Road,Chloride,mg/L,2001,5,175,592,312,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+Elmhurst Road,Higgins Creek at Elmhurst Road,Chloride,mg/L,2001,9,167,701,285,Higgins Creek,-9789503.463971145,5164194.269628853
+Ewing Avenue,Calumet River at Ewing Avenue,Chloride,mg/L,2001,10,16,135,60,Calumet River,-9745075.86152176,5120263.120285954
+Foster Avenue,North Shore Channel at Foster Avenue,Chloride,mg/L,2001,10,81,188,114,North Shore Channel,-9763248.504184216,5157380.484896455
+Frontage Road,Skokie River at Frontage Road,Chloride,mg/L,2001,10,95,303,145,Skokie River,-9769467.187323028,5174142.560835846
+Glenview Road,North Branch Chicago River at Glenview Road,Chloride,mg/L,2001,10,103,333,148,North Branch Chicago River,-9770990.71844705,5171319.185344051
+Golf Road,West Fork North Branch Chicago River at Golf Road,Chloride,mg/L,2001,10,128,479,187,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+Grand Avenue,North Branch Chicago River at Grand Avenue,Chloride,mg/L,2001,10,90,199,125,North Branch Chicago River,-9756156.248665709,5144758.297382973
+Halsted Street,Little Calumet River at Halsted Street,Chloride,mg/L,2001,10,86,234,139,Little Calumet River,-9756147.689317683,5109826.122291395
+Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,Chloride,mg/L,2001,10,83,291,106,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+Higgins Road,Salt Creek at Higgins Road,Chloride,mg/L,2001,10,135,614,296,Salt Creek,-9797375.60963822,5165675.359292448
+Indiana Avenue,Little Calumet River at Indiana Avenue,Chloride,mg/L,2001,8,35,181,90,Little Calumet River,-9753472.181457821,5108772.571885121
+Joe Orr Road,Thorn Creek at Joe Orr Road,Chloride,mg/L,2001,10,93,226,172,Thorn Creek,-9754419.852949658,5089457.720876058
+Lake Shore Drive,Chicago River at Lake Shore Drive,Chloride,mg/L,2001,10,13,201,25,Chicago River,-9753112.184339533,5144283.186382862
+Lake Street,West Branch Du Page River at Lake Street,Chloride,mg/L,2001,10,103,242,125,West Branch Du Page River,-9810939.89297938,5157781.364521299
+Lake-Cook Road,Skokie River at Lake-Cook Road,Chloride,mg/L,2001,10,81,448,176,Skokie River,-9773171.65434657,5183881.030230567
+Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,Chloride,mg/L,2001,10,108,343,167,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+Lake-Cook Road,Des Plaines River at Lake-Cook Road,Chloride,mg/L,2001,10,95,182,150,Des Plaines River,-9786103.272410415,5183885.200209065
+Lake-Cook Road,Buffalo Creek at Lake-Cook Road,Chloride,mg/L,2001,9,99,608,195,Buffalo Creek,-9792683.493154097,5183751.728609537
+Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,Chloride,mg/L,2001,45,70,389,127,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+Loomis Street,South Branch Chicago River at Loomis Street,Chloride,mg/L,2001,9,55,205,83,South Branch Chicago River,-9758326.630046986,5137947.951214144
+Madison Street,South Branch Chicago River at Madison Street,Chloride,mg/L,2001,10,58,416,85,South Branch Chicago River,-9755836.894673718,5143332.001117509
+Material Service Road,Des Plaines River at Material Service Road,Chloride,mg/L,2001,45,72,358,145,Des Plaines River,-9803757.593335949,5100729.017568359
+Oakton Street,North Shore Channel at Oakton Street,Chloride,mg/L,2001,10,13,97,18,North Shore Channel,-9763838.713194087,5164984.791142569
+Oakton Street,Des Plaines River at Oakton Street,Chloride,mg/L,2001,10,100,203,157,Des Plaines River,-9782189.77125312,5164756.208222484
+Ogden Avenue,Des Plaines River at Ogden Avenue,Chloride,mg/L,2001,10,105,260,170,Des Plaines River,-9775033.160497827,5134155.08934849
+Roosevelt Road,Des Plaines River at Roosevelt Road,Chloride,mg/L,2001,10,99,235,159,Des Plaines River,-9776892.815460142,5140724.864266957
+Route 19,Poplar Creek at Route 19,Chloride,mg/L,2001,10,118,308,229,Poplar Creek,-9823047.74711789,5165577.94301833
+Route 83,Chicago Sanitary and Ship Canal at Route 83,Chloride,mg/L,2001,10,72,487,115,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+Route 83,Calumet-Sag Channel at Route 83,Chloride,mg/L,2001,10,74,258,137,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+Stephen Street,Des Plaines River at Stephen Street,Chloride,mg/L,2001,10,105,248,164,Des Plaines River,-9796385.089554068,5113414.579669373
+Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,Chloride,mg/L,2001,10,80,514,131,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+Touhy Avenue,North Shore Channel at Touhy Avenue,Chloride,mg/L,2001,10,81,161,105,North Shore Channel,-9763880.193364626,5162772.158302309
+Walnut Street,West Branch Du Page River at Walnut Street,Chloride,mg/L,2001,10,101,197,114,West Branch Du Page River,-9811290.549648687,5160344.011074602
+Wells Street,Chicago River at Wells Street,Chloride,mg/L,2001,7,13,260,73,Chicago River,-9755339.676982595,5144145.544547021
+Wentworth Avenue,Little Calumet River at Wentworth Avenue,Chloride,mg/L,2001,10,75,189,121,Little Calumet River,-9743762.861862704,5099049.677060608
+Wille Road,Higgins Creek at Wille Road,Chloride,mg/L,2001,10,143,261,178,Higgins Creek,-9789066.534741784,5163778.873133089
+Willow Springs Road,Des Plaines River at Willow Springs Road,Chloride,mg/L,2001,10,107,252,168,Des Plaines River,-9782918.22214516,5121485.94585754
+Wilson Avenue,North Branch Chicago River at Wilson Avenue,Chloride,mg/L,2001,10,88,261,122,North Branch Chicago River,-9762427.895694703,5155720.021993471
+Wolf Road,Salt Creek at Wolf Road,Chloride,mg/L,2001,10,116,350,175,Salt Creek,-9785016.345950183,5134927.534095098

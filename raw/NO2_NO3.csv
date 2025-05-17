@@ -1,0 +1,1093 @@
+﻿Station Number,Station Name,Station Description,Parameter Name,Parameter Description,Units of Measure,Year,Result Count,Result Average,Result Min,Result Max,Waterway,x,y
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,7,2.33,0.22,5.03,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,6.69,4.07,8.71,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,1.27,0.12,7.35,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.11,1.25,5.47,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.22,1.58,4.91,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.87,1.94,5.98,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,5,5.14,2.8,7.18,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,3.45,1.49,5.12,South Branch Chicago River,-9758326.630046986,5137947.951214144
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,0.39,0.18,0.79,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.99,2.44,8.11,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.17,2.34,6.36,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,7.59,2.97,10.83,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.83,2.61,4.72,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.61,2.44,4.27,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.87,2.82,5.11,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.7,2.86,4.71,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.83,2.31,8.89,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.53,2.24,5.1,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,0.3,0.23,0.42,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,0.41,0.22,0.54,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,2.58,0.03,4.6,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,0.28,0.16,0.39,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.89,4.07,7.4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,6.5,3.81,8.47,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.63,2.06,5.67,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,6.48,4.36,8.75,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.65,3.19,9.21,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.1,1.99,6.43,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.16,2.93,6.58,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.27,2.58,7.99,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,0.46,0.23,0.91,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,0.14,&lt RL,0.51,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.17,1.68,4.74,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,6.66,3.07,10.83,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,0.65,0.26,1.13,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,8,1.95,0.32,4.8,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,2.95,1.41,4.21,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.63,2.2,8.25,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.25,1.38,7.07,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,6.6,3.15,10.41,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.82,4.33,7.08,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,1.72,0.23,4.29,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,3.3,1.31,6.32,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.94,1.03,8.92,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,0.49,0.02,1.23,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,5.5,3.39,9.62,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,0.28,0,0.77,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,7.26,3.17,10.64,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,9,8.83,4.15,12.91,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,7.39,4.9,10.62,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,0.43,0.01,0.88,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,45,3.52,1.27,5.88,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,45,5.28,2.15,8.01,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,2.92,1.32,5.25,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,4.04,1.62,6.61,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2001,10,2.55,0.02,5.05,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,2.31,0.26,6.76,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,6.11,3.69,9.38,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,11,3.66,0.21,7.95,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,11,4.03,0.96,8.86,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,9,4.67,0.9,8.9,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.83,1.23,10.87,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,6,4,0.89,13.92,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.27,1.73,7.21,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,6,8.16,3.22,12.49,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,7,0.22,0.04,0.51,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,6.05,2.91,11.21,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,11,4.84,2.64,9.87,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,10,7.32,1.49,14.18,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.62,2.69,8.36,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.5,2.86,7.31,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.21,2.87,9.21,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,10,4.93,2.85,9.17,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,7.66,3.79,15.64,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.18,2.81,8.61,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,10,0.38,&lt RL,0.97,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,10,0.46,0.12,0.78,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.57,0.87,8.71,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,9,0.34,0.22,0.66,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.58,3.81,8.3,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.84,2.56,9.25,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.37,2.09,7.9,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,6.81,2.93,11.35,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,6.24,3.14,8.97,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.67,1.39,8.35,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.47,2.28,8.06,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.77,3.5,8.66,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,0.5,0.26,1.56,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,0.1,&lt RL,0.28,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,11,5.39,2.05,9.39,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,7,9.86,2.73,13.46,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,0.57,0.25,1.31,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,2.38,0.29,4.74,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.35,1.67,9.71,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.39,3.01,8.55,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.39,3.34,8.49,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,6.7,4.44,9.48,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.29,2.36,7.39,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,1.37,0.24,3.49,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.3,1.88,7.45,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.36,2.86,9.51,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,6,0.41,0.17,0.83,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,5.67,3.62,8.57,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,8,0.23,0.01,0.54,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,10,7.69,1.53,13.54,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,11,8.56,0.13,13.83,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,7.13,3.99,9.39,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,9,0.28,0.1,0.46,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.98,2.47,8.59,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,51,6.02,2.16,9.89,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,4.24,0.92,8.99,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,7.13,1.9,11.76,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2002,12,3.55,0.03,7,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,3.41,0.28,7.59,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.72,2.33,8.76,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,2.25,0.06,6.9,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,8,2.97,1.4,4.84,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,3,3.81,1.12,5.84,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.42,2.26,12.3,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,3,5.27,1.07,13.27,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.4,0.02,8.36,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,5.42,1.77,11.35,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,8,0.37,0.04,0.87,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.79,2.21,12.81,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,4.97,1.58,10.18,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,6.11,0.49,14.21,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.56,1.45,8.16,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,7,4.4,1.67,7.77,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,5,5.91,2.17,10.87,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,4.3,1.65,8.96,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.71,1.58,16.33,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,5.03,2.01,9.73,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,9,0.35,0.23,0.53,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,9,1.07,0.37,3.12,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,5.1,1.02,11.24,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,9,1,0.2,5.83,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,5.9,2.71,8.55,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.5,2.64,9.5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,5.19,1.7,8,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.73,1.84,8.25,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,7.84,5.29,13.81,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,7.17,4.71,11.73,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,3.77,&lt RL,10.27,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,5.86,3.6,7.51,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.36,3.53,10.09,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,0.32,&lt RL,0.53,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,13,0.08,&lt RL,0.22,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,3.78,&lt RL,7.52,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,4,5.76,&lt RL,17.37,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,0.44,&lt RL,0.75,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,1.63,&lt RL,6.39,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,3.65,&lt RL,6.7,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,13,4.22,&lt RL,9.49,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.1,&lt RL,9.5,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,7.32,1.92,13.6,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.02,3.43,8.02,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,1.37,0.22,5.96,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.49,1.89,7.97,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.19,&lt RL,8.87,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,5,0.55,0.23,0.9,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.85,0.24,9.01,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,9,0.45,0.07,1.15,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.22,0.59,14.12,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,5.38,&lt RL,10.6,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,7.58,1.94,13.08,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,0.61,0.15,2.46,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,11,4.94,2.12,9.38,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,53,6.13,&lt RL,12.69,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,10,4.24,1.01,9.75,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,6.53,&lt RL,12.75,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2003,12,4.52,1.71,8.23,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,2.52,0.18,5.46,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,5.93,3.26,9.2,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,1.97,0.21,7.67,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,2.86,1.53,5.15,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.79,1.38,8.93,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,5.74,1.89,11.15,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,8,9.95,2.92,14.48,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.76,1.78,7.82,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,5.78,2.13,9.58,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,1.22,0.12,5.02,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,7,0.32,0.02,0.72,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,6.53,1.81,14.15,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,5.46,1.74,12.61,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.4,1.96,11.7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,4.69,1.82,8.71,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,4.38,1.78,7.36,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,4.7,1.97,6.7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,4.67,1.94,8.75,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,6.54,2.67,11.17,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,4.69,1.99,8.72,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,0.31,0.09,0.87,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,0.77,0.09,2.58,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.23,1.36,7.57,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,9,0.35,0.12,0.8,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,5.37,3.19,7.88,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.26,2.6,8.99,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.68,1.39,6.91,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.64,1.79,7.28,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,7.64,4.74,11.23,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.93,3.69,9.84,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,4.38,1.8,7.95,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,5.36,2.46,8.92,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.27,3.35,10.35,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,0.36,0.24,0.52,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,0.11,0,0.33,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,9,3.57,1.05,7.26,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,7,7.33,3.13,12.15,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,0.53,0.24,0.92,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,9,1.36,0.25,3.59,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,10,3.06,1.75,5.05,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.51,2.25,8.78,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.58,1.87,9.95,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,8.83,4.8,13.82,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.5,3.01,8.93,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,9,1.5,0.16,4.62,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.63,1.55,7.12,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.79,2,8.57,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,6,0.47,0.14,0.76,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,5.42,4.09,8.06,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,0.25,0.01,0.71,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.01,1.84,10.49,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,9,5,0.46,8.95,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,9.43,4.85,13.51,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,0.34,0.11,0.78,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,11,4.39,1.87,7.92,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,52,5.74,2.3,9.38,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.57,1.22,9.84,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,6.12,2.13,11.03,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2004,12,4.17,1.33,7.37,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,2.22,0.45,4.97,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.98,3.45,9.14,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,2.43,0.19,6.18,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,10,3.88,0.92,7.08,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.93,0.17,9.87,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,7,0.07,11.15,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,4,7.14,1.47,15.61,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,10,4.35,1.87,7.98,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,6.98,2.5,14.11,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,0.69,0.1,1.69,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,7,0.36,0.06,0.96,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,7.69,3.63,15.06,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,6.43,2.95,12.75,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,8.19,1.5,15.62,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.93,3.56,12.31,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.49,3.53,11.28,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.79,3.22,12.27,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.69,1.99,11.33,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,8.12,2.42,15.5,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,6.04,3.49,10.18,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,10,0.24,0,0.81,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,3.41,0.18,13.05,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,5.06,1.63,8.85,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,8,0.23,0.19,0.33,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.24,3.47,7.83,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,6.29,2.98,9.54,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,4.37,2.44,8.57,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,4.22,1.82,7.34,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,7.67,3.85,11.5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,5.97,4.51,8.73,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,5.35,2.53,8.85,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.77,3.9,8.74,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,5.51,4.4,6.86,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,0.37,0.22,0.56,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,0.13,0.02,0.34,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,4.27,1.65,6.88,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,8,6.39,1.05,9.47,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,0.6,0.24,1.08,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,9,1.37,0.23,3.24,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,3.67,1.51,5.33,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.17,2.47,9.65,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.22,2.15,8.87,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,8.64,1.93,14.57,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,6.04,2.88,7.81,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,10,1.07,0.26,3.09,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,4.06,2.26,6.73,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,5.33,2.5,9.59,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,4,0.44,0.22,0.93,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,9.44,5.9,18.71,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,9,0.27,0.01,0.64,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,7.98,1.45,15.3,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,10,5.2,0.39,11.08,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,8.85,4.52,15.89,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,0.39,0.09,1.11,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,12,6.26,3.82,10.6,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,52,6.01,2.86,9.19,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,4.64,1.68,7.97,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,5.97,2.62,12.1,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2005,11,4.05,2.23,7.41,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,2.15,0.28,4.52,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,7.19,2.96,9.82,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.81,0.2,9.44,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.11,1.64,6.56,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.92,1.19,8.75,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,5.33,2.66,9.9,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,5,3.68,1.63,6.94,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.3,2.86,6.79,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,5.67,2.87,11.21,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,0.96,0.16,1.83,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,9,0.56,0.16,1.6,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.55,4.22,9.81,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,5.24,3.29,8.09,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.92,1.59,11.33,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.86,3.36,7.24,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.53,2.86,7.27,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.89,2.87,8.47,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.82,2.65,8.54,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.22,2.97,12.22,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,5.07,2.54,8.2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,0.42,0.24,0.76,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.15,0.36,16.26,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.73,2.01,7.43,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,9,0.34,0.21,0.62,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.01,3.21,8.22,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.94,3.05,10.04,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.02,1.94,7.63,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.25,2.55,6.39,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,7.41,3.76,11.39,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6,3.76,9.19,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,4.78,3.09,6.38,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.22,4.41,9.59,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,5.59,3.6,7.36,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,0.38,0.23,0.56,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,13,0.09,0.02,0.22,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,4.25,2.9,7.71,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,9,9.88,5.68,13.76,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,0.71,0.29,1.16,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,1.9,0.3,5.04,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,4.08,2.72,6.2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,5.66,3.23,9,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,5.31,3.04,8.04,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,8.38,4.05,13.84,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.4,3.27,9.32,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,1.04,0.22,2.91,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.84,2.49,5.87,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.14,2.79,9.31,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,7,0.57,0.15,0.9,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,5.46,3.19,9.21,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,9,0.26,0.02,0.66,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,6.77,1.66,11.57,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,4.68,0.22,11.66,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,8.57,3.46,13.1,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,0.53,0.18,1.16,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,4.86,2.54,7.97,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,51,5.9,3.14,11.11,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,12,3.83,2.23,6.25,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,11,5.32,3,8.8,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2006,7,3.67,2.43,6.08,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,2.29,0.25,6.32,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.58,4.6,11.64,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,3.33,0.18,9.32,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.49,1.24,11.34,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.52,1.23,10.13,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,5.58,1.38,12.25,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,4,4.63,1.22,10.33,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,4.39,2.26,6.86,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,5.56,2.4,11.41,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,0.62,0.2,1.3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,9,0.31,0.01,0.88,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,5.26,0.92,9.72,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.09,0.93,8.96,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.01,1.62,15.81,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.95,1.04,8.48,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.81,0.92,7.8,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.95,1.21,8.59,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.13,1.24,8.08,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,6.47,2.25,13.53,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.4,1.29,7.96,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,0.24,0.06,0.52,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,0.45,0.25,0.73,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.97,1.13,9.85,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,9,0.31,0.19,0.57,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,6.53,4.61,9.72,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.29,2.58,9.81,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.41,1.69,9.13,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,4.15,2.09,6.55,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.1,3.98,12.09,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,6.08,3.15,10.19,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.69,1.45,9.66,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,6.43,2.74,10.35,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,5.59,3.15,8.7,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,0.37,0.22,0.65,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,0.16,0.02,0.35,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.18,0.69,9.48,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,9.18,2.68,15.27,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,0.68,0.27,1.22,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,9,1.4,0.27,2.98,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.25,0.85,8.91,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.26,2.09,8.26,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.92,1.91,6.94,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.34,0.72,12.58,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,6.47,2.91,8.3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,1.31,0.22,3.64,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,4.5,2.64,7.62,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,5.16,2.61,9.9,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,5,0.4,0.15,0.53,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,5.83,3.1,9.23,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,0.23,&lt RL,0.67,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.1,1.95,16.68,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,10,1.81,0.05,6.73,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,12,7.98,0.6,13.46,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,0.29,0.13,0.62,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.28,1.23,8.55,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,51,5.45,2.49,10.05,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,4.07,1.11,10,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,5.49,0.95,13.38,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2007,11,3.9,1.27,6.8,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,2.6,0.12,5.38,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,7.23,3.72,11.81,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,2.72,0.22,10.72,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,2.12,0.76,3.52,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,3.31,0.82,8.88,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.03,1.26,10.5,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,5.9,0.19,15.04,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,4.41,0.1,7.78,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,6.2,3,13.01,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,0.6,0.02,1.53,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,0.34,0.06,0.79,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,5.7,2.19,13.9,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,4.52,1.86,11.76,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,8.69,1.98,19.84,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.58,1.96,9.03,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.47,2.18,8.53,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,4.8,2.48,9.85,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,4.88,2.54,9.53,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,7.06,3.02,13.79,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,5.05,2.51,9.07,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,0.79,0.07,4.86,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,0.62,0.2,1.23,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,3,1.12,7.9,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,9,0.28,0.23,0.43,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,6.76,2.96,10.49,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,6.26,2.78,10.72,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.31,0.12,7.6,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.22,0.12,7.77,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,7.25,0.31,14.84,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,6.33,0.16,10.82,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,4.48,2.52,7.62,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,5.7,2.94,9.47,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,5.64,0.12,9.39,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,9,0.39,0.24,0.63,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,0.12,0.02,0.28,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,4.85,0.79,8.33,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,9,10.15,6.91,14.3,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,9,0.65,0.23,1.16,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,9,1.25,0.24,2.88,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,4.22,0.93,8.53,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.84,1.82,8.5,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,5.02,2.2,8.6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,9.1,1.47,16.3,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,6.47,3.43,8.96,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,0.94,0.09,2.61,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.48,0.16,7.7,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,5.15,2.7,8.1,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,5,0.54,0.21,0.96,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,7.98,3.97,11.97,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,9,0.25,0.01,1.08,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,8.84,1.81,20.27,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,10,1.98,0.07,7.87,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,9.38,1.68,15.38,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,0.31,0.16,0.83,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,4.65,2.37,8.06,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,51,5.52,0.12,10.78,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,2.84,1.05,6.55,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,11,6.26,2.47,12.61,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2008,12,3.63,0.45,7.28,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,1.94,0.28,4.6,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,7.44,3.26,11.13,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,2.73,0.21,7.62,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.04,0.7,5.17,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,3.95,0.76,7.57,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,5.15,1.09,8.83,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,6.78,0.93,16.14,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,4.71,3.17,7.28,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,5.18,1.88,10.35,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,0.64,0.4,1.3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,0.4,0.16,0.88,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,4.68,1.76,10,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.9,1.63,9.65,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,7.6,2.9,16.7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,4.27,1.65,8.45,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.84,1.57,7.98,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,4.04,1.73,7.99,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.74,1.69,6.78,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,6.08,2.08,11.58,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.66,1.7,6.25,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,0.24,0.05,0.46,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,0.35,0.11,0.68,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,3.43,0.69,7.77,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,0.34,0.03,1.4,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,6.47,3.37,8.86,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,6.93,1.53,10.39,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,4.58,2.73,7.77,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,4.56,2.35,7.3,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,6.35,3.75,7.95,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,5.29,3.23,7.29,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,3.76,1.88,5.9,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,5.79,1.6,9.16,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,4.92,2.96,6.02,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,7,0.33,0.23,0.45,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,0.09,0.02,0.24,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,10,3.83,1.8,6.01,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,9.28,2.81,15.49,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,0.55,0.19,1.04,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,8,0.86,0.25,1.81,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,3.22,1.39,4.78,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,4.02,2.05,7.87,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.52,1.78,5.21,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,8.91,4.78,16.23,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,6.69,1.44,9.34,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,0.57,0.2,1.49,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,3.95,1.62,7.07,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,4.56,2.27,7.38,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,4,0.41,0.23,0.56,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,8.26,1.57,14.33,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,8,1.3,0.02,8.99,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,7.72,0.17,17.2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,5,4.45,1.68,8.58,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,10.32,6.02,15.46,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,0.28,0.12,0.6,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,3.78,1.71,7.34,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,51,5.34,2.18,8.77,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,12,3.6,0.74,6.2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,9,5.3,1.58,8.78,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2009,11,3.32,0.17,6.85,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,2.83,0.37,8.47,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,7.76,4.74,10.18,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,3.28,0.18,8.99,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,3.72,1.87,10.76,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,9,5.88,2.96,10.96,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,7.07,4.47,13.45,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,8.56,1.57,20.78,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,5.12,3.06,8.47,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,6.17,1.54,10.8,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,8,0.36,0.04,0.78,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,7,0.36,0.08,0.91,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,6.45,1.63,13.49,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,6.08,1.3,12.74,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,8.31,2.4,13.72,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,5.71,1.45,11.35,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,5.65,1.55,10.47,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,5.52,1.47,9.93,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,5.25,1.52,9.06,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,6.98,1.69,13.36,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,5.01,1.77,8.68,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,9,0.18,0.03,0.48,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,9,0.35,0.13,0.58,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,8,4.02,1.91,9.54,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,8,0.31,0.02,0.96,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,6.53,4.25,8.52,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,7.12,4.01,10.03,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,5.05,2.48,9.42,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,5.1,2.71,8.52,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,9,8.12,4.56,13.81,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,6.1,3.65,10.41,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,4.9,1.22,10.93,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,6.66,3.48,9.69,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,5.83,3.06,9.26,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,6,0.3,0.21,0.41,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,0.07,0.01,0.18,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,4.34,1.42,9.78,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,9,7.39,2.37,16.93,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,0.42,0.16,0.72,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,1.12,0.17,3.81,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,3.41,1.13,9.55,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,4.38,1.59,8.54,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,4.55,1.84,9.16,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,6,6.82,3.43,10.35,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,7.18,5.49,8.7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,1.28,0.16,4.66,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,5.15,2.27,8.81,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,5.38,1.84,9.7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,1,0.35,0.35,0.35,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,9,7.9,4.18,12.17,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,8,0.12,0,0.41,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,7.81,1.89,14.76,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,7,0.3,0.02,0.8,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,11.83,5.97,18.17,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,0.28,0.02,0.66,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,12,4.78,1.82,8.46,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,51,5.91,2.24,11.54,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,4.5,2.05,8.96,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,11,4.53,1.28,12.81,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2010,10,4.8,0.02,8.45,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,4.38,0.97,9.01,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,6.67,3.55,11.66,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,3.74,0.29,9.12,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,3.82,0.94,7.8,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,4.94,0.54,12.88,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,6.98,0.64,14.18,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,8.14,0.87,15.98,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,5.31,2.57,8.42,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,5.48,2.03,10.38,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,2.23,0.14,15.2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,10.43,5.38,18.34,West Branch DuPage River,-9811547.219382191,5157233.888994125
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,9,0.39,0.03,1.23,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.83,1.51,10.92,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.17,1.4,8.49,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,7.18,3.04,13.21,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.28,1.43,8.27,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.09,1.16,7.43,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.36,1.57,7.62,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.23,1.43,7.76,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,6.26,2.24,11.63,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.07,1.32,7.72,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,9,0.22,0.05,0.44,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,0.96,0.13,4.39,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.39,0.77,9.65,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,8,0.3,0.24,0.4,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,6.25,3.91,8.62,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,5.65,0.29,10.28,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,6,5.75,3.11,9.24,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,5.17,2.64,8.28,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,6.29,4.14,11.99,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,6.23,3.57,7.88,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.18,1.96,8.11,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,6.42,3.91,10.28,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,5.33,3.23,7.66,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,6,0.37,0.26,0.55,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,0.1,0.02,0.22,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,2.63,1.61,5.04,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,7.31,1.92,14.48,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,0.5,0.27,0.87,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,1.85,0.29,4.96,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,2.8,1.26,5.28,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.67,1.67,9.83,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.69,2.2,8.08,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,5.98,2.88,8.17,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,2.66,0.27,6.94,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,4.51,1.69,8.87,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,5.53,0.93,10.41,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,5,0.32,0.14,0.51,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,8.86,6.19,12.86,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,1.77,0.02,14.78,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,5.97,0.01,12.66,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,0.38,0.02,1,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,10.25,0.57,18.3,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,0.34,0.12,0.93,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,3.83,1.34,7.69,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,51,5.77,2.7,13.37,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,11,4.2,1.02,9.12,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,10,4.35,1.36,8.66,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2011,12,4.16,0.05,8.06,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,4.88,1.21,7.85,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,7.95,4.96,10.01,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.01,0.23,9.14,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,3.44,1,5.99,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.82,2.98,11,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,7.58,4.47,12,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,5,6.16,2.25,9.01,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,5.98,2.31,8.02,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,7.84,2.96,14.4,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,0.39,&lt RL,1.25,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,12.65,3.76,18.98,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,5,4.3,1.52,8.61,North Shore Channel,-9763803.492506059,5167131.2098396
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,0.25,0.09,0.52,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.98,3.89,13.8,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.54,2.95,13.76,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,10.19,3.43,16.17,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,7.31,2.18,15.28,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,4.5,2.21,7.23,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,7.02,2.59,13.78,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,6.38,2.73,13.16,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,6.4,3.51,10.96,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,4.4,2.72,6.39,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,4,0.2,0.06,0.39,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,0.47,0.27,0.91,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,4.33,3,6.77,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,5,0.17,0.02,0.31,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,6.87,4.96,9.22,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,7.59,5.02,9.36,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,5.33,2.15,8.22,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.72,2.15,8.68,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,8.29,4.89,14.1,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,8.1,5.59,11.88,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,5.25,1.38,9.88,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,7.36,4.58,8.37,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,13,6.54,0.1,11,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,0.35,0.26,0.45,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,0.06,0.02,0.12,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.34,2.88,8.61,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,11.18,4.24,16.39,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,0.55,0.28,0.7,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,10,1.87,0.22,4.27,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,4.49,1.8,11.52,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,5.38,3.02,10.15,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,10,5.1,2.91,10.07,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,6.81,4.7,8.77,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,2.84,0.25,5.27,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,6.06,1.67,9.78,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,6.18,2.58,13.62,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,8,0.29,0.1,0.73,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,8.61,2.8,14.37,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,0.14,&lt RL,0.53,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,7.75,3.6,17.32,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,11,0.11,0.03,0.39,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,10.96,4.16,14.64,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,7,0.24,0.01,0.39,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,5.95,3.1,12.24,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,51,6.72,4.13,11.83,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,4.4,1.09,6.47,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,6,6.44,2.5,11.4,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2012,12,4.24,0.02,7.95,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,4.46,1.46,9.93,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,5.63,3,9.41,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,11,5.99,2.72,10.3,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,8,0.49,0.23,0.82,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,12.23,6.58,18.2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,10,1.46,0.16,6.13,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,8.41,3.93,15.57,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,5.99,2.42,13.37,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,5.85,2.83,12.54,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,11,4.79,2.65,8.4,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,11,6.19,2.89,9.2,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,7.14,4.98,12.52,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,11,4.38,1.86,8.36,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,6.24,4.07,9.94,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,8,1.59,0.26,5.46,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,10,4.47,1.77,8.06,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,11,4.75,2.18,8.46,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,6.19,2.6,10.18,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,4.95,2.7,7.28,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,11,5.59,2.22,9.35,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,4,0.3,0.19,0.48,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,9.08,4.31,15.34,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,8,0.16,0.02,0.33,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,9,0.46,0.04,1.31,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,4.9,2.28,10.69,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,51,5.97,3.05,11.45,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,12,3.5,1.26,6.9,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2013,10,2.87,1.28,4.84,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,2.35,0.2,5.91,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,12,4.35,2.13,7.64,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,9,5.54,2.4,11.52,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,8,0.58,0.11,1.27,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,11.81,7.23,16.43,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,9,0.47,0.05,2.43,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,8.39,3.77,15.82,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,10,4.35,0.18,8.8,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,9,4.38,2.19,8.59,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,9,4.04,1.95,6.57,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,12,6.48,3.76,10.19,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,5.83,3.6,9.68,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,3.77,1.28,7.59,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,4.64,3.2,7.59,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,10,1.85,0.26,4.82,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,3.33,0.87,6.38,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,4.16,1.58,7.8,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,12,7.01,2.39,9.85,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,4.33,1.68,10.21,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,12,5.19,0.87,9.48,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,4,0.23,0.11,0.34,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,12,11.12,5.47,14.83,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,9,0.15,0.01,0.41,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,10,2.03,0.07,7.88,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,10,4.4,1.84,10.39,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,51,4.7,1.29,8.21,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,3.99,1.4,9.55,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2014,11,2.44,0.03,6.25,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,13,2.06,0.27,4.75,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,11,4.95,1.55,9.51,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,5.51,2.91,9.85,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,9,0.41,0.1,0.84,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,12,10.06,4.69,17.52,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,9,0.64,0.02,4.33,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,11,6.95,2.39,15.48,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,11,4.72,1.53,11.65,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,4.16,1.98,7.55,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,9,4.5,2.22,12.16,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,12,6.03,2.91,10.91,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,12,5.21,2.82,6.64,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,11,4.72,1.88,10.72,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,4.68,1.65,7.27,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,9,1.94,0.33,4.99,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,3.76,0.94,10.47,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,4.34,1.88,8.55,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,12,6.17,2.88,10.47,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,12,4.33,1.76,6.15,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,5.91,1.47,9.69,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,6.35,3.52,9.57,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,9,0.18,0.02,0.6,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,11,6.11,0.31,9.15,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,12,4.66,1.92,11.4,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,51,4.83,1.95,8.09,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,9,2.78,1.06,6.94,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2015,10,2.95,0.04,5.48,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,2.09,0.44,5.42,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,4.55,2.17,7.8,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,5.17,1.45,8.8,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,0.57,0.4,0.68,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,8.76,1.98,15.89,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,10,0.41,0.15,1.34,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,8,0.43,0.24,1.03,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,6.53,0.57,13.61,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,3.82,1.58,6.11,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,3.77,1.62,6.68,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,3.25,1.78,5.57,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,7.92,4.84,11.31,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,5.7,4.04,7.25,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,3.54,1.79,4.96,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,4.55,3.05,6.08,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,10,0.49,0.29,0.98,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,10,3.85,1.04,8.54,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,3.6,2.11,5.02,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,7.28,3.14,10.97,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,4.82,1.9,9.06,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,10,4.98,4.14,7.08,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,11,5.96,2.97,8.93,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,9,0.2,0.05,0.45,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,10,0.24,0.05,0.53,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,3.45,1.65,5.51,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,49,4.6,2.41,8.78,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,12,3.06,1.5,6.43,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2016,9,3,0.14,8.77,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,2.52,0.04,6.47,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,4.97,1.16,8.71,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,6.36,1.02,12.76,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,0.7,0.09,2.48,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,8.67,0.19,18.4,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,0.25,0.03,0.59,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,7,1.67,0.1,9.1,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,9,0.68,16.14,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,4.54,1.05,12.05,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,4.71,1.12,11.44,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,4.43,1.09,9.53,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,8.11,4.5,9.95,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,5.6,2.56,9.18,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,2.76,2.08,3.31,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,4.08,1.61,6.76,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,2.13,1.09,2.95,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,2.63,1.31,4.09,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,3.17,2.38,5.53,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,7.18,3.02,10.91,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,4.38,1.49,7.83,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,3.96,2.24,6.32,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,3,0.28,0.08,0.47,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,6.61,2.12,9.24,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,10,0.28,0.01,1.03,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,5.23,3.7,8.09,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,4.04,1.18,8.51,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,46,4.55,2.72,6.81,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,11,4.63,0.58,9.78,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2017,12,2.37,0.19,7.94,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,2.44,0.13,5.03,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,10,5.02,2.17,7.53,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,11,5.42,1.65,12.24,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,10,0.8,0.26,1.64,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,10.11,3.4,19.57,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,8,0.45,0.02,1.22,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,8.62,1.06,21.07,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,10,3.69,1.31,8.99,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,10,3.6,1.25,8.98,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,5,3.64,2.04,6.2,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,11,6.95,3.4,9.14,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,5.46,3.62,7.53,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,3.49,2.36,5.03,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,4.36,3.03,6.18,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,2.64,1.43,3.78,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,3.3,1.56,5.57,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,3.78,2.65,5.24,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,9,6.01,2.98,7.92,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,4.87,3.2,7.23,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,4.91,3.14,7.6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,9,0.43,0.1,0.82,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,5.59,3.76,7.36,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,10,0.36,0.02,1.07,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,4.89,3.85,6.6,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,12,4.24,1.6,12.26,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,50,4.47,2.58,6.53,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,9,2.3,0.99,4.14,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2018,11,3.3,0.06,6.08,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,2.26,0.29,5.33,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,9,4.74,2.48,7.89,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,4.46,1.42,9.85,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,0.64,0.38,0.9,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,9.54,2.8,21.95,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,0.25,0.18,0.35,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,12,6.2,0.91,14.04,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,2.67,1.1,6.16,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,2.89,1.3,6.32,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,4,2.12,1.34,3.21,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,12,6.97,4.87,10.26,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,8,6.89,3.52,10.1,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,4.65,2.26,8.35,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,2.86,1.48,4.48,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,4.11,2.68,6.32,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,2.35,0.97,4.19,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,2.02,0.99,4.39,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,3.03,1.94,5.02,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,12,6.67,4.15,9.04,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,4.04,1.88,6.64,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,10,4.48,2.42,7.54,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,0.36,0.08,0.77,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,9,5.77,2.51,8.29,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,1.22,0.04,4.5,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,4.97,3.72,6.38,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,11,2.7,1.3,6.68,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,48,4.22,&lt RL,7.03,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,12,3.47,1.32,6.68,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2019,9,3.23,1.89,6.4,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,8,1.6,0.28,4.91,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,8,4.49,2.14,7.61,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,6.63,2.8,11.19,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,0.58,0.2,0.98,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,13.5,5.24,18.44,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,0.9,0.21,3.4,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,9,9.36,2.52,17.79,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,4.64,1.91,10.45,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,4.72,1.96,8.55,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,4.33,2.13,6.75,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,7.51,4.52,12.17,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,7.18,3.64,11.35,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,8,5.92,2.93,8.3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,5,5.8,4.49,8.88,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,8,3.4,2.04,5.36,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,7,5.24,2.45,7.2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,5,0.22,0.19,0.25,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,9,2.3,1.05,4.48,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,14,4.26,0.96,8.77,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,9,3.79,2.5,5.14,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,7.66,4.01,14.64,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,8,4.07,1.51,7.67,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,9,4.75,2.07,8.51,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,0.29,0.01,0.57,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,7.32,5.27,8.68,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,0.24,0.02,0.47,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,14,3.82,3.23,5.22,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,4.03,2.05,5.95,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,37,4.97,2.86,7.41,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,10,3.93,1.2,11.01,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2020,8,3.89,1.53,7.53,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,1.62,0.28,3.46,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,4.05,1.45,7.89,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,5,6.67,1.04,9.32,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,0.7,0.28,1.57,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,12.27,1.09,17.71,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,0.37,0.13,1.16,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,3,0.87,0.6,1.21,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,3,8.63,2.36,12.86,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,9.7,0.64,17.75,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,5.28,1.13,9.46,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,5.43,1.1,10.77,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,4.98,1.18,9.03,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,7.88,3.92,17.05,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,6.66,3.23,9.94,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,5.84,3.29,8.31,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,14,5.74,2.29,9.12,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,3.54,1.65,5.19,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,4.62,1.91,6.76,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+55,130th Street,Calumet River at 130th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,15,0.26,0.17,0.47,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,1.81,0.56,3.24,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,24,3.37,0.83,7.61,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,3.67,1.73,5.77,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,6.31,4.11,9.2,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,3.89,2.13,7.3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,5.4,3.51,6.91,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,1.03,0.05,7.14,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,5.59,0.23,8.82,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,0.29,0.04,0.74,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,24,3.97,0,6.74,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,12,4.1,1.28,8.79,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,48,5.19,1.99,10.22,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,11,4.25,1.06,9.39,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2021,10,3.36,1.86,6.72,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,2.88,0.53,6.55,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,4.84,2.75,8.07,South Branch Chicago River,-9758326.630046986,5137947.951214144
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,10,0.76,0.17,1.03,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,11.9,3.33,20.73,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,9,0.49,0.25,1.32,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,0.75,0.35,1.23,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,7.01,1.79,12.42,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,10,0.55,0.11,0.86,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,10,0.5,0.14,0.84,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,10.11,1.16,20.33,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,4.77,1.83,7.76,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,5.08,1.92,8.35,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,4.78,1.89,7.73,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,7.66,5.05,10.32,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,6.96,3.04,9.45,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,6.38,2.79,8.4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,3.48,0.15,8.19,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,5.08,3.44,7.38,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,2.04,0.86,2.84,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,3.62,0.92,8.58,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,4.13,2.19,6.31,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,6.82,2.97,9.17,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,5.18,2.05,8.63,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,5.83,2.61,8.5,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,0.33,0.09,0.56,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,5.5,2.3,8.77,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,10,0.33,0.07,0.73,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,12,7.1,4.4,9.58,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,4.33,1.84,7.18,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,51,5.37,3.17,8.72,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,11,3.19,0.72,7.73,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2022,10,4.51,1.7,7.87,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,2.98,0.33,7.09,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,4.93,1.85,8.94,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,6,7.46,3.37,12.46,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,0.61,0.16,1.24,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,13.67,4.67,22.22,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,1.12,0.01,8.59,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,0.71,0.39,1.1,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,6,5.79,1.64,10.92,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,0.59,0.1,1.07,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,0.53,0,1.02,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,10.43,0.95,19.58,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,5.23,2.04,8.85,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,5.34,1.88,9.79,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,4.82,1.78,8.14,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,7.31,4.44,9.45,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,7.11,3.57,9.45,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,6.89,4.16,10.32,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,4.41,2.29,8.65,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,5.28,3.38,7.5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,1.32,0.19,2.51,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,3.07,1.37,4.8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,18,6.12,2.52,9.63,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,6.62,3.98,9.54,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,4.97,2.02,9.04,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,5.89,2.11,10.81,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,0.31,&lt RL,0.78,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,7.44,2.68,11.71,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,0.32,&lt RL,1.4,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,7.28,3.63,14.22,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,4.45,1.68,8,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,52,5.53,2.72,8.57,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,10,5.25,1.39,10.04,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2023,12,4.45,0.75,9.55,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,2.8,0.36,7.52,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,4.87,2.37,8.34,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,7.8,1.52,14.36,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,2.31,0.19,20.23,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,13.07,4.13,21.54,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,0.56,0.21,2.77,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,0.74,0.58,1.06,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,0.63,0.08,1.36,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,0.63,0.14,1.18,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,10.71,2.25,24.19,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,5.14,1.96,10.96,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,5.63,1.69,11.85,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,5.13,1.78,10.61,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,7.6,3.44,10.98,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,6.73,2.21,10.27,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,6.83,4,9.96,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,4.72,2.33,8.68,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,5.53,3.3,7.87,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,1.94,0.34,6.22,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,3.99,1.04,9.46,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,6.04,2.48,10.25,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,6.38,2.58,10.97,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,4.88,2.62,7.67,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,18,7.89,4.11,10.76,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,0.39,0.09,0.69,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,7.2,3.67,10.31,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,10,0.57,0.07,1.64,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,4.52,0.11,8.77,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,4.76,2.3,9.07,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,53,5.7,2.52,10.75,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,4.37,0.84,12.22,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2024,12,3.99,1.64,6.86,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,5.91,4.83,7.82,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,7.62,6.79,8.41,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,5.82,2.45,8.94,Salt Creek,-9778479.118246686,5134478.740255858
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,11.22,7.52,14.89,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,1,0.67,0.67,0.67,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,1.17,1,1.33,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,2,1.51,0.97,2.05,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,2,1.44,0.98,1.89,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,8.12,4.23,12.68,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,4.57,3.04,7.07,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,5.36,3.25,7.59,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,4.22,2.82,6.22,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,6.55,5.21,7.64,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,7.83,5.92,9.08,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,1,6.56,6.56,6.56,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,1,4,4,4,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,1,5.3,5.3,5.3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,2,2.79,2.1,3.48,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,2,3.58,2.14,5.01,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,7.53,4.68,9.23,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,6.88,5.11,8.2,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,7.06,5.44,8.35,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,1,6.53,6.53,6.53,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,0.86,0.77,1.05,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,6.29,3.68,8.58,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,2,0.61,0.47,0.75,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,4.12,2.03,6.12,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,4,3.83,2.38,5.41,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,14,6.55,4.68,8.47,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,3,6.33,2.74,9.35,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,NO2+NO3,Nitrate-Nitrite,mg/L-N,2025,1,5.04,5.04,5.04,Bubbly Creek,-9758696.948071491,5136817.240627698

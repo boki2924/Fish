@@ -1,0 +1,1093 @@
+﻿Station Number,Station Name,Station Description,Parameter Name,Parameter Description,Units of Measure,Year,Result Count,Result Average,Result Min,Result Max,Waterway,x,y
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,7,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,3,1,5,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,0,2,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,5,2,2,3,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,2,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,4,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,3,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,4,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,1,0,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,3,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,3,1,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,2,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,2,3,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,0,0,1,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,1,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,0,2,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,8,1,1,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,2,5,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,2,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,0,2,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,1,1,3,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,9,3,1,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,5,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,45,2,1,3,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,45,2,1,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,1,1,2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,2,1,2,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2001,10,3,2,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,0,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,3,2,5,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,2,0,5,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,2,1,6,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,9,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,2,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,6,2,1,2,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,6,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,7,2,1,3,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,5,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,2,1,3,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,10,2,1,3,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,3,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,10,2,1,3,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,1,0,3,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,10,1,1,2,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,5,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,9,1,0,3,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,3,2,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,3,2,4,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,6,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,4,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,2,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,3,1,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,0,0,1,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,0,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,10,2,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,6,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,1,0,2,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,2,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,2,3,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,0,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,4,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,11,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,6,1,1,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,8,2,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,10,2,1,3,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,10,3,2,4,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,2,1,2,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,9,1,1,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,3,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,50,2,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,3,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,1,1,3,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2002,12,3,1,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,0,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,3,1,7,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,2,0,6,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,8,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,3,1,1,1,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,1,1,2,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,3,2,1,3,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,0,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,8,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,2,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,2,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,3,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,7,2,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,5,2,1,3,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,1,2,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,2,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,9,1,1,2,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,9,1,0,2,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,1,1,1,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,9,1,0,2,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,3,1,7,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,3,1,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,13,2,1,4,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,4,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,3,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,4,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,0,&lt RL,1,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,1,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,2,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,3,1,1,1,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,1,0,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,4,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,1,0,3,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,1,0,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,5,1,1,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,9,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,4,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,4,2,9,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,2,1,4,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,0,2,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,11,2,1,3,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,52,2,1,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,1,2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,10,1,1,2,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2003,12,2,1,4,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,&lt RL,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,3,1,7,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,&lt RL,4,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,1,0,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,1,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,8,2,0,3,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,2,1,5,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,7,1,0,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,1,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,1,1,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,2,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,1,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,1,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,1,1,2,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,1,1,2,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,1,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,0,&lt RL,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,3,2,7,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,0,5,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,4,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,1,2,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,1,0,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,9,0,0,0,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,9,1,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,7,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,9,0,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,8,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,1,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,3,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,8,1,&lt RL,2,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,1,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,6,1,0,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,1,0,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,9,3,1,4,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,2,1,2,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,0,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,52,1,0,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,1,2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,11,1,1,1,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2004,12,2,1,3,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,0,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,4,2,9,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,0,5,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,10,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,3,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,5,1,1,2,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,10,2,1,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,4,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,7,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,3,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,10,1,1,4,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,5,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,8,0,0,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,3,1,9,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,3,2,7,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,5,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,5,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,3,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,3,1,6,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,0,0,0,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,8,2,1,3,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,1,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,9,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,3,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,2,3,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,10,1,0,2,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,6,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,4,1,1,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,9,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,10,4,2,11,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,2,1,3,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,1,0,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,12,1,1,3,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,52,2,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,1,1,2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,1,1,2,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2005,11,2,1,6,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,0,3,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,5,2,1,3,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,2,1,4,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,9,1,1,1,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,1,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,3,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,9,1,0,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,3,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,2,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,0,0,1,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,2,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,9,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,2,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,0,0,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,7,1,1,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,9,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,3,2,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,2,1,2,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,3,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,51,2,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,12,1,1,2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,11,1,1,2,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2006,7,1,1,3,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,4,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,0,3,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,4,1,1,2,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,2,2,3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,9,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,2,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,3,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,1,1,2,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,1,1,2,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,9,1,0,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,3,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,3,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,3,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,2,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,2,1,3,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,2,1,3,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,2,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,0,0,0,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,2,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,2,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,1,0,2,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,9,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,3,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,0,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,3,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,5,1,1,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,2,1,3,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,10,5,1,16,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,2,1,3,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,12,1,1,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,51,2,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,3,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,1,1,2,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2007,11,2,1,2,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,3,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,0,2,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,1,1,1,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,1,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,2,1,3,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,2,1,5,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,1,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,1,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,1,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,1,1,2,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,1,1,1,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,9,0,0,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,3,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,2,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,3,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,3,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,3,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,9,0,0,0,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,1,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,9,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,9,1,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,9,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,2,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,0,0,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,4,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,5,1,1,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,9,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,1,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,10,5,2,9,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,2,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,0,2,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,51,1,1,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,1,1,2,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,11,1,1,1,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2008,12,2,1,4,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,0,1,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,3,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,&lt RL,2,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,1,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,1,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,1,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,2,1,5,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,1,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,1,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,0,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,1,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,1,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,0,&lt RL,2,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,3,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,2,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,7,0,&lt RL,1,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,1,1,3,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,1,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,8,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,1,0,1,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,1,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,10,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,2,1,2,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,0,&lt RL,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,4,1,0,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,8,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,5,2,2,4,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,2,1,2,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,1,0,2,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,51,1,0,2,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,12,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,9,1,1,1,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2009,11,2,1,3,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,0,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,4,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,&lt RL,3,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,9,1,1,1,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,1,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,2,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,0,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,8,2,1,2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,7,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,1,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,1,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,0,1,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,2,1,9,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,9,1,1,1,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,9,1,1,1,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,8,2,1,4,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,8,0,&lt RL,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,2,1,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,3,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,2,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,3,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,9,2,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,4,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,6,0,&lt RL,0,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,2,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,9,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,0,&lt RL,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,0,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,6,2,1,4,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,0,&lt RL,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,1,1,1,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,9,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,8,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,7,5,3,7,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,2,1,3,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,1,1,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,12,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,51,1,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,11,1,1,2,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2010,10,2,1,3,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,1,0,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,5,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,1,&lt RL,3,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,1,1,5,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,1,0,1,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,2,1,4,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,1,1,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,2,1,2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,9,1,1,1,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,&lt RL,1,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,0,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,9,1,1,1,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,0,4,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,8,0,&lt RL,1,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,6,2,1,3,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,3,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,5,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,4,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,6,0,&lt RL,1,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,0,1,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,1,1,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,1,3,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,0,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,1,1,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,0,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,1,0,2,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,5,1,0,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,3,2,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,2,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,0,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,51,2,1,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,11,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,10,1,1,1,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2011,12,2,1,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,1,1,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,2,2,3,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,2,0,4,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,0,1,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,5,2,1,2,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,2,1,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,2,1,6,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,5,1,1,1,North Shore Channel,-9763803.492506059,5167131.2098396
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,1,1,2,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,1,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,3,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,1,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,4,1,1,1,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,1,1,1,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,5,1,0,2,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,2,1,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,2,2,3,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,2,1,2,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,2,1,3,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,2,1,3,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,2,1,5,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,2,2,3,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,2,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,0,0,0,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,3,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,1,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,0,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,10,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,1,1,1,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,10,2,1,3,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,2,1,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,1,0,1,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,2,1,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,8,1,1,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,2,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,11,5,1,13,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,2,1,3,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,7,1,1,1,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,51,1,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,6,1,1,1,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2012,12,3,1,8,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,2,1,6,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,11,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,8,3,1,7,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,2,1,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,10,1,0,3,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,11,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,11,2,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,2,1,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,11,1,1,3,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,8,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,11,2,1,4,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,2,1,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,2,1,4,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,11,2,1,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,4,1,1,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,8,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,9,3,2,4,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,51,1,1,2,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,12,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2013,10,2,1,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,0,3,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,12,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,9,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,8,2,1,2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,2,1,3,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,9,1,0,3,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,1,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,10,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,9,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,9,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,12,3,1,7,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,2,1,4,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,10,1,0,2,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,12,3,1,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,12,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,4,1,1,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,9,1,1,2,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,10,3,1,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,10,1,1,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,51,2,0,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2014,11,2,1,3,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,11,2,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,9,2,1,2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,2,1,3,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,9,1,0,1,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,11,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,11,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,9,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,2,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,2,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,11,1,1,3,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,9,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,2,1,4,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,2,1,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,2,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,2,1,4,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,1,1,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,9,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,11,1,1,3,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,12,1,1,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,51,2,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,9,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2015,10,2,2,3,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,9,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,11,2,1,3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,2,1,3,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,10,1,0,1,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,8,1,1,1,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,2,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,11,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,2,1,3,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,2,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,2,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,10,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,10,1,1,1,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,11,1,1,1,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,2,1,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,11,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,10,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,11,1,1,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,9,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,10,3,2,4,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,49,1,1,2,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,12,1,1,3,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2016,9,3,2,7,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,0,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,2,1,4,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,2,1,4,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,0,2,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,7,1,0,1,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,1,1,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,0,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,1,2,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,2,1,6,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,2,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,1,2,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,1,1,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,2,1,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,2,1,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,1,1,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,3,1,0,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,10,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,0,2,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,1,0,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,46,1,1,2,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,11,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2017,12,3,2,7,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,10,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,10,1,&lt RL,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,9,1,&lt RL,2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,11,2,0,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,8,0,&lt RL,0,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,11,1,0,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,9,1,&lt RL,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,9,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,5,1,0,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,11,2,0,3,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,0,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,2,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,1,1,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,9,1,1,2,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,0,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,8,1,0,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,11,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,9,1,&lt RL,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,12,1,0,1,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,11,1,&lt RL,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,49,1,0,2,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,9,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2018,11,2,1,4,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,&lt RL,1,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,9,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,0,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,1,2,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,1,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,0,&lt RL,1,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,12,1,0,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,1,0,2,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,4,1,0,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,12,2,1,3,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,8,1,1,3,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,0,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,1,0,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,0,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,1,0,1,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,12,1,1,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,10,1,0,1,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,0,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,9,1,1,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,&lt RL,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,0,1,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,11,1,0,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,48,1,0,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,12,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2019,9,2,1,2,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,0,&lt RL,1,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,0,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,0,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,1,3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,9,1,1,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,0,&lt RL,1,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,&lt RL,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,0,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,&lt RL,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,2,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,2,1,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,0,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,5,1,1,1,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,10,1,0,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,10,1,1,1,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,5,0,0,0,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,0,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,16,1,0,1,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,0,3,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,0,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,0,1,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,0,1,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,0,&lt RL,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,0,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,&lt RL,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,16,1,0,1,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,&lt RL,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,46,1,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,12,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2020,11,1,1,2,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,0,1,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,1,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,5,1,1,2,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,2,1,3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,2,1,3,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,0,0,1,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,3,1,1,2,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,3,1,1,1,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,1,1,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,0,2,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,1,2,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,0,2,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,1,2,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,14,1,1,2,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,1,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+55,130th Street,Calumet River at 130th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,14,0,0,1,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,24,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,1,1,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,1,1,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,1,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,&lt RL,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,24,1,1,3,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,12,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,48,1,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,11,1,1,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2021,10,1,1,2,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,0,1,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,&lt RL,1,South Branch Chicago River,-9758326.630046986,5137947.951214144
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,10,2,1,3,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,2,1,3,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,9,0,&lt RL,1,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,0,2,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,1,2,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,10,0,&lt RL,2,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,10,1,&lt RL,2,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,&lt RL,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,1,2,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,3,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,2,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,2,1,6,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,1,3,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,&lt RL,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,1,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,1,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,0,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,&lt RL,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,0,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,0,3,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,10,1,0,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,12,1,0,2,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,0,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,51,1,0,4,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,11,1,&lt RL,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2022,10,1,1,2,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,&lt RL,1,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,2,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,6,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,2,1,4,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,2,1,4,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,&lt RL,1,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,&lt RL,4,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,6,1,0,1,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,1,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,1,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,3,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,2,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,3,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,2,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,2,1,6,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,2,1,4,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,3,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,18,1,1,2,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,2,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,3,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,3,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,&lt RL,3,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,2,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,1,3,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,1,0,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,52,1,0,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,11,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2023,12,2,0,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,2,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,5,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,3,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,1,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,3,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,1,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,1,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,3,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,3,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,3,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,1,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,18,1,0,2,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,1,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,10,1,0,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,2,1,6,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,1,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,53,1,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,0,1,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2024,12,1,1,2,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,2,1,3,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,2,2,3,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,1,Salt Creek,-9778479.118246686,5134478.740255858
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,2,1,2,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,1,1,1,1,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,1,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,2,1,1,1,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,2,1,1,1,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,2,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,1,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,1,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,1,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,4,3,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,2,2,2,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,1,1,1,1,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,1,1,1,1,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,1,2,2,2,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,2,1,0,1,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,2,2,1,2,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,1,1,1,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,3,2,3,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,2,2,2,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,1,1,1,1,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,2,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,2,2,2,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,2,1,1,1,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,3,1,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,4,1,1,2,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,14,2,1,3,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,3,5,1,13,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TKN  ,Total Kjeldahl Nitrogen,mg/L-N,2025,1,2,2,2,Bubbly Creek,-9758696.948071491,5136817.240627698

@@ -1,0 +1,1093 @@
+﻿Station Number,Station Name,Station Description,Parameter Name,Prameter Description,Units of Measure,Year,Result Count,Result Average,Result Min,Result Max,Waterway,x,y
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2001,7,5,3,8,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,10,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2001,10,4,3,8,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,11,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,12,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,9,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2001,5,13,8,22,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2001,9,6,4,9,South Branch Chicago River,-9758326.630046986,5137947.951214144
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2001,9,10,8,12,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2001,10,9,8,10,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2001,10,9,8,10,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,9,8,10,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,9,8,11,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2001,10,9,7,12,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,10,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2001,10,10,7,23,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,9,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2001,10,9,7,17,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2001,10,10,8,12,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2001,10,10,8,12,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,9,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2001,9,3,3,4,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,10,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,9,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2001,10,7,4,10,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,7,6,9,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,10,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,11,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,9,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2001,10,8,6,10,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,3,3,4,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2001,9,5,4,6,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,10,9,12,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2001,10,9,8,10,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2001,10,5,3,8,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2001,8,6,3,8,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2001,9,9,8,11,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,9,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,5,10,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2001,10,10,8,13,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,11,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2001,10,4,3,7,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,6,4,9,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2001,10,7,5,9,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2001,9,10,7,22,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2001,10,10,8,13,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2001,10,9,8,10,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2001,10,10,8,11,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2001,9,10,9,12,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2001,10,11,9,14,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2001,10,9,7,10,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2001,45,9,7,12,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2001,45,7,5,10,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,7,10,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2001,10,9,7,12,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2001,10,8,4,15,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2002,12,5,3,8,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,11,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2002,11,7,3,10,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2002,11,9,8,14,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2002,9,8,6,10,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,23,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2002,6,9,8,11,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2002,12,7,5,9,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2002,6,9,8,10,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2002,7,12,10,20,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2002,12,9,8,10,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2002,11,9,8,11,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2002,10,10,9,11,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,10,8,12,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2002,12,9,8,11,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,8,10,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2002,10,9,8,11,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2002,11,9,8,9,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2002,12,9,7,10,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2002,10,11,9,16,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2002,10,11,9,13,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2002,12,8,7,12,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2002,9,5,3,9,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,11,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,14,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2002,12,8,5,10,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,8,6,10,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2002,12,9,7,12,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2002,12,8,5,10,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,11,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,11,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,4,3,6,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,6,4,6,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2002,11,11,9,13,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2002,7,10,9,12,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2002,12,5,3,7,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,6,3,10,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,10,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,7,10,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,10,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2002,12,10,9,11,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2002,12,9,6,17,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2002,12,4,3,7,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,7,5,10,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2002,12,8,6,11,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2002,6,10,7,19,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2002,12,10,7,12,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2002,8,10,9,14,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2002,10,11,9,12,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2002,11,11,9,14,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2002,12,11,11,13,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2002,9,9,8,11,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2002,12,9,7,11,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2002,51,8,6,14,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,9,7,12,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2002,12,9,8,11,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2002,12,8,5,12,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2003,12,6,3,11,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,8,6,11,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2003,9,8,4,16,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2003,8,9,7,10,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2003,3,9,7,11,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2003,12,8,6,10,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2003,3,10,10,12,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2003,12,8,5,12,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2003,10,9,7,10,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2003,8,11,10,13,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2003,12,10,8,12,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2003,10,10,8,11,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,10,8,16,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,10,7,12,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2003,7,9,8,10,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2003,5,9,8,11,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2003,10,9,8,11,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2003,12,9,8,10,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2003,11,9,8,12,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2003,9,11,8,14,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2003,9,10,8,13,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2003,11,9,7,12,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2003,9,5,3,9,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,9,6,12,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,9,6,11,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2003,11,8,5,12,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,8,5,13,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,8,6,13,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2003,12,8,6,11,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2003,11,8,6,12,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,9,6,11,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2003,12,8,6,10,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2003,11,3,3,4,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,6,6,7,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2003,10,12,9,14,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2003,3,10,9,10,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2003,10,5,3,7,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2003,11,6,3,8,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2003,10,10,8,11,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,9,3,11,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2003,11,9,6,11,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2003,12,11,9,13,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2003,12,9,6,11,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2003,10,4,3,8,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,7,4,10,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2003,11,9,5,12,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2003,5,10,8,16,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2003,12,10,7,14,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2003,9,10,8,12,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2003,12,10,8,14,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2003,10,13,10,19,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2003,11,12,10,14,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2003,10,10,6,12,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2003,11,9,8,12,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2003,52,8,6,11,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2003,10,9,7,14,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2003,10,10,8,11,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2003,12,8,4,11,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2004,13,5,4,7,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2004,13,8,5,12,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2004,12,6,3,10,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2004,10,8,6,10,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2004,13,8,&lt RL,12,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2004,13,7,6,9,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2004,8,9,7,12,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2004,13,7,4,9,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2004,11,11,7,37,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2004,10,16,5,24,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2004,7,10,8,12,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2004,11,9,7,11,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2004,11,9,1,13,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2004,12,10,7,15,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2004,11,9,8,11,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2004,11,9,7,11,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2004,11,9,7,13,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2004,11,9,7,10,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2004,11,8,7,9,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2004,11,9,7,10,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2004,10,10,8,13,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2004,10,9,6,12,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2004,12,10,7,26,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2004,10,4,2,6,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2004,12,8,5,12,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2004,12,8,6,10,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2004,12,7,5,9,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2004,13,7,4,9,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2004,13,7,5,10,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2004,13,8,6,10,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2004,10,8,6,10,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2004,13,8,5,10,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2004,13,8,6,9,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2004,10,3,3,4,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2004,12,7,2,9,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2004,9,12,10,16,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2004,7,11,8,13,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2004,10,5,3,7,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2004,9,5,3,8,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2004,10,10,8,11,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2004,12,8,5,10,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2004,12,8,5,11,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2004,11,10,9,11,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2004,13,8,4,10,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2004,10,4,3,6,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2004,13,7,5,9,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2004,12,8,5,10,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2004,6,11,7,15,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2004,11,11,7,17,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2004,11,9,8,12,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2004,12,9,8,11,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2004,9,12,8,20,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2004,11,12,9,17,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2004,11,9,6,11,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2004,11,8,7,10,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2004,53,8,5,19,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2004,11,8,6,12,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2004,11,9,7,13,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2004,13,7,5,9,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2005,12,4,2,8,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,7,4,13,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2005,12,5,1,10,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2005,10,7,5,10,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2005,12,6,4,8,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2005,12,6,3,7,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2005,4,6,5,8,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2005,10,5,3,10,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,7,4,13,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2005,11,13,4,26,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2005,7,10,7,13,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,11,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,11,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,9,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,8,5,11,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,10,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,10,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,10,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,10,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,11,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2005,10,9,7,16,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2005,11,8,3,15,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2005,11,7,4,14,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2005,8,3,1,5,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,6,3,13,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,7,4,12,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2005,12,5,3,9,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,5,3,8,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,6,4,10,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2005,11,6,4,9,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2005,11,6,3,16,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,6,3,10,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2005,11,6,4,10,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2005,11,2,1,3,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,5,5,6,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2005,11,8,6,11,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2005,8,8,6,11,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2005,11,4,2,7,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2005,9,4,2,8,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2005,11,7,4,11,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,6,4,8,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,6,3,13,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2005,12,9,7,12,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2005,12,6,3,10,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2005,10,3,1,6,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2005,12,5,3,8,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2005,12,6,3,9,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2005,4,8,7,10,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2005,12,8,5,11,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2005,9,8,5,12,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,11,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2005,10,9,6,14,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2005,12,9,7,13,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2005,11,7,5,10,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2005,12,7,5,12,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2005,52,6,3,9,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2005,11,7,5,10,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2005,11,7,5,10,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2005,11,5,3,10,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2006,12,2,1,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,4,4,5,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2006,12,3,1,6,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2006,12,4,3,5,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2006,12,4,4,5,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2006,5,5,3,5,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2006,12,3,2,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,5,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2006,11,12,6,20,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2006,9,6,4,7,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2006,12,7,4,24,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,7,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,5,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,6,4,7,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2006,12,6,5,7,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,5,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2006,11,6,5,7,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2006,12,5,3,16,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2006,12,5,3,5,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2006,9,2,1,3,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,4,3,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,4,4,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2006,12,3,2,5,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,3,2,5,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,4,3,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2006,12,4,3,5,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2006,11,5,4,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,4,3,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,1,1,2,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,4,3,5,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,9,6,20,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2006,9,5,4,6,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2006,11,3,1,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,3,1,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,6,5,6,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,5,3,6,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,5,4,6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2006,12,6,5,7,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2006,12,4,3,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2006,11,2,1,3,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,4,2,7,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2006,11,4,2,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2006,7,5,4,6,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2006,12,6,3,8,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2006,9,6,4,7,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2006,11,7,5,10,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2006,12,7,6,10,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2006,12,6,4,7,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2006,51,4,3,5,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2006,12,5,4,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2006,11,6,5,12,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2006,7,3,2,4,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2007,11,2,1,4,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,4,3,5,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2007,12,3,1,5,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2007,11,4,2,5,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,6,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2007,11,4,4,5,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2007,4,4,2,5,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2007,12,3,2,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,6,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2007,10,11,5,23,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2007,9,6,4,9,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2007,12,8,4,28,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2007,11,6,4,10,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,4,3,6,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,6,4,10,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2007,11,6,4,9,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,5,4,9,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2007,11,6,3,13,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2007,11,5,3,9,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2007,10,7,4,12,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2007,10,5,4,6,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2007,9,2,1,3,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,4,3,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,4,3,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2007,11,3,2,4,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,3,2,5,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,4,2,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,6,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2007,11,5,3,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2007,10,1,1,2,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,6,5,9,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2007,10,5,4,6,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2007,10,3,2,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2007,9,3,2,6,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,7,4,13,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,5,3,7,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,5,3,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2007,12,6,4,7,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2007,12,4,3,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2007,11,2,1,3,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2007,12,3,2,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2007,5,5,4,6,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2007,12,5,3,7,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2007,10,5,4,7,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2007,12,4,3,6,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2007,10,18,5,108,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2007,12,7,5,8,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2007,11,5,4,6,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2007,11,5,3,8,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2007,51,4,3,9,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,4,3,5,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2007,11,5,4,8,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2007,11,3,2,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2008,12,2,1,4,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,4,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2008,11,2,1,4,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2008,10,4,2,5,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,8,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,7,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2008,11,4,2,7,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2008,11,3,2,4,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2008,11,4,3,5,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2008,11,11,5,19,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2008,11,6,3,13,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2008,12,5,4,6,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2008,11,5,3,6,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,5,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,5,4,6,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2008,12,5,4,8,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2008,11,4,3,6,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2008,11,4,3,6,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2008,12,4,3,5,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2008,12,4,3,5,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2008,10,5,3,9,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2008,10,4,3,8,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2008,11,4,3,6,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2008,9,2,1,3,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,4,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,3,3,4,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,5,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,4,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2008,12,4,3,4,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2008,10,4,2,5,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2008,12,4,3,4,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2008,9,1,1,2,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,4,3,5,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2008,10,6,4,7,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2008,9,5,4,6,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2008,9,2,1,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2008,9,3,1,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2008,10,5,4,6,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,5,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2008,11,4,2,5,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2008,12,5,4,7,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2008,10,2,1,4,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,3,2,4,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2008,5,4,2,6,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2008,12,5,3,6,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2008,9,5,3,6,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,5,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2008,10,9,4,13,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2008,12,6,4,9,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2008,11,4,3,7,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2008,12,4,3,6,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2008,51,4,2,5,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,5,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2008,11,5,3,6,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2008,12,4,2,7,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2009,11,3,2,3,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,4,3,6,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2009,11,3,2,5,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2009,11,5,4,6,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2009,12,5,3,6,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2009,12,4,4,5,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2009,11,5,4,6,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2009,12,3,3,4,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2009,11,5,4,6,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2009,9,10,5,14,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2009,9,6,5,10,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2009,12,6,5,9,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2009,11,6,5,8,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2009,11,5,4,6,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,6,5,8,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2009,11,6,5,8,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2009,11,6,4,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2009,11,6,4,8,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2009,12,5,4,6,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2009,11,6,4,7,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2009,10,6,5,7,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2009,10,5,4,6,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2009,12,5,4,6,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2009,9,3,2,6,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2009,10,4,3,6,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,4,3,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2009,11,4,3,4,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2009,11,4,3,5,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,4,4,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2009,10,4,4,5,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2009,10,5,3,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,4,3,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2009,10,4,4,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2009,7,2,2,2,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2009,10,4,3,5,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2009,10,7,5,9,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2009,9,6,5,9,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2009,9,3,2,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2009,8,4,2,6,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2009,9,6,5,8,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2009,11,5,3,6,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2009,10,5,3,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2009,12,6,5,8,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2009,12,4,3,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2009,9,2,2,5,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2009,11,4,3,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2009,4,5,4,8,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2009,12,5,4,6,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2009,8,6,4,7,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2009,12,5,4,7,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2009,5,7,6,9,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2009,12,7,5,9,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2009,11,5,4,7,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2009,12,5,4,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2009,51,4,3,6,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2009,12,5,3,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2009,9,6,4,6,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2009,11,4,3,5,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2010,12,3,2,4,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2010,12,6,4,14,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2010,11,4,2,9,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2010,10,5,3,6,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2010,9,5,3,6,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2010,12,5,4,5,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2010,10,5,3,6,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2010,11,4,2,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2010,11,5,3,7,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2010,8,12,9,15,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2010,7,6,3,8,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2010,11,6,4,7,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2010,11,6,4,8,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2010,10,6,4,7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2010,11,5,4,7,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2010,11,6,4,7,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2010,12,5,3,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2010,11,5,3,8,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2010,10,5,3,6,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2010,12,5,4,6,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2010,9,7,3,9,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2010,9,6,3,9,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2010,8,4,3,5,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2010,8,4,2,9,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2010,11,5,4,7,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2010,12,4,3,6,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2010,12,4,3,6,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2010,12,4,3,5,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2010,9,5,4,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2010,12,5,4,6,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2010,11,5,3,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2010,12,5,3,7,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2010,12,5,4,7,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2010,6,5,2,17,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2010,11,6,4,21,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2010,11,8,4,10,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2010,9,6,3,8,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2010,10,3,2,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2010,10,4,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2010,10,6,3,7,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2010,10,6,3,6,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2010,10,6,4,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TOC ,Total Organic Carbon,mg/L,2010,6,6,4,7,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2010,12,5,4,6,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2010,11,3,2,6,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2010,12,4,3,6,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2010,10,5,3,7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2010,1,4,4,4,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2010,9,5,4,6,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2010,8,7,6,8,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2010,12,6,4,7,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2010,7,11,8,14,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2010,12,7,5,8,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2010,10,6,4,8,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2010,12,5,3,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2010,51,5,4,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2010,11,5,3,10,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2010,11,6,3,8,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2010,10,4,4,8,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2011,12,4,2,6,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,5,3,11,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2011,12,4,2,10,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2011,11,5,3,7,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2011,12,7,4,34,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2011,12,5,4,7,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2011,10,5,2,7,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2011,12,4,3,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,7,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2011,10,11,6,19,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2011,12,6,5,8,West Branch DuPage River,-9811547.219382191,5157233.888994125
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2011,9,6,5,10,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2011,11,6,5,8,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2011,11,6,4,7,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,6,5,7,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2011,11,6,4,7,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,6,4,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2011,11,6,4,7,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,7,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,7,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2011,9,7,4,10,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2011,10,7,4,24,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,8,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2011,8,3,2,5,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,5,3,11,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,4,3,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2011,6,5,5,6,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,4,3,6,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,5,4,8,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2011,12,5,4,6,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2011,11,5,0,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,5,3,10,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2011,12,5,4,6,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2011,6,2,2,3,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,5,5,7,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2011,10,7,4,10,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2011,10,6,5,7,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2011,10,3,2,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2011,10,4,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2011,10,6,4,9,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,6,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2011,12,5,4,6,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2011,12,3,2,5,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2011,11,5,3,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2011,5,5,3,7,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2011,11,5,3,6,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2011,10,6,5,9,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2011,11,6,4,9,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2011,10,9,4,12,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2011,12,7,5,12,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2011,11,6,5,9,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2011,11,5,4,6,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2011,51,5,4,16,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2011,11,6,4,8,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2011,10,6,5,8,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2011,12,5,3,8,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2012,11,3,2,4,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TOC ,Total Organic Carbon,mg/L,2012,7,5,3,5,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TOC ,Total Organic Carbon,mg/L,2012,7,4,2,6,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TOC ,Total Organic Carbon,mg/L,2012,7,4,3,6,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TOC ,Total Organic Carbon,mg/L,2012,7,4,3,6,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TOC ,Total Organic Carbon,mg/L,2012,7,4,4,6,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TOC ,Total Organic Carbon,mg/L,2012,5,4,3,6,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2012,12,4,3,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,5,3,6,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2012,11,11,6,16,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2012,12,6,4,12,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2012,5,5,4,6,North Shore Channel,-9763803.492506059,5167131.2098396
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2012,6,5,4,7,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2012,7,5,5,6,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,7,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,6,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,6,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TOC ,Total Organic Carbon,mg/L,2012,7,6,4,10,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2012,4,6,5,7,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TOC ,Total Organic Carbon,mg/L,2012,6,5,3,6,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TOC ,Total Organic Carbon,mg/L,2012,7,4,3,6,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TOC ,Total Organic Carbon,mg/L,2012,5,3,2,5,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2012,6,5,4,5,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TOC ,Total Organic Carbon,mg/L,2012,6,4,3,5,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TOC ,Total Organic Carbon,mg/L,2012,7,4,3,5,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,5,3,6,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,6,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2012,11,5,3,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,5,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TOC ,Total Organic Carbon,mg/L,2012,6,2,2,3,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2012,7,6,5,8,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TOC ,Total Organic Carbon,mg/L,2012,7,6,5,10,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,7,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2012,7,3,2,4,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2012,10,4,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2012,11,5,3,8,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,6,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2012,10,5,3,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,6,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TOC ,Total Organic Carbon,mg/L,2012,6,3,2,3,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2012,11,5,4,7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2012,8,5,2,9,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2012,11,5,3,8,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2012,11,6,4,9,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,7,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2012,11,10,5,17,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TOC ,Total Organic Carbon,mg/L,2012,7,6,5,7,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TOC ,Total Organic Carbon,mg/L,2012,7,5,4,7,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2012,12,5,4,8,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2012,51,5,4,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,4,3,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TOC ,Total Organic Carbon,mg/L,2012,6,5,4,8,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2012,12,6,3,22,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2013,12,4,2,7,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2013,12,4,3,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2013,11,8,3,39,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2013,8,11,8,13,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2013,12,6,5,7,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2013,10,3,2,5,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2013,12,6,4,7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2013,12,6,4,9,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2013,12,5,4,8,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2013,11,5,4,8,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2013,11,5,3,7,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2013,12,5,4,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2013,11,5,4,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2013,12,5,4,6,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2013,8,3,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2013,10,5,4,6,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2013,11,5,4,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2013,12,5,3,7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2013,12,4,3,6,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2013,11,5,3,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2013,4,5,1,10,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2013,12,5,2,8,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2013,8,6,4,7,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2013,9,10,7,12,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2013,12,5,4,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2013,51,5,3,6,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2013,12,4,3,5,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2013,10,5,3,8,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2014,11,3,2,5,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2014,12,4,3,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2014,9,5,4,7,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2014,8,11,3,16,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2014,11,6,5,7,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2014,9,3,2,7,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,5,4,6,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2014,10,6,4,8,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2014,9,6,5,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2014,9,5,5,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2014,12,5,4,6,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,4,4,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2014,11,5,3,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2014,11,5,4,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2014,10,3,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,6,5,11,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,5,3,6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2014,12,5,4,7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2014,12,4,3,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2014,4,4,3,7,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2014,12,5,4,6,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2014,9,6,4,7,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2014,10,8,4,14,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2014,10,5,4,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2014,51,4,3,6,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,4,3,5,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2014,11,5,3,9,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2015,12,3,2,4,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2015,11,4,3,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2015,10,7,4,27,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2015,9,43,8,294,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2015,12,7,5,22,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2015,9,2,2,3,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2015,11,5,4,7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2015,11,6,4,10,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2015,10,6,5,10,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2015,9,6,4,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2015,12,4,3,6,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2015,12,5,4,7,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2015,11,5,4,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2015,10,5,4,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2015,9,4,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2015,10,6,4,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2015,10,5,4,6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2015,12,5,3,6,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2015,12,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2015,10,4,3,6,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2015,10,5,4,7,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2015,9,7,4,15,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2015,11,6,4,9,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2015,12,5,3,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2015,51,4,3,6,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2015,9,5,4,7,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2015,10,5,3,9,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2016,11,2,1,3,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2016,12,3,2,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,4,3,5,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2016,11,11,6,17,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2016,12,6,5,8,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2016,10,2,1,4,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,TOC ,Total Organic Carbon,mg/L,2016,8,4,3,5,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,5,3,6,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,5,4,8,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,5,4,8,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2016,11,5,4,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,4,3,6,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,4,2,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2016,11,4,3,5,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2016,12,4,3,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2016,10,2,2,3,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2016,10,5,4,7,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2016,11,4,3,5,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2016,12,4,3,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2016,11,3,3,4,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2016,10,4,3,4,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2016,11,4,3,6,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2016,9,5,3,7,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2016,10,10,4,16,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2016,12,5,3,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2016,49,4,3,6,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2016,12,4,3,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2016,9,4,3,7,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2017,12,3,1,7,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2017,12,4,2,6,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,7,2,12,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2017,11,11,7,21,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2017,12,6,2,9,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2017,11,2,2,4,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,TOC ,Total Organic Carbon,mg/L,2017,7,5,3,7,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,5,3,7,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,5,4,8,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,5,4,9,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2017,11,5,4,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,4,4,5,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,4,3,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2017,11,5,4,5,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2017,12,4,3,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2017,11,3,2,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2017,11,5,3,6,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2017,11,4,3,5,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2017,11,4,3,5,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2017,12,4,2,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2017,11,4,3,5,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2017,3,6,4,9,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2017,12,5,3,7,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2017,10,6,3,8,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2017,11,4,4,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2017,12,5,3,6,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2017,46,4,3,6,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2017,11,5,3,7,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2017,11,5,3,12,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2018,12,3,2,4,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2018,10,4,3,7,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2018,11,7,3,26,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2018,10,11,6,15,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2018,12,7,5,9,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2018,9,2,2,4,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,6,4,9,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2018,10,6,5,7,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2018,10,6,5,8,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2018,5,5,5,6,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,4,3,6,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,4,3,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2018,12,5,4,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2018,12,5,4,6,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,4,3,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,5,4,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,5,4,6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2018,10,5,3,6,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2018,12,5,2,5,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2018,9,7,3,21,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2018,12,5,4,7,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2018,10,6,4,10,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2018,12,5,4,6,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2018,12,6,4,8,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2018,51,5,2,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2018,10,5,3,7,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2018,11,5,2,12,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2019,11,2,0,3,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2019,9,3,2,4,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2019,11,5,3,11,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2019,11,9,3,11,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2019,11,5,3,7,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2019,10,2,0,6,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2019,12,5,2,6,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2019,11,5,1,7,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2019,10,5,4,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2019,4,5,4,6,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2019,12,4,1,5,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2019,8,4,2,4,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2019,11,3,2,4,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2019,10,4,2,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2019,11,4,2,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2019,10,3,2,4,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2019,10,6,4,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2019,10,4,3,6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2019,12,4,1,4,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2019,11,3,1,4,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2019,10,4,2,5,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2019,11,4,3,7,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2019,9,4,3,5,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2019,11,5,2,7,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2019,11,4,2,5,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2019,11,5,2,6,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2019,48,4,2,5,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2019,12,4,1,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2019,9,3,1,4,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2020,11,2,2,4,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2020,11,3,2,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2020,12,6,3,9,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2020,12,10,5,16,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2020,12,7,4,10,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2020,12,3,2,5,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2020,11,6,3,8,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2020,12,6,3,7,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2020,12,5,3,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2020,12,5,3,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2020,12,5,2,8,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2020,12,5,3,9,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2020,11,4,3,6,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2020,5,4,4,5,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2020,10,5,4,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2020,10,5,3,7,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2020,5,2,2,2,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2020,11,4,3,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2020,16,6,3,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2020,11,5,3,6,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2020,12,5,3,8,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2020,11,4,3,6,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2020,11,4,3,5,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2020,12,5,2,9,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2020,12,5,3,7,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2020,12,6,3,8,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2020,16,4,3,7,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2020,12,5,3,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2020,46,5,2,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2020,12,5,2,7,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2020,11,4,3,8,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2021,10,3,2,5,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2021,10,4,3,6,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2021,4,11,6,18,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2021,10,14,7,19,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2021,11,8,7,10,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2021,10,3,2,5,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TOC ,Total Organic Carbon,mg/L,2021,3,9,5,15,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TOC ,Total Organic Carbon,mg/L,2021,3,6,5,7,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2021,11,7,6,9,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2021,12,6,5,7,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2021,10,6,6,8,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2021,12,6,5,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2021,12,5,4,6,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2021,12,5,5,7,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2021,10,6,4,7,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TOC ,Total Organic Carbon,mg/L,2021,13,5,3,6,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2021,10,5,4,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2021,10,6,5,8,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+55,130th Street,Calumet River at 130th Street,TOC ,Total Organic Carbon,mg/L,2021,13,3,2,3,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2021,9,4,3,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2021,22,7,5,10,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2021,10,6,4,8,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2021,12,6,4,7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2021,10,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2021,10,5,4,6,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2021,11,7,4,14,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2021,11,7,5,14,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2021,10,8,6,10,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2021,23,6,4,11,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2021,11,6,5,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2021,45,6,4,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2021,11,6,6,8,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2021,10,5,4,6,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2022,12,3,2,5,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2022,12,5,3,7,South Branch Chicago River,-9758326.630046986,5137947.951214144
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2022,10,12,8,18,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2022,12,7,6,10,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2022,9,3,2,5,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TOC ,Total Organic Carbon,mg/L,2022,11,5,2,12,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,6,5,8,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,TOC ,Total Organic Carbon,mg/L,2022,10,6,5,7,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TOC ,Total Organic Carbon,mg/L,2022,10,7,6,10,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2022,12,7,6,10,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2022,10,6,5,7,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,6,5,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2022,11,6,5,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,5,4,8,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,5,4,8,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2022,12,6,4,7,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2022,10,5,4,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2022,12,6,4,7,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,4,2,7,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,6,5,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,6,4,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2022,11,5,4,6,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2022,12,5,3,7,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2022,11,6,4,7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2022,11,6,4,7,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2022,11,6,5,9,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2022,10,7,6,8,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2022,12,7,5,10,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2022,10,6,5,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2022,51,5,4,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2022,11,6,5,8,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2022,10,5,4,6,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2023,12,3,2,4,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2023,12,5,4,5,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2023,6,6,6,8,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2023,12,11,8,17,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2023,12,7,6,10,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2023,12,3,2,5,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TOC ,Total Organic Carbon,mg/L,2023,12,4,3,6,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TOC ,Total Organic Carbon,mg/L,2023,6,6,5,7,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,10,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TOC ,Total Organic Carbon,mg/L,2023,12,7,5,9,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,7,5,10,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,9,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,6,4,7,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,5,5,6,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,5,4,7,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,8,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2023,12,5,4,7,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,4,3,5,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2023,18,6,5,8,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2023,12,5,5,7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,5,3,6,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2023,12,6,4,7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2023,12,7,4,11,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2023,12,6,4,9,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2023,12,7,6,10,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,7,6,9,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2023,12,6,5,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2023,52,6,4,8,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,6,4,7,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2023,12,5,4,6,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2024,12,3,1,5,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2024,13,5,3,6,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,6,6,7,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TOC ,Total Organic Carbon,mg/L,2024,12,12,8,23,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2024,12,7,6,10,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2024,12,3,2,6,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TOC ,Total Organic Carbon,mg/L,2024,13,6,2,21,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,TOC ,Total Organic Carbon,mg/L,2024,12,6,4,8,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TOC ,Total Organic Carbon,mg/L,2024,12,6,4,8,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,8,6,11,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,8,5,27,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,6,5,8,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2024,12,6,5,9,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,5,4,7,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,5,4,6,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2024,13,6,4,7,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2024,12,5,3,6,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2024,13,5,4,6,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,4,1,6,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,6,4,8,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,5,4,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2024,12,5,4,7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2024,13,4,3,5,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2024,18,5,3,7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2024,12,7,4,25,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2024,13,6,4,9,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2024,11,7,6,8,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,9,6,20,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2024,12,7,5,22,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2024,54,5,4,7,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,6,5,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2024,12,5,3,7,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TOC ,Total Organic Carbon,mg/L,2025,3,5,5,5,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,6,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,6,7,Salt Creek,-9778479.118246686,5134478.740255858
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TOC ,Total Organic Carbon,mg/L,2025,3,7,6,8,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TOC ,Total Organic Carbon,mg/L,2025,1,3,3,3,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TOC ,Total Organic Carbon,mg/L,2025,3,5,4,6,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,TOC ,Total Organic Carbon,mg/L,2025,2,7,6,7,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TOC ,Total Organic Carbon,mg/L,2025,3,7,6,7,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,7,6,8,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,6,7,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,6,7,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,7,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,7,7,7,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,6,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TOC ,Total Organic Carbon,mg/L,2025,1,5,5,5,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TOC ,Total Organic Carbon,mg/L,2025,1,7,7,7,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TOC ,Total Organic Carbon,mg/L,2025,1,5,5,5,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TOC ,Total Organic Carbon,mg/L,2025,2,6,5,6,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TOC ,Total Organic Carbon,mg/L,2025,2,7,6,7,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,6,7,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,7,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,6,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TOC ,Total Organic Carbon,mg/L,2025,1,7,7,7,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TOC ,Total Organic Carbon,mg/L,2025,3,5,4,6,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,7,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TOC ,Total Organic Carbon,mg/L,2025,1,7,7,7,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,8,6,9,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,7,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TOC ,Total Organic Carbon,mg/L,2025,13,6,5,8,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TOC ,Total Organic Carbon,mg/L,2025,3,6,5,6,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TOC ,Total Organic Carbon,mg/L,2025,1,5,5,5,Bubbly Creek,-9758696.948071491,5136817.240627698

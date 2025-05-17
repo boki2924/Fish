@@ -1,0 +1,1089 @@
+﻿Station Number,Station Name,Station Description,Parameter Name,Parameter Description,Units of Measure,Year,Result Count,Result Average,Result Min,Result Max,Waterway,x,y
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2001,7,368,158,670,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,463,332,616,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2001,10,254,158,436,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2001,10,709,442,1176,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2001,10,608,342,894,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2001,10,589,418,882,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2001,5,894,512,1364,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2001,9,401,202,640,South Branch Chicago River,-9758326.630046986,5137947.951214144
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2001,9,675,382,1314,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2001,10,617,436,782,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2001,10,624,478,832,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,648,476,864,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,617,476,818,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2001,10,609,424,842,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,644,488,928,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2001,10,614,472,794,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2001,10,635,450,944,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2001,10,614,480,802,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2001,10,648,404,896,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2001,10,685,256,1100,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2001,10,609,288,1024,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2001,9,220,164,450,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,447,272,570,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,495,358,706,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2001,10,441,262,882,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,481,342,782,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2001,10,526,340,1124,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2001,10,566,270,978,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,473,226,652,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2001,10,526,396,682,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,285,200,444,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2001,9,251,186,350,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,631,350,838,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2001,10,1131,452,1534,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2001,10,362,234,542,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2001,8,385,198,554,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2001,9,705,432,1192,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,568,406,826,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,552,226,904,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2001,10,579,462,722,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2001,10,516,404,800,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2001,10,335,170,600,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,413,242,680,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2001,10,529,290,992,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2001,9,813,496,1596,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2001,10,726,630,882,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2001,10,862,536,1458,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2001,10,649,486,882,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2001,9,752,604,924,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2001,10,557,444,710,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2001,10,703,476,986,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2001,45,598,296,914,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2001,45,543,278,950,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2001,11,624,262,1140,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2001,10,822,390,1252,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2001,10,431,250,690,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2002,12,360,168,748,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,463,376,754,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2002,11,395,178,808,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2002,11,721,400,1226,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2002,9,605,446,980,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2002,12,584,280,1040,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2002,6,886,598,1256,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2002,12,463,280,792,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2002,6,547,346,694,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2002,7,731,492,950,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2002,12,678,466,824,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2002,11,704,414,1018,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2002,10,632,382,956,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,730,372,1276,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2002,12,743,364,1494,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,790,370,1828,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2002,10,708,386,1040,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2002,12,750,376,1636,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2002,12,726,416,1206,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2002,10,663,530,820,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2002,10,643,464,960,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2002,12,658,424,1038,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2002,9,309,164,744,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,446,334,708,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,501,392,818,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2002,12,450,260,762,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,495,304,772,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2002,12,546,310,764,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2002,12,595,318,844,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,485,276,834,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2002,12,566,408,816,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,261,178,364,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,243,134,296,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2002,11,808,542,1028,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2002,7,1594,1024,2134,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2002,12,329,218,528,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,447,218,742,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,892,440,1272,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,683,428,1150,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,597,384,852,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2002,12,627,308,1302,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2002,12,495,330,814,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2002,12,310,162,534,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,483,284,866,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2002,12,532,324,712,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2002,6,922,312,2250,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2002,12,757,244,1534,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2002,8,708,348,1158,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2002,10,658,382,1020,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2002,11,858,286,1146,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2002,12,575,400,1080,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2002,9,692,420,1384,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2002,12,758,386,1596,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2002,51,561,304,1136,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,700,414,1338,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2002,12,1261,630,1956,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2002,12,462,292,798,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2003,12,403,162,964,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,460,324,840,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2003,10,339,180,724,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2003,9,837,572,1428,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2003,3,703,566,950,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2003,12,617,418,922,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2003,3,595,512,680,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2003,12,482,284,922,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2003,10,650,328,1192,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2003,8,717,542,1190,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2003,13,681,460,882,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2003,10,620,264,866,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,694,482,1384,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,708,326,1654,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2003,7,605,350,906,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2003,5,660,344,994,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2003,10,637,370,1008,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2003,12,696,346,1372,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2003,11,625,232,982,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2003,9,666,528,1040,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2003,9,664,238,1166,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2003,13,1079,524,2502,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2003,9,282,174,566,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,481,280,728,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,548,270,1008,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2003,11,488,282,982,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,471,200,818,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,523,312,918,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2003,12,558,330,994,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2003,11,589,178,898,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,597,350,1428,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2003,12,586,356,952,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2003,11,232,170,300,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,239,194,292,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2003,10,800,348,1068,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2003,3,937,600,1568,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2003,10,325,226,436,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2003,11,375,236,566,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,988,316,1600,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,585,258,912,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2003,11,609,370,858,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2003,12,592,386,1060,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2003,12,551,338,1390,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2003,10,309,146,914,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,488,256,1122,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2003,11,536,374,684,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2003,5,873,314,2240,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2003,12,666,328,1332,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2003,9,656,358,1208,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2003,12,659,280,1180,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2003,10,894,442,1218,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2003,11,590,126,1274,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2003,10,631,410,1018,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2003,11,682,426,960,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2003,52,595,296,1162,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2003,10,630,484,826,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2003,10,1277,278,2192,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2003,12,473,292,920,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2004,12,376,157,592,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,480,326,818,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2004,12,329,78,612,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2004,10,753,454,1178,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2004,12,689,460,1778,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2004,12,596,386,962,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2004,8,1244,612,2888,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2004,12,448,238,736,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2004,11,772,490,1424,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2004,10,915,324,1914,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2004,7,734,430,1082,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2004,11,664,479,825,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2004,11,651,382,980,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,721,452,1288,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2004,11,707,450,1062,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2004,11,691,508,1052,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2004,11,691,494,1160,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2004,11,675,416,1204,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2004,11,723,506,1360,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2004,11,648,318,1202,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2004,10,624,466,760,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2004,10,691,464,910,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2004,12,786,462,2256,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2004,9,239,188,338,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,496,220,1008,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,551,332,1076,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2004,12,450,240,680,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,472,262,756,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,541,360,776,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2004,12,588,364,1124,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2004,10,610,334,1038,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,570,346,1380,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2004,12,591,384,1094,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2004,10,225,141,298,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,269,166,312,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2004,9,712,358,946,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2004,7,1512,802,2096,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2004,10,339,206,520,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2004,9,388,224,620,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2004,10,854,492,1162,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,608,364,942,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,646,306,1142,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2004,12,654,430,1168,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2004,12,528,320,1048,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2004,9,295,134,546,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,496,278,948,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2004,12,564,348,996,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2004,6,1040,322,2172,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2004,11,688,532,846,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2004,11,903,592,1450,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2004,12,663,476,1250,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2004,9,768,656,950,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2004,11,635,266,1188,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2004,11,740,451,1112,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2004,11,679,440,1226,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2004,52,602,308,1458,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2004,11,662,452,902,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2004,11,1124,472,1832,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2004,12,458,250,810,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2005,12,364,158,648,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,545,346,1126,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2005,12,412,160,836,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2005,10,1202,508,2354,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2005,12,737,520,1166,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2005,12,677,502,890,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2005,4,1018,576,1666,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2005,10,463,240,732,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,784,330,1412,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2005,11,1047,324,2128,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2005,7,994,698,1214,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2005,12,718,504,1045,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2005,12,761,530,1226,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,851,520,1362,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,760,480,1320,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2005,12,752,440,1232,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,747,310,1304,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2005,12,751,448,1292,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2005,12,794,414,1364,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2005,12,743,402,1258,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2005,10,864,605,1162,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2005,11,836,478,1218,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2005,11,860,566,1328,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2005,8,236,146,512,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,500,220,976,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,598,350,1326,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2005,12,474,244,796,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,464,252,756,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,520,310,852,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2005,11,571,368,1018,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2005,11,610,342,898,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,582,342,1116,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2005,11,576,422,822,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2005,11,217,133,312,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,273,190,390,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2005,11,574,182,826,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2005,8,1178,306,1896,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2005,11,293,154,508,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2005,9,345,172,616,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2005,11,879,400,1408,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,617,327,1060,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,611,336,964,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2005,12,663,406,1070,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2005,12,557,336,852,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2005,10,269,166,516,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2005,12,482,240,796,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2005,12,548,198,1098,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2005,4,1081,602,1576,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2005,12,713,470,1202,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2005,9,1034,460,1796,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2005,12,723,22,1462,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2005,10,615,254,852,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2005,12,607,412,914,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2005,11,750,288,1144,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2005,12,770,496,1218,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2005,52,604,322,1760,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2005,11,917,588,1412,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2005,11,1196,607,1770,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2005,11,461,240,754,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2006,12,328,120,576,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,479,356,596,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2006,12,364,154,596,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2006,12,885,430,1726,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2006,12,654,154,1222,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2006,12,630,410,938,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2006,5,807,274,1332,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2006,12,481,260,782,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,722,422,1214,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2006,11,1155,366,4482,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2006,9,790,458,1180,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2006,12,709,586,1054,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2006,12,751,550,1218,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,792,540,1226,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,749,510,1270,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2006,12,744,530,1292,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,723,512,1246,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2006,12,716,548,1160,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2006,12,698,442,1086,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2006,12,729,546,1202,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2006,11,724,316,1140,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2006,12,661,204,928,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2006,12,712,346,1172,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2006,9,219,136,404,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,464,338,580,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,513,354,714,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2006,12,441,200,684,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,463,282,722,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,517,344,728,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2006,12,536,350,746,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2006,11,622,422,934,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,538,348,830,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2006,12,565,360,768,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,237,146,342,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,235,186,286,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,656,542,798,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2006,9,1480,1266,1892,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2006,11,345,240,434,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,404,240,528,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,851,658,1100,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,621,412,996,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,658,460,1074,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2006,12,649,424,982,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2006,12,507,340,690,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2006,11,249,130,456,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,462,256,770,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2006,11,577,394,892,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2006,7,1118,290,3744,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2006,12,706,480,1044,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2006,9,773,488,1356,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2006,12,778,494,1246,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2006,11,844,648,1028,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2006,12,645,410,1222,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2006,12,779,410,1250,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2006,12,743,488,1282,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2006,51,568,378,838,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2006,12,773,470,1276,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2006,11,1066,874,1512,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2006,7,413,248,710,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2007,11,404,170,1122,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,698,362,1680,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2007,12,432,152,1090,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2007,11,1134,540,3884,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2007,11,747,468,1470,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2007,11,677,436,1080,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2007,4,1577,628,4010,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2007,12,573,236,1326,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,761,342,1206,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2007,10,879,310,2118,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2007,9,775,392,1316,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2007,13,649,448,882,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2007,11,634,428,856,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,766,488,1352,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,662,466,950,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2007,11,677,474,964,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,690,416,1102,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2007,11,719,378,1220,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2007,11,783,376,1404,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2007,11,705,476,1138,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2007,10,780,520,1082,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2007,10,806,528,1100,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2007,11,832,488,2016,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2007,9,254,164,694,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,641,358,1480,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,741,394,1664,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2007,11,530,224,1110,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,599,252,1522,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,749,352,2480,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2007,11,594,338,1010,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2007,11,612,280,1316,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,658,398,1632,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2007,11,583,336,870,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2007,10,236,154,386,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,289,232,332,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,634,264,858,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2007,10,1409,998,2076,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2007,10,388,212,642,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2007,9,457,232,764,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,795,282,1392,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,588,364,1146,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,602,366,1260,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2007,12,643,378,1090,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2007,12,603,378,1030,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2007,11,359,172,784,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2007,12,630,278,1844,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2007,11,637,384,1386,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2007,5,623,186,930,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2007,12,780,410,1224,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2007,10,941,508,1746,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2007,12,779,522,1384,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2007,10,728,546,982,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2007,12,631,424,1122,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2007,11,770,420,1150,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2007,11,694,430,1152,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2007,51,634,346,1420,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,837,500,1788,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2007,11,974,332,1822,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2007,11,549,262,1444,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2008,12,428,176,728,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,569,358,984,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2008,11,425,158,924,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2008,10,840,486,1468,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2008,12,771,372,1712,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2008,12,750,418,1552,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2008,11,965,622,1382,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2008,11,531,252,822,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2008,11,857,516,1642,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2008,11,932,248,1982,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2008,11,923,566,1774,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2008,12,723,404,1000,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2008,11,737,262,1140,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,970,474,1844,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,812,472,1356,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2008,12,807,390,1254,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2008,11,783,472,1368,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2008,11,801,458,1362,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2008,12,895,498,1516,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2008,12,822,452,1328,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2008,10,776,424,1306,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2008,10,699,308,1120,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2008,11,735,424,1166,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2008,9,316,172,844,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,545,332,956,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,642,380,1172,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2008,12,547,278,1022,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,541,268,830,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,608,374,862,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2008,12,615,302,882,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2008,10,651,408,978,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,690,408,1742,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2008,12,620,262,838,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2008,9,221,176,278,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,295,262,330,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2008,10,731,330,908,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2008,8,1592,1338,2090,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2008,9,397,222,636,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2008,9,454,210,666,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2008,10,833,324,1290,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,712,396,1316,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2008,11,672,432,1006,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2008,12,723,476,1328,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2008,12,687,414,1326,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2008,10,267,166,466,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,587,304,900,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2008,12,695,358,1216,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2008,5,1161,690,2084,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2008,12,824,660,1374,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2008,9,980,476,1912,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2008,12,957,504,1844,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2008,10,770,586,868,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2008,12,627,376,1334,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2008,11,807,512,1382,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2008,12,801,412,1318,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2008,51,706,236,1718,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,883,402,2138,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2008,11,1163,670,2052,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2008,12,576,298,840,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2009,11,324,156,616,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,591,258,1408,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2009,11,394,158,756,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2009,11,833,358,1434,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2009,12,676,468,1024,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2009,12,643,472,1108,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2009,11,955,324,1552,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2009,12,492,234,822,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2009,11,690,442,1012,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2009,9,763,380,1630,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2009,9,690,486,846,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2009,12,549,418,710,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2009,11,549,358,664,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,687,346,1014,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,594,460,818,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2009,11,584,458,728,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2009,11,590,464,732,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2009,11,595,464,730,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2009,12,728,498,1014,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2009,11,593,414,762,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2009,10,637,346,994,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2009,10,615,366,944,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2009,12,699,416,1150,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2009,9,258,114,476,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2009,10,614,230,1258,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,614,326,1536,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2009,11,483,226,842,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2009,11,485,248,842,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,570,306,914,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2009,10,557,364,834,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2009,10,559,282,790,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,575,274,1168,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2009,10,531,376,868,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2009,7,229,156,318,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2009,10,297,196,366,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2009,10,560,320,704,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2009,9,1247,748,1804,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2009,9,387,154,628,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2009,8,421,174,694,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2009,10,681,406,906,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2009,11,557,296,856,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2009,10,555,306,770,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2009,12,638,436,902,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2009,12,676,346,1994,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2009,9,240,130,448,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,485,266,840,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2009,11,566,284,858,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2009,4,703,286,1086,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2009,12,781,528,1514,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2009,8,701,496,1000,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2009,12,708,458,996,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2009,5,768,702,824,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2009,12,594,330,994,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2009,11,652,486,836,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2009,12,610,392,884,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2009,51,588,330,996,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2009,12,751,404,1196,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2009,9,943,578,1242,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2009,11,479,270,728,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2010,12,407,172,996,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2010,12,559,274,1206,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2010,11,403,160,828,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2010,10,1036,562,2126,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2010,9,770,452,1398,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2010,12,699,504,1304,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2010,10,1135,352,2324,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2010,11,580,332,1020,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2010,11,827,408,1902,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2010,8,752,516,984,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2010,7,891,392,1848,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2010,11,670,490,1020,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2010,11,721,460,1246,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2010,10,880,496,1568,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2010,11,726,444,1354,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2010,11,725,442,1488,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2010,12,750,442,1610,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2010,11,739,444,1690,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2010,10,853,488,1782,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2010,12,727,482,1808,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2010,9,834,504,1590,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2010,9,767,300,1626,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2010,8,883,516,1664,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2010,8,248,178,388,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2010,11,527,296,1092,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2010,12,676,346,1208,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2010,12,522,286,1184,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2010,12,560,324,1062,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2010,9,614,364,812,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2010,12,629,408,1178,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2010,11,665,362,1166,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2010,12,584,352,998,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2010,12,656,396,1268,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2010,6,224,152,278,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2010,11,323,254,400,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2010,11,572,278,1102,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2010,9,1356,746,2276,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2010,10,357,196,556,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2010,10,407,208,658,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2010,10,774,312,1678,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2010,10,657,376,1068,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2010,10,598,234,882,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,TDS,Total Dissolved Solids,mg/L,2010,6,912,560,1714,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2010,12,628,346,1010,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2010,11,309,158,724,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2010,12,533,324,812,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2010,10,579,318,844,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2010,1,1162,1162,1162,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2010,9,758,460,1260,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2010,8,726,540,930,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2010,12,820,478,1584,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2010,7,556,128,820,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2010,12,633,464,1090,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2010,10,799,530,1688,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2010,12,739,420,1844,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2010,51,658,294,1718,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2010,11,868,418,1724,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2010,11,1020,436,2116,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2010,10,553,354,844,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2011,12,501,270,864,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,618,292,1920,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2011,12,483,168,862,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2011,11,1039,344,2552,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2011,12,680,304,1216,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2011,12,651,360,904,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2011,10,1258,442,3628,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2011,12,566,298,948,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,789,520,1364,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2011,10,854,522,1272,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2011,12,694,492,1022,West Branch DuPage River,-9811547.219382191,5157233.888994125
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2011,9,764,494,1098,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2011,11,624,466,874,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2011,11,665,488,964,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,790,480,1504,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,672,448,1042,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2011,11,687,456,1080,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,707,476,1100,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2011,11,712,484,1128,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2011,11,799,536,1416,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2011,11,696,454,1102,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2011,9,747,326,980,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2011,10,690,318,982,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2011,11,718,320,1052,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2011,8,305,164,714,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,636,310,2094,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,645,356,1676,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2011,6,685,544,856,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,548,294,882,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,615,372,1046,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2011,12,648,426,982,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2011,11,623,382,1020,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,583,334,904,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2011,12,651,434,950,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2011,6,270,210,322,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,342,240,414,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2011,10,505,286,766,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2011,10,1055,508,1794,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2011,10,400,204,590,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2011,10,453,222,696,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2011,10,723,378,1070,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,645,350,956,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,679,376,1110,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2011,12,576,326,902,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2011,12,459,190,1164,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,554,256,1040,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2011,11,611,332,936,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2011,5,712,468,1090,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2011,11,797,566,1142,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2011,10,838,552,1414,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2011,11,777,486,1564,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2011,10,516,120,938,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2011,12,674,502,978,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2011,11,726,516,1088,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2011,11,688,438,1080,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2011,51,650,258,1306,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2011,11,766,432,1140,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2011,10,899,370,1204,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2011,12,563,320,896,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2012,11,455,226,806,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,TDS,Total Dissolved Solids,mg/L,2012,7,562,368,984,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,TDS,Total Dissolved Solids,mg/L,2012,7,495,176,880,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,TDS,Total Dissolved Solids,mg/L,2012,7,1154,500,1896,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,TDS,Total Dissolved Solids,mg/L,2012,7,802,524,1000,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,TDS,Total Dissolved Solids,mg/L,2012,7,757,598,940,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,TDS,Total Dissolved Solids,mg/L,2012,5,1446,868,2310,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2012,12,438,84,788,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,715,378,1148,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2012,11,848,480,1290,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2012,12,630,500,996,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2012,5,506,332,590,North Shore Channel,-9763803.492506059,5167131.2098396
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2012,6,844,736,994,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2012,7,670,586,740,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,TDS,Total Dissolved Solids,mg/L,2012,7,685,584,790,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,741,484,1248,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,654,478,794,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,TDS,Total Dissolved Solids,mg/L,2012,7,670,464,794,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,671,466,898,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2012,12,691,506,934,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,TDS,Total Dissolved Solids,mg/L,2012,7,813,476,1158,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,TDS,Total Dissolved Solids,mg/L,2012,7,735,536,994,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2012,4,885,712,1010,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,TDS,Total Dissolved Solids,mg/L,2012,6,914,520,1394,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,TDS,Total Dissolved Solids,mg/L,2012,7,999,526,1622,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,TDS,Total Dissolved Solids,mg/L,2012,5,559,180,1026,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,502,360,1138,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2012,6,651,398,1238,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,TDS,Total Dissolved Solids,mg/L,2012,6,584,330,816,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,TDS,Total Dissolved Solids,mg/L,2012,7,631,356,1116,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,571,364,1084,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,TDS,Total Dissolved Solids,mg/L,2012,7,668,470,1022,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2012,11,610,188,958,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,TDS,Total Dissolved Solids,mg/L,2012,7,645,354,982,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2012,12,618,424,930,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,TDS,Total Dissolved Solids,mg/L,2012,6,252,188,338,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2012,7,376,322,406,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,TDS,Total Dissolved Solids,mg/L,2012,7,780,578,998,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,TDS,Total Dissolved Solids,mg/L,2012,7,1577,874,2508,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,TDS,Total Dissolved Solids,mg/L,2012,7,468,286,540,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2012,10,530,240,958,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2012,11,923,552,1656,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2012,7,747,580,994,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2012,10,673,370,1042,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2012,12,515,328,800,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,TDS,Total Dissolved Solids,mg/L,2012,6,509,208,846,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,536,268,1258,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2012,11,611,382,920,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2012,9,834,248,1160,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2012,11,687,330,988,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2012,11,923,694,1390,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,TDS,Total Dissolved Solids,mg/L,2012,7,838,558,1022,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2012,11,595,114,892,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,TDS,Total Dissolved Solids,mg/L,2012,7,633,456,938,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,TDS,Total Dissolved Solids,mg/L,2012,7,777,596,980,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2012,12,694,586,940,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2012,51,603,402,990,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,786,468,1516,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,TDS,Total Dissolved Solids,mg/L,2012,5,1127,718,2004,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2012,12,514,296,1172,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2013,12,451,250,858,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2013,12,525,258,952,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2013,11,744,386,1562,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2013,8,744,364,1278,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2013,12,645,418,1262,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2013,10,425,162,1156,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2013,12,722,490,1366,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2013,12,681,408,1296,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2013,12,701,424,1414,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2013,11,701,392,1488,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2013,11,476,278,718,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2013,12,560,356,808,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2013,11,623,416,888,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2013,12,598,382,892,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2013,8,365,232,708,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2013,10,907,448,1592,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2013,11,624,426,874,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2013,12,554,352,938,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2013,12,528,274,1028,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2013,11,589,368,926,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2013,4,837,280,1614,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2013,13,747,422,1168,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2013,8,695,448,1220,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2013,9,774,256,1042,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2013,12,685,370,1430,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2013,51,625,342,1380,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2013,12,756,372,1238,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2013,10,522,264,1124,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2014,11,379,168,884,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2014,12,562,272,1098,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2014,9,752,532,1186,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2014,8,937,524,1402,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2014,11,709,484,966,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2014,9,325,164,910,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,874,520,1606,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2014,10,736,544,1206,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2014,9,705,548,960,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2014,9,722,532,976,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2014,12,560,194,1054,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,674,448,1276,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2014,11,609,308,808,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2014,11,670,458,1242,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2014,10,450,260,606,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,811,264,1272,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,601,308,820,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2014,12,639,446,1196,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,598,292,1240,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2014,12,621,412,896,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2014,4,1196,530,2008,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2014,12,754,536,912,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2014,9,940,618,1540,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2014,10,626,298,802,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2014,10,749,450,1164,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2014,51,706,308,1706,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,920,514,1788,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2014,11,578,314,1216,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2015,12,381,138,966,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2015,11,515,210,998,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2015,10,791,486,1318,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2015,9,901,552,1630,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2015,12,686,494,998,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2015,9,232,116,478,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2015,11,758,508,1304,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2015,11,734,512,1036,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2015,10,746,518,1094,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2015,9,712,450,1082,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2015,12,656,284,1540,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2015,12,628,374,1104,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2015,11,671,424,956,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2015,10,657,334,1262,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2015,9,430,274,700,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2015,10,1084,422,1570,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2015,10,648,468,892,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2015,12,707,386,1996,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2015,12,625,318,1458,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2015,10,588,422,804,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2015,10,752,484,936,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2015,9,898,454,1776,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2015,11,699,576,834,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2015,12,785,462,1128,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2015,51,692,384,1666,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2015,9,657,384,842,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2015,10,531,340,1108,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2016,11,347,180,706,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2016,12,529,318,820,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,730,394,1288,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2016,11,839,538,1780,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2016,12,659,434,1124,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2016,10,299,172,732,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,TDS,Total Dissolved Solids,mg/L,2016,8,753,358,1558,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,711,466,1070,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,686,510,912,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,689,474,1084,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2016,11,674,448,1144,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,648,416,1958,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,671,380,1256,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2016,11,586,298,738,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2016,12,637,408,874,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2016,10,320,234,418,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2016,10,957,248,1698,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2016,11,568,302,796,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2016,12,614,428,918,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2016,11,545,338,864,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2016,10,531,366,686,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2016,11,731,496,1102,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2016,9,762,496,1606,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2016,10,701,226,1280,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2016,11,631,450,888,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2016,49,622,322,934,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2016,12,751,532,1060,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2016,9,510,336,866,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2017,11,351,136,942,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2017,12,499,240,1180,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,638,386,888,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2017,11,660,222,1066,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2017,12,538,244,774,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2017,11,239,146,410,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,TDS,Total Dissolved Solids,mg/L,2017,7,673,366,1126,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,626,472,842,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,567,370,784,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,584,382,762,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2017,11,572,380,740,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,476,304,658,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,498,362,698,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2017,11,559,404,734,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2017,12,539,264,864,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2017,11,432,268,560,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2017,11,688,434,1176,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2017,11,541,376,668,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2017,11,491,282,646,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,456,244,826,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2017,11,505,340,694,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2017,3,593,428,880,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2017,12,646,398,784,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2017,10,605,282,944,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2017,11,543,374,736,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2017,12,590,326,800,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2017,46,557,386,1094,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2017,11,605,262,920,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2017,12,497,302,934,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2018,12,434,178,1214,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2018,10,613,306,1190,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2018,11,663,364,994,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2018,10,707,294,1290,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2018,12,629,352,848,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2018,8,310,190,722,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,641,318,952,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2018,10,573,316,790,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2018,10,601,296,882,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2018,5,730,514,918,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2018,11,699,314,1668,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,595,364,1326,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2018,12,600,454,846,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2018,12,620,406,912,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,427,294,522,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,778,456,1234,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,596,498,688,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2018,9,543,436,740,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,571,268,1570,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2018,12,564,416,736,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2018,9,726,340,1380,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2018,12,659,276,832,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2018,10,690,278,1352,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2018,12,515,330,662,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2018,12,656,390,894,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2018,50,618,388,1228,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2018,9,611,356,1214,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2018,11,559,290,1264,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2019,11,391,160,1060,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2019,9,594,260,1290,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2019,11,676,426,1150,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2019,11,745,312,1176,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2019,11,669,468,1370,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2019,10,307,140,822,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2019,12,686,382,1478,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2019,11,617,352,1568,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2019,10,542,384,762,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2019,4,444,386,500,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2019,12,700,350,1690,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2019,8,574,386,1278,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2019,11,735,268,2034,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2019,10,550,364,1086,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2019,11,613,338,1200,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2019,10,430,240,648,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2019,10,654,312,1042,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2019,10,555,354,802,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2019,12,747,386,2116,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2019,11,574,264,1420,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2019,10,533,338,890,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2019,11,823,310,1918,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2019,9,773,528,1618,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2019,11,744,432,1776,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2019,11,517,404,654,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2019,11,585,358,1086,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2019,48,628,278,1702,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2019,12,752,432,1780,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2019,9,598,296,1334,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2020,11,367,150,892,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2020,11,477,268,972,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2020,12,642,328,1186,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2020,12,789,206,1524,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2020,12,578,292,952,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2020,11,328,126,1024,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,653,458,1218,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2020,12,520,284,782,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2020,12,543,312,902,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2020,12,571,408,960,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,488,280,1112,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,521,364,1040,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,534,262,1050,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2020,10,535,412,852,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2020,10,548,262,1200,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,394,278,516,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,961,414,1716,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,557,444,816,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2020,11,529,366,1166,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,444,252,844,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2020,11,501,348,680,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2020,12,825,274,2148,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2020,12,659,444,930,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2020,12,663,258,1292,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,477,376,716,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2020,12,567,414,940,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2020,45,576,272,1416,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,596,402,972,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2020,11,466,280,838,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2021,10,334,172,742,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2021,10,481,252,790,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2021,5,1361,1030,1610,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2021,11,1102,464,1804,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2021,12,787,464,1494,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2021,10,256,174,540,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TDS,Total Dissolved Solids,mg/L,2021,3,787,650,888,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TDS,Total Dissolved Solids,mg/L,2021,3,543,464,618,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2021,12,833,470,2090,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2021,12,858,500,1410,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2021,11,863,502,1494,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2021,12,923,496,1642,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2021,12,522,322,906,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2021,12,599,412,1192,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2021,10,584,408,892,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2021,11,639,294,916,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2021,10,638,420,916,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2021,10,407,292,644,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2021,10,860,200,1422,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2021,11,595,330,920,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2021,12,627,422,1424,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2021,10,481,340,814,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2021,11,548,396,784,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2021,11,1383,434,4580,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2021,11,907,502,1650,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2021,10,1014,422,1560,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2021,10,567,402,884,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2021,12,933,446,1642,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2021,48,688,370,1962,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2021,11,733,494,1006,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2021,10,504,328,900,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2022,12,363,158,756,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2022,12,489,280,1104,South Branch Chicago River,-9758326.630046986,5137947.951214144
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2022,10,816,278,2694,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2022,12,656,288,1654,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2022,10,336,124,960,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TDS,Total Dissolved Solids,mg/L,2022,12,1355,302,3876,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TDS,Total Dissolved Solids,mg/L,2022,11,738,430,1360,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,TDS,Total Dissolved Solids,mg/L,2022,10,419,256,658,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TDS,Total Dissolved Solids,mg/L,2022,10,427,290,834,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,677,490,1128,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2022,11,664,236,1130,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2022,11,714,392,1288,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2022,11,743,512,1362,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,518,362,754,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,567,288,976,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,593,372,954,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2022,11,629,458,902,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2022,12,620,386,970,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2022,11,460,260,694,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2022,11,874,326,1346,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2022,11,654,406,1096,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2022,12,570,298,1034,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,511,286,926,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2022,11,587,340,948,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2022,12,1091,390,2654,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2022,12,720,492,1224,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2022,10,730,374,1478,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,747,428,908,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2022,11,668,464,1016,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2022,52,634,386,1094,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2022,12,650,208,1180,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2022,10,519,284,906,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2023,12,375,154,1028,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2023,12,493,270,1238,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2023,6,565,528,604,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2023,12,790,530,1090,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2023,12,615,486,860,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2023,12,365,140,720,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TDS,Total Dissolved Solids,mg/L,2023,12,1161,822,1564,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,TDS,Total Dissolved Solids,mg/L,2023,6,749,652,872,Salt Creek,-9778632.442307537,5135217.403079835
+129,139th Street,Midlothian Creek at 139th Street,TDS,Total Dissolved Solids,mg/L,2023,12,602,360,1584,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TDS,Total Dissolved Solids,mg/L,2023,12,600,288,1838,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,623,528,752,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,632,536,928,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,646,564,854,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2023,12,637,562,852,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,478,370,694,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,503,378,736,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,523,354,788,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2023,12,581,444,788,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2023,12,577,396,968,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,425,236,572,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,822,448,1494,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2023,18,626,438,1178,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2023,12,493,336,734,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,452,256,770,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2023,12,573,350,934,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2023,12,806,472,1584,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2023,12,642,528,782,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2023,12,754,588,1056,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,726,514,914,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2023,12,646,516,940,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2023,52,584,362,1246,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,636,424,824,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2023,12,471,288,838,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2024,12,343,146,748,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2024,12,439,264,862,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,673,498,1080,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,TDS,Total Dissolved Solids,mg/L,2024,12,779,368,1888,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2024,12,557,358,878,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2024,12,358,154,820,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TDS,Total Dissolved Solids,mg/L,2024,12,1032,304,1636,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,TDS,Total Dissolved Solids,mg/L,2024,12,491,186,860,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TDS,Total Dissolved Solids,mg/L,2024,12,488,226,990,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,595,464,876,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,556,384,824,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,608,430,982,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2024,12,620,472,986,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,437,258,600,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,474,236,746,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,518,282,920,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2024,12,568,378,904,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2024,12,550,404,1086,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,452,286,738,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,712,350,1350,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,587,374,820,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2024,12,472,302,738,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,470,262,828,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2024,18,533,360,868,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2024,12,757,228,1528,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2024,12,605,420,946,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2024,11,634,414,1106,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,689,514,852,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2024,12,566,350,786,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2024,53,548,348,1128,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,559,188,982,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2024,12,486,310,890,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,TDS,Total Dissolved Solids,mg/L,2025,3,685,616,740,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,TDS,Total Dissolved Solids,mg/L,2025,3,682,590,728,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,TDS,Total Dissolved Solids,mg/L,2025,4,880,640,1232,Salt Creek,-9778479.118246686,5134478.740255858
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,TDS,Total Dissolved Solids,mg/L,2025,4,889,650,1330,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,TDS,Total Dissolved Solids,mg/L,2025,1,686,686,686,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,TDS,Total Dissolved Solids,mg/L,2025,4,1546,1272,2052,Weller Creek,-9791310.180190712,5169842.130070917
+129,139th Street,Midlothian Creek at 139th Street,TDS,Total Dissolved Solids,mg/L,2025,2,1342,854,1830,Midlothian Creek,-9762565.693509998,5107888.2094410425
+130,Chatham Road,Midlothian Creek at Chatham Road,TDS,Total Dissolved Solids,mg/L,2025,2,1322,854,1790,Midlothian Creek,-9759961.818484122,5107888.209656332
+18,Devon Avenue,Salt Creek at Devon Avenue,TDS,Total Dissolved Solids,mg/L,2025,4,753,522,994,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,TDS,Total Dissolved Solids,mg/L,2025,4,751,626,992,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,TDS,Total Dissolved Solids,mg/L,2025,4,782,648,1080,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,TDS,Total Dissolved Solids,mg/L,2025,4,820,666,1164,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,TDS,Total Dissolved Solids,mg/L,2025,3,629,460,822,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,TDS,Total Dissolved Solids,mg/L,2025,3,727,544,866,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,TDS,Total Dissolved Solids,mg/L,2025,1,752,752,752,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,TDS,Total Dissolved Solids,mg/L,2025,1,664,664,664,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,TDS,Total Dissolved Solids,mg/L,2025,1,818,818,818,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,TDS,Total Dissolved Solids,mg/L,2025,2,646,626,666,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,TDS,Total Dissolved Solids,mg/L,2025,2,1170,788,1552,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2025,3,769,730,818,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,TDS,Total Dissolved Solids,mg/L,2025,3,821,584,1104,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,TDS,Total Dissolved Solids,mg/L,2025,3,725,640,824,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,TDS,Total Dissolved Solids,mg/L,2025,1,714,714,714,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,TDS,Total Dissolved Solids,mg/L,2025,4,1342,840,2126,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,TDS,Total Dissolved Solids,mg/L,2025,4,762,564,1018,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,TDS,Total Dissolved Solids,mg/L,2025,2,1336,1040,1632,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,TDS,Total Dissolved Solids,mg/L,2025,3,797,760,860,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,TDS,Total Dissolved Solids,mg/L,2025,4,862,688,1314,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,TDS,Total Dissolved Solids,mg/L,2025,14,776,518,1124,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,TDS,Total Dissolved Solids,mg/L,2025,3,1126,988,1308,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,TDS,Total Dissolved Solids,mg/L,2025,1,808,808,808,Bubbly Creek,-9758696.948071491,5136817.240627698

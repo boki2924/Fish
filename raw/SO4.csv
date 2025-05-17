@@ -1,0 +1,1081 @@
+﻿Station Number,Station Name,Station Description,Parameter Name,Parameter Description,Units of Measure,Year,Result Count,Result Average,Result Min,Result Max,Waterway,x,y
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2001,7,36,17,60,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2001,11,47,32,63,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2001,11,27,20,50,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2001,11,61,46,89,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2001,11,63,48,91,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2001,11,61,44,89,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2001,6,64,50,77,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2001,9,44,32,74,South Branch Chicago River,-9758326.630046986,5137947.951214144
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2001,9,92,71,117,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2001,10,76,48,92,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2001,10,85,49,151,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2001,11,81,65,92,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2001,11,79,52,97,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2001,11,80,52,117,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2001,13,126,64,286,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2001,11,83,63,97,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2001,11,97,72,117,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2001,11,81,63,100,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2001,11,70,60,83,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2001,11,67,35,103,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2001,11,60,38,92,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2001,10,25,17,41,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2001,12,100,33,372,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2001,11,52,30,68,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2001,10,43,28,63,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2001,10,60,44,79,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2001,10,64,39,81,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2001,11,111,62,167,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2001,11,54,37,66,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2001,10,86,52,115,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2001,10,29,16,44,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2001,9,40,26,83,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2001,10,121,70,166,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2001,10,509,265,666,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2001,10,62,27,102,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2001,8,73,25,116,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2001,9,161,71,273,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2001,10,101,58,164,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2001,10,114,67,169,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2001,11,76,59,90,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2001,10,57,46,76,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2001,10,31,16,57,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2001,10,44,22,68,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2001,10,103,66,190,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2001,10,52,32,85,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2001,11,110,78,129,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2001,11,87,66,124,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2001,11,83,70,100,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2001,9,186,159,223,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2001,11,71,60,84,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2001,11,64,49,73,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2001,45,80,51,110,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2001,47,88,46,126,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2001,10,65,42,85,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2001,11,257,98,355,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2001,10,52,26,81,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2002,12,37,22,60,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2002,12,51,41,66,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2002,11,43,24,66,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2002,11,65,42,80,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2002,9,64,48,78,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2002,12,65,49,84,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2002,6,62,47,71,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2002,12,49,33,79,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2002,6,84,49,108,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2002,7,96,75,130,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2002,12,85,62,101,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2002,11,86,60,103,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2002,10,79,52,96,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2002,12,86,55,105,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2002,12,87,56,103,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2002,12,88,53,102,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2002,10,90,68,121,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2002,12,95,66,114,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2002,12,91,68,103,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2002,10,72,50,108,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2002,10,62,44,79,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2002,12,62,47,76,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2002,10,39,20,80,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2002,12,53,39,75,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2002,12,57,48,68,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2002,12,49,33,75,South Branch Chicago River,-9755836.894673718,5143332.001117509
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2002,12,69,41,92,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2002,12,78,51,96,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2002,12,109,48,147,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2002,12,56,46,67,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2002,12,88,66,105,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2002,12,28,20,33,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2002,12,37,30,45,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2002,11,146,101,185,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2002,8,747,268,1001,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2002,12,55,24,97,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2002,12,79,31,133,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2002,12,242,56,461,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2002,12,146,78,458,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2002,12,118,77,168,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2002,12,68,51,84,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2002,12,56,47,81,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2002,12,32,21,41,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2002,12,54,33,82,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2002,12,91,56,119,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2002,6,48,34,63,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2002,12,97,59,124,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2002,8,76,52,109,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2002,10,79,62,91,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2002,11,220,57,320,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2002,12,65,57,96,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2002,9,63,46,83,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2002,12,96,64,112,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2002,51,89,58,119,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2002,12,69,47,88,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2002,12,446,126,683,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2002,12,52,34,78,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2003,12,44,23,70,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2003,12,53,33,69,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2003,10,43,24,66,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2003,8,76,46,94,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2003,3,68,53,79,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2003,12,65,53,79,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2003,3,64,50,84,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2003,12,53,36,85,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2003,10,82,57,112,Salt Creek,-9778479.118246686,5134478.740255858
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2003,8,93,58,162,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2003,12,92,66,132,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2003,10,88,59,131,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2003,12,76,57,95,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2003,12,85,53,131,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2003,7,86,58,125,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2003,5,89,60,122,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2003,10,92,58,140,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2003,12,84,47,117,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2003,11,96,67,136,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2003,9,76,49,108,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2003,9,80,52,119,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2003,11,72,49,95,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2003,9,37,22,64,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2003,12,53,31,76,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2003,12,57,35,78,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2003,11,55,38,95,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2003,12,53,37,80,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2003,12,73,60,84,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2003,12,82,62,110,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2003,11,128,67,184,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2003,12,59,47,76,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2003,12,95,70,116,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2003,11,30,23,39,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2003,12,35,27,50,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2003,10,180,100,250,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2003,4,410,214,902,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2003,10,54,35,79,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2003,11,74,46,128,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2003,10,293,84,581,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2003,12,142,78,406,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2003,11,136,91,195,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2003,12,68,51,104,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2003,12,59,46,74,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2003,10,36,23,57,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2003,12,52,36,73,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2003,11,101,73,145,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2003,5,45,38,52,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2003,12,90,39,122,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2003,9,73,45,136,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2003,12,78,59,98,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2003,10,257,155,380,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2003,11,68,52,97,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2003,10,47,5,103,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2003,11,97,68,132,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2003,52,97,60,126,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2003,10,74,49,89,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2003,12,554,104,856,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2003,12,55,39,77,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2004,11,41,21,70,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2004,12,57,35,91,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2004,12,42,23,75,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2004,10,75,48,109,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2004,12,70,44,97,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2004,12,67,45,93,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2004,8,76,53,91,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2004,12,55,29,96,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2004,11,98,61,142,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2004,10,99,29,255,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2004,7,106,48,163,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2004,11,89,42,120,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2004,11,90,44,122,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2004,12,85,56,115,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2004,11,91,47,118,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2004,11,91,45,119,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2004,11,88,46,118,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2004,11,93,48,118,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2004,11,97,59,126,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2004,11,91,46,122,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2004,10,76,38,107,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2004,10,77,45,120,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2004,12,72,43,113,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2004,9,34,22,77,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2004,12,52,35,84,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2004,12,60,38,96,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2004,12,52,27,81,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2004,12,53,29,82,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2004,12,76,42,98,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2004,12,81,45,134,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2004,10,123,61,208,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2004,12,61,41,94,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2004,12,92,56,152,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2004,10,28,22,41,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2004,12,44,30,58,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2004,9,144,89,199,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2004,10,804,260,1912,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2004,10,59,27,113,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2004,9,70,28,143,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2004,12,268,105,547,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2004,12,116,54,214,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2004,12,129,52,199,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2004,11,78,52,116,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2004,12,62,40,93,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2004,9,37,22,70,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2004,12,55,29,96,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2004,12,92,51,144,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2004,6,66,34,107,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2004,11,100,65,130,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2004,11,93,43,134,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2004,12,85,57,118,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2004,9,205,130,273,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2004,11,77,34,122,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2004,11,67,30,111,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2004,11,94,44,125,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2004,52,90,43,136,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2004,12,70,43,105,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2004,15,489,118,1272,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2004,12,53,30,83,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2005,12,35,23,52,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2005,12,60,36,184,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2005,12,41,21,87,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2005,10,75,56,98,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2005,12,65,46,88,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2005,12,63,42,84,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2005,4,63,54,73,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2005,10,50,29,69,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2005,12,88,38,135,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2005,11,81,32,194,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2005,7,108,81,126,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2005,12,85,73,105,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2005,13,143,68,507,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2005,12,83,61,116,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2005,12,88,63,114,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2005,12,100,55,249,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2005,12,85,49,119,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2005,12,89,50,122,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2005,12,92,49,136,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2005,12,90,66,117,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2005,10,86,38,135,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2005,11,65,41,108,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2005,11,69,52,88,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2005,8,27,20,56,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2005,12,47,34,62,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2005,12,51,37,69,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2005,12,48,35,65,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2005,12,50,29,70,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2005,12,71,42,100,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2005,11,74,49,109,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2005,11,130,61,181,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2005,12,54,40,71,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2005,11,86,67,119,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2005,11,27,22,33,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2005,12,41,26,57,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2005,11,116,29,184,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2005,10,478,103,758,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2005,11,55,25,100,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2005,9,64,30,129,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2005,11,289,95,555,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2005,12,118,58,159,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2005,12,120,70,145,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2005,12,71,46,103,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2005,12,51,38,67,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2005,10,30,21,48,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2005,12,50,30,74,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2005,12,91,52,125,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2005,4,47,27,72,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2005,12,104,83,132,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2005,9,79,37,130,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2005,12,83,62,108,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2005,10,177,36,297,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2005,12,68,52,98,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2005,11,55,22,105,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2005,12,105,67,251,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2005,52,88,49,121,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2005,11,68,52,94,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2005,12,453,249,772,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2005,11,56,31,167,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2006,12,39,23,65,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2006,12,51,38,72,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2006,12,44,22,75,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2006,12,78,41,136,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2006,12,67,16,123,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2006,12,68,43,114,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2006,5,56,23,72,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2006,12,52,36,74,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2006,12,85,57,135,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2006,11,112,33,222,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2006,9,112,46,197,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2006,12,97,70,154,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2006,12,92,59,146,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2006,12,85,58,119,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2006,12,91,58,143,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2006,12,90,62,147,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2006,12,91,58,198,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2006,12,88,59,154,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2006,12,87,52,136,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2006,12,91,62,151,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2006,11,68,29,106,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2006,12,70,16,114,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2006,12,71,32,129,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2006,9,29,21,40,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2006,12,51,34,73,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2006,12,58,37,83,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2006,12,50,30,68,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2006,12,52,36,75,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2006,12,72,45,95,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2006,12,75,49,96,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2006,11,117,74,179,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2006,12,57,36,86,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2006,12,90,54,126,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2006,11,30,25,35,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2006,11,39,32,45,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2006,11,130,93,173,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2006,8,620,391,906,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2006,11,61,29,85,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2006,11,75,31,106,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2006,11,242,129,374,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2006,11,108,61,153,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2006,11,123,69,174,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2006,12,82,47,156,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2006,12,56,36,81,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2006,11,37,22,102,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2006,12,52,35,76,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2006,11,91,55,119,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2006,7,47,19,82,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2006,12,92,61,129,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2006,9,82,46,176,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2006,12,85,58,119,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2006,11,262,153,643,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2006,12,82,48,152,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2006,12,71,33,132,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2006,12,94,62,158,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2006,51,87,55,142,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2006,12,73,44,124,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2006,11,409,298,641,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2006,7,51,36,77,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2007,11,37,22,61,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2007,12,51,37,66,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2007,12,40,21,72,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2007,11,69,40,95,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2007,11,60,36,78,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2007,11,59,35,76,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2007,4,56,36,78,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2007,12,47,20,66,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2007,11,80,40,121,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2007,10,85,11,176,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2007,9,71,1,125,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2007,12,76,28,121,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2007,11,70,30,94,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2007,12,76,44,99,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2007,11,71,34,97,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2007,11,70,35,96,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2007,11,69,34,96,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2007,11,73,35,98,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2007,11,85,37,121,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2007,11,77,38,105,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2007,10,66,36,93,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2007,10,67,38,92,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2007,11,60,38,80,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2007,9,30,18,57,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2007,12,49,35,63,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2007,12,54,39,70,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2007,11,45,17,71,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2007,12,46,21,64,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2007,12,67,33,88,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2007,11,73,39,92,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2007,11,105,43,154,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2007,11,54,44,69,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2007,11,84,40,117,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2007,10,32,22,59,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2007,11,44,33,60,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2007,11,118,40,170,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2007,10,596,225,1124,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2007,10,83,29,160,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2007,9,90,34,164,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2007,11,223,54,587,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2007,11,91,55,159,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2007,11,94,55,155,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2007,12,65,31,90,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2007,12,52,39,72,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2007,11,32,19,58,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2007,13,49,29,68,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2007,11,88,58,128,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2007,5,37,16,65,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2007,12,91,30,113,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2007,10,62,2,107,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2007,12,77,45,99,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2007,10,196,97,575,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2007,12,66,43,100,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2007,11,54,27,80,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2007,11,75,38,98,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2007,51,86,39,183,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2007,11,60,37,79,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2007,11,352,67,828,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2007,11,46,22,68,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2008,12,41,21,64,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2008,12,53,35,74,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2008,11,44,23,90,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2008,10,63,40,92,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2008,12,63,35,92,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2008,12,62,39,91,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2008,11,58,41,85,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2008,11,50,28,75,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2008,11,79,57,97,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2008,11,78,18,146,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2008,11,88,43,149,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2008,12,72,53,84,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2008,11,70,51,86,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2008,12,75,53,99,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2008,12,75,52,94,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2008,12,75,54,95,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2008,11,75,63,89,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2008,11,78,61,90,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2008,12,83,57,111,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2008,12,77,47,99,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2008,10,57,33,82,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2008,10,60,28,92,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2008,11,61,36,86,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2008,9,35,21,87,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2008,12,52,33,76,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2008,12,55,34,75,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2008,12,48,25,73,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2008,12,49,24,75,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2008,12,69,39,98,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2008,12,68,36,96,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2008,10,113,67,158,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2008,12,55,36,75,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2008,12,79,36,107,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2008,9,30,20,41,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2008,12,48,37,61,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2008,10,135,55,191,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2008,9,717,510,1010,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2008,9,63,22,106,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2008,9,72,29,118,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2008,10,271,96,437,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2008,12,107,61,139,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2008,11,134,71,294,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2008,12,68,39,100,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2008,12,56,39,76,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2008,10,30,21,49,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2008,12,54,27,76,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2008,12,98,38,172,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2008,5,49,29,73,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2008,12,90,60,109,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2008,9,71,47,100,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2008,12,75,58,99,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2008,11,170,113,243,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2008,12,71,35,119,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2008,11,53,32,68,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2008,12,76,44,102,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2008,51,87,33,130,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2008,12,64,29,122,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2008,11,423,222,910,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2008,12,55,26,115,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2009,11,32,22,43,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2009,12,47,28,65,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2009,11,38,20,76,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2009,11,56,27,86,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2009,11,53,36,69,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2009,12,55,39,72,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2009,10,47,20,65,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2009,12,44,28,59,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2009,12,70,51,85,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2009,9,64,26,109,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2009,8,69,53,92,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2009,11,49,29,77,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2009,11,52,36,75,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2009,11,62,50,70,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2009,12,58,39,85,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2009,11,54,38,80,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2009,11,57,42,80,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2009,11,58,42,87,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2009,11,77,56,89,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2009,11,57,44,77,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2009,10,45,23,64,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2009,9,51,31,77,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2009,12,52,32,72,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2009,9,27,20,55,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2009,10,48,28,63,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2009,12,47,33,67,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2009,11,42,28,57,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2009,11,43,29,57,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2009,11,56,36,66,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2009,10,61,51,72,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2009,10,94,52,141,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2009,12,46,32,70,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2009,10,66,52,84,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2009,7,27,22,31,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2009,10,48,38,60,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2009,10,98,58,132,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2009,9,507,185,898,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2009,9,62,27,109,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2009,8,64,26,114,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2009,9,166,84,249,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2009,11,89,48,123,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2009,10,99,47,148,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2009,12,61,44,72,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2009,12,48,32,67,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2009,9,26,22,33,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2009,12,42,29,55,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2009,11,76,42,118,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2009,4,36,18,46,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2009,12,82,53,97,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2009,8,62,42,73,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2009,12,63,46,75,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2009,5,146,102,175,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2009,11,60,40,74,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2009,11,42,30,51,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2009,12,61,44,88,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2009,51,76,47,110,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2009,12,54,29,76,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2009,9,298,119,550,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2009,11,42,29,58,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2010,12,31,23,47,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2010,12,43,29,59,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2010,11,37,20,63,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2010,10,58,42,87,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2010,9,54,39,72,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2010,12,54,42,73,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2010,10,49,18,72,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2010,11,41,33,50,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2010,11,73,40,107,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2010,8,48,24,65,West Branch Du Page River,-9809372.143319122,5162219.006850576
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2010,7,77,42,110,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2010,11,59,38,76,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2010,11,60,37,76,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2010,10,72,52,90,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2010,11,61,38,78,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2010,11,61,36,82,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2010,12,64,37,90,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2010,11,65,37,88,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2010,10,76,42,103,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2010,12,65,38,87,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2010,9,47,25,69,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2010,9,51,23,74,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2010,8,55,36,78,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2010,8,25,20,37,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2010,11,42,30,57,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2010,12,47,30,69,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2010,12,40,30,51,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2010,12,41,33,51,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2010,9,61,46,76,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2010,12,65,46,81,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2010,11,104,48,157,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2010,12,44,35,63,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2010,12,76,48,100,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2010,6,25,23,28,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2010,11,41,35,48,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2010,11,89,&lt RL,134,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2010,9,510,167,885,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2010,10,53,25,96,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2010,10,61,25,130,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2010,10,182,47,427,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2010,10,138,58,385,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2010,10,96,55,147,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+64,Lake Street,West Branch Du Page River at Lake Street,SO4   ,Sulfate,mg/L,2010,6,59,43,77,West Branch Du Page River,-9810939.89297938,5157781.364521299
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2010,12,47,34,68,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2010,11,26,20,35,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2010,12,43,32,55,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2010,10,75,41,100,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2010,1,39,39,39,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2010,9,78,41,97,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2010,8,46,37,54,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2010,12,68,39,89,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2010,7,96,23,214,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2010,12,58,51,71,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2010,10,42,27,65,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2010,12,67,37,90,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2010,51,82,51,118,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2010,11,53,32,76,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2010,11,318,30,829,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2010,10,44,34,54,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2011,12,41,25,60,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2011,12,45,24,63,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2011,12,40,22,66,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2011,11,62,23,75,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2011,11,53,22,71,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2011,12,54,27,70,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2011,10,57,31,77,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2011,12,44,29,62,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2011,11,72,45,98,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2011,10,74,45,115,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2011,12,61,45,72,West Branch DuPage River,-9811547.219382191,5157233.888994125
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2011,9,73,49,99,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2011,11,58,36,76,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2011,11,59,36,74,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2011,11,66,43,84,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2011,11,61,37,82,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2011,11,61,35,83,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2011,11,63,37,76,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2011,11,64,37,89,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2011,11,73,46,96,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2011,11,64,36,87,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2011,9,49,21,65,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2011,10,53,25,70,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2011,11,56,21,76,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2011,8,30,20,59,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2011,12,45,29,57,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2011,12,46,24,63,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2011,6,48,40,60,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2011,12,45,30,62,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2011,12,63,40,89,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2011,12,70,40,91,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2011,11,94,48,145,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2011,12,47,34,64,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2011,12,76,50,104,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2011,6,26,21,30,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2011,11,46,40,50,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2011,10,78,32,133,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2011,10,451,114,733,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2011,10,53,26,86,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2011,10,60,27,94,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2011,10,171,55,336,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2011,11,104,42,170,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2011,11,103,48,140,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2011,12,47,30,64,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2011,12,33,22,53,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2011,12,46,18,72,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2011,11,83,38,154,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2011,5,39,29,58,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2011,11,86,66,97,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2011,10,65,47,97,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2011,11,62,44,85,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2011,10,93,17,236,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2011,12,61,51,76,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2011,11,44,29,59,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2011,11,63,36,85,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2011,51,81,46,129,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2011,11,56,27,73,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2011,10,267,59,578,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2011,12,45,32,64,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2012,11,41,28,56,Chicago River,-9755339.676982595,5144145.544547021
+101,Foster Avenue,North Shore Channel at Foster Avenue,SO4   ,Sulfate,mg/L,2012,7,48,42,53,North Shore Channel,-9763248.504184216,5157380.484896455
+102,Oakton Street,North Shore Channel at Oakton Street,SO4   ,Sulfate,mg/L,2012,7,46,25,56,North Shore Channel,-9763838.713194087,5164984.791142569
+103,Golf Road,West Fork North Branch Chicago River at Golf Road,SO4   ,Sulfate,mg/L,2012,7,64,47,76,West Fork North Branch Chicago River,-9771841.694236573,5169273.313312094
+104,Glenview Road,North Branch Chicago River at Glenview Road,SO4   ,Sulfate,mg/L,2012,7,63,45,76,North Branch Chicago River,-9770990.71844705,5171319.185344051
+105,Frontage Road,Skokie River at Frontage Road,SO4   ,Sulfate,mg/L,2012,7,63,47,75,Skokie River,-9769467.187323028,5174142.560835846
+106,Dundee Road,West Fork North Branch Chicago River at Dundee Road,SO4   ,Sulfate,mg/L,2012,5,55,46,67,West Fork North Branch Chicago River,-9777719.3660057,5181767.818476338
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2012,12,45,32,59,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2012,12,77,39,93,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2012,11,68,15,236,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2012,12,63,41,76,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2012,5,46,36,51,North Shore Channel,-9763803.492506059,5167131.2098396
+12,Lake-Cook Road,Buffalo Creek at Lake-Cook Road,SO4   ,Sulfate,mg/L,2012,6,84,62,103,Buffalo Creek,-9792683.493154097,5183751.728609537
+13,Lake-Cook Road,Des Plaines River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2012,7,65,57,73,Des Plaines River,-9786103.272410415,5183885.200209065
+17,Oakton Street,Des Plaines River at Oakton Street,SO4   ,Sulfate,mg/L,2012,7,64,52,77,Des Plaines River,-9782189.77125312,5164756.208222484
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2012,12,72,60,85,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2012,12,69,45,84,Des Plaines River,-9779371.53102385,5151588.097147647
+20,Roosevelt Road,Des Plaines River at Roosevelt Road,SO4   ,Sulfate,mg/L,2012,7,65,46,77,Des Plaines River,-9776892.815460142,5140724.864266957
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2012,12,71,45,85,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2012,12,75,56,93,Des Plaines River,-9782918.22214516,5121485.94585754
+24,Wolf Road,Salt Creek at Wolf Road,SO4   ,Sulfate,mg/L,2012,7,81,46,100,Salt Creek,-9785016.345950183,5134927.534095098
+29,Stephen Street,Des Plaines River at Stephen Street,SO4   ,Sulfate,mg/L,2012,7,69,50,82,Des Plaines River,-9796385.089554068,5113414.579669373
+31,Lake-Cook Road,Middle Fork North Branch Chicago River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2012,4,71,62,79,Middle Fork North Branch Chicago River,-9775428.966959778,5183330.473761027
+32,Lake-Cook Road,Skokie River at Lake-Cook Road,SO4   ,Sulfate,mg/L,2012,6,61,48,71,Skokie River,-9773171.65434657,5183881.030230567
+34,Dempster Street,North Branch Chicago River at Dempster Street,SO4   ,Sulfate,mg/L,2012,7,65,45,75,North Branch Chicago River,-9772519.197048591,5167261.607014383
+35,Central Street,North Shore Channel at Central Street,SO4   ,Sulfate,mg/L,2012,5,50,24,74,North Shore Channel,-9761286.946422856,5170628.6171330195
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2012,12,44,36,53,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2012,6,49,39,56,North Branch Chicago River,-9762427.895694703,5155720.021993471
+39,Madison Street,South Branch Chicago River at Madison Street,SO4   ,Sulfate,mg/L,2012,6,48,32,59,South Branch Chicago River,-9755836.894673718,5143332.001117509
+40,Damen Avenue,Chicago Sanitary and Ship Canal at Damen Avenue,SO4   ,Sulfate,mg/L,2012,7,48,32,61,Chicago Sanitary and Ship Canal,-9759974.102935709,5137287.498239143
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2012,12,59,41,92,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+42,Route 83,Chicago Sanitary and Ship Canal at Route 83,SO4   ,Sulfate,mg/L,2012,7,71,57,89,Chicago Sanitary and Ship Canal,-9789421.360370245,5116449.74955103
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2012,11,100,34,164,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+46,Grand Avenue,North Branch Chicago River at Grand Avenue,SO4   ,Sulfate,mg/L,2012,7,53,36,64,North Branch Chicago River,-9756156.248665709,5144758.297382973
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2012,12,85,58,100,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+49,Ewing Avenue,Calumet River at Ewing Avenue,SO4   ,Sulfate,mg/L,2012,6,28,24,31,Calumet River,-9745075.86152176,5120263.120285954
+50,Burnham Avenue ,Wolf Lake Drain at Burnham Avenue,SO4   ,Sulfate,mg/L,2012,7,48,27,54,Wolf Lake Drain,-9744778.986089032,5110875.941051556
+52,Wentworth Avenue,Little Calumet River at Wentworth Avenue,SO4   ,Sulfate,mg/L,2012,7,124,79,159,Little Calumet River,-9743762.861862704,5099049.677060608
+54,Joe Orr Road,Thorn Creek at Joe Orr Road,SO4   ,Sulfate,mg/L,2012,7,724,212,1363,Thorn Creek,-9754419.852949658,5089457.720876058
+55,130th Street,Calumet River at 130th Street,SO4   ,Sulfate,mg/L,2012,7,64,30,79,Calumet River,-9748530.69045206,5110104.230203494
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2012,10,61,30,93,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2012,11,269,110,712,Little Calumet River,-9758345.734333793,5108959.791525536
+58,Ashland Avenue,Calumet-Sag Channel at Ashland Avenue,SO4   ,Sulfate,mg/L,2012,7,111,52,160,Calumet-Sag Channel,-9758306.686186207,5109440.062465825
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2012,10,120,73,177,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2012,12,47,35,58,North Branch Chicago River,-9760793.273420712,5150867.342273781
+74,Lake Shore Drive,Chicago River at Lake Shore Drive,SO4   ,Sulfate,mg/L,2012,6,37,24,50,Chicago River,-9753112.184339533,5144283.186382862
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2012,12,47,27,66,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2012,11,82,58,105,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2012,8,47,19,80,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2012,11,77,31,90,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2012,11,60,33,87,Salt Creek,-9797375.60963822,5165675.359292448
+80,Arlington Heights Road,Salt Creek at Arlington Heights Road,SO4   ,Sulfate,mg/L,2012,7,76,71,82,Salt Creek,-9796254.99295483,5162818.28541295
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2012,11,71,14,139,Grand Calumet River,-9744810.951107476,5105915.20396417
+89,Walnut Street,West Branch Du Page River at Walnut Street,SO4   ,Sulfate,mg/L,2012,7,61,41,69,West Branch Du Page River,-9811290.549648687,5160344.011074602
+90,Route 19,Poplar Creek at Route 19,SO4   ,Sulfate,mg/L,2012,7,48,31,58,Poplar Creek,-9823047.74711789,5165577.94301833
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2012,12,73,59,85,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2012,51,88,52,114,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2012,12,56,38,76,North Branch Chicago River,-9764088.462110577,5156857.124687181
+97,170th Street,Thorn Creek at 170th Street,SO4   ,Sulfate,mg/L,2012,6,438,165,970,Thorn Creek,-9748874.28283881,5099238.777878965
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2012,12,41,30,60,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2013,12,39,25,61,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2013,12,44,26,63,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2013,11,74,49,101,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2013,8,67,17,157,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2013,12,67,33,94,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2013,10,32,20,57,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2013,12,68,47,95,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2013,12,69,43,93,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2013,12,71,49,97,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2013,11,70,47,98,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2013,11,41,28,50,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2013,12,60,42,84,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2013,11,114,67,176,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2013,12,82,60,101,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2013,8,50,27,99,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2013,10,260,93,400,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2013,11,118,76,167,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2013,12,44,33,55,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2013,12,43,29,62,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2013,11,83,48,114,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2013,4,43,14,78,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2013,12,80,38,113,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2013,8,62,40,126,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2013,9,161,41,246,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2013,12,69,47,95,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2013,51,86,49,117,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2013,12,50,30,66,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2013,10,42,26,61,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2014,11,35,20,51,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2014,12,46,28,60,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2014,9,89,59,118,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2014,8,84,39,157,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2014,11,76,53,96,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2014,9,34,21,67,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2014,11,79,50,102,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2014,10,70,47,102,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2014,9,74,42,105,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2014,9,76,52,117,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2014,12,48,38,62,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2014,12,74,54,101,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2014,11,107,54,191,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2014,11,88,62,149,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2014,10,60,1,114,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2014,11,245,43,538,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2014,11,109,43,174,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2014,12,53,39,64,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2014,11,47,34,63,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2014,12,85,54,115,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2014,4,49,22,77,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2014,12,92,52,108,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2014,9,70,42,99,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2014,10,127,43,215,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2014,10,78,43,120,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2014,52,93,47,131,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2014,11,59,41,77,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2014,11,43,31,59,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2015,12,33,19,52,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2015,11,45,28,61,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2015,10,79,63,97,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2015,9,62,13,110,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2015,12,70,56,85,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2015,9,27,19,44,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2015,11,78,61,102,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2015,11,67,52,100,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2015,10,69,56,90,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2015,9,71,55,87,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2015,12,51,26,71,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2015,12,67,37,98,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2015,11,117,65,179,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2015,10,76,42,111,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2015,9,78,38,141,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2015,10,317,77,544,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2015,10,121,86,184,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2015,12,55,33,87,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2015,12,45,24,72,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2015,10,82,58,136,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2015,10,85,58,99,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2015,9,65,41,97,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2015,11,151,118,196,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2015,12,77,58,106,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2015,51,91,41,142,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2015,9,50,31,61,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2015,10,42,30,56,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2016,10,33,23,49,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2016,11,44,30,56,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2016,12,77,47,116,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2016,11,61,32,109,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2016,12,64,46,84,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2016,10,34,20,76,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,SO4   ,Sulfate,mg/L,2016,8,39,24,92,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2016,12,71,47,108,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2016,12,64,44,88,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2016,12,68,47,98,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2016,11,69,43,109,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2016,12,50,37,66,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2016,11,71,47,95,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2016,11,107,49,166,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2016,11,86,60,112,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2016,10,45,35,56,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2016,10,310,47,747,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2016,11,98,46,171,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2016,12,51,38,62,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2016,10,47,35,65,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2016,10,68,50,90,Little Calumet River,-9756147.689317683,5109826.122291395
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2016,11,78,47,101,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2016,9,58,39,87,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2016,10,122,52,190,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2016,12,68,41,100,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2016,48,88,44,122,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2016,12,53,42,67,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2016,8,41,33,58,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2017,11,33,22,54,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2017,11,44,26,61,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2017,10,73,35,96,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2017,10,62,20,88,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2017,10,56,23,75,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2017,10,30,21,49,North Shore Channel,-9763803.492506059,5167131.2098396
+113,Oakton Street,Higgins Creek at Oakton Street,SO4   ,Sulfate,mg/L,2017,7,31,17,65,Higgins Creek,-9790431.138942767,5164381.759368491
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2017,11,68,40,97,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2017,10,54,28,75,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2017,10,59,32,79,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2017,9,67,33,101,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2017,11,50,39,62,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2017,11,60,33,83,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2017,10,108,66,158,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2017,12,77,37,122,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2017,10,79,45,100,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2017,10,196,78,386,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2017,10,105,72,144,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2017,10,49,28,60,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2017,11,42,23,57,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2017,10,79,66,102,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2017,2,60,40,81,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2017,10,77,30,97,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2017,8,62,23,90,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2017,10,115,78,202,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2017,10,59,29,85,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2017,42,86,53,136,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2017,10,51,23,69,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2017,11,43,27,56,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2018,12,36,22,52,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2018,9,48,29,60,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2018,11,67,29,98,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2018,10,48,25,78,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2018,12,61,35,83,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2018,8,31,19,57,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2018,12,64,27,90,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2018,10,53,23,81,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2018,10,54,22,82,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2018,5,64,42,92,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2018,11,49,23,61,North Shore Channel,-9763880.193364626,5162772.158302309
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2018,12,62,39,89,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2018,11,100,53,127,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2018,12,81,49,109,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2018,11,77,48,97,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2018,12,183,84,431,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2018,11,110,78,139,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2018,9,46,34,61,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2018,12,44,30,60,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2018,11,85,70,105,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2018,9,37,18,60,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2018,12,82,35,110,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2018,10,58,25,89,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2018,11,96,51,169,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2018,12,61,36,96,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2018,49,85,47,115,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2018,9,42,26,72,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2018,11,45,32,61,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2019,11,33,24,53,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2019,9,44,28,57,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2019,11,67,40,99,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2019,11,50,22,88,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2019,11,55,41,67,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2019,10,38,23,81,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2019,13,60,33,82,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2019,12,46,25,67,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2019,10,48,30,71,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2019,4,43,29,52,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2019,12,47,37,57,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2019,8,46,38,57,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2019,11,59,37,87,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2019,10,81,52,131,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2019,11,76,49,117,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2019,10,72,46,107,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2019,10,162,38,381,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2019,11,85,43,136,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2019,12,49,37,60,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2019,11,41,26,55,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2019,10,74,55,118,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2019,11,38,22,53,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2019,9,74,56,99,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2019,12,62,38,91,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2019,11,98,78,126,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2019,12,52,29,76,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2019,49,79,36,127,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2019,12,47,35,63,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2019,9,42,31,53,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2020,11,31,21,45,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2020,11,40,28,54,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2020,11,69,45,98,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2020,11,56,21,80,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2020,11,59,26,76,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2020,12,41,24,82,North Shore Channel,-9763803.492506059,5167131.2098396
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2020,10,59,40,80,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2020,11,49,25,71,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2020,11,55,27,74,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2020,11,59,29,78,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2020,12,45,32,56,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2020,12,48,39,59,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2020,11,61,31,85,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2020,10,89,53,115,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2020,10,73,23,105,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2020,11,65,45,89,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2020,11,299,48,765,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2020,11,89,60,145,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2020,12,47,38,58,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2020,11,40,26,54,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2020,11,72,48,82,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2020,10,41,15,69,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2020,11,81,51,95,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2020,11,59,25,92,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2020,11,86,73,99,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2020,11,57,32,74,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2020,45,78,25,113,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2020,12,49,31,74,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2020,11,42,28,53,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2021,11,32,24,48,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2021,11,42,26,57,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2021,5,80,65,94,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2021,11,52,23,102,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2021,12,63,43,77,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2021,10,27,23,35,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,SO4   ,Sulfate,mg/L,2021,3,120,85,142,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,SO4   ,Sulfate,mg/L,2021,3,68,50,80,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2021,12,65,43,78,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2021,12,68,53,89,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2021,11,68,53,80,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2021,12,74,56,96,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2021,12,45,32,60,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2021,12,47,33,62,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2021,11,65,43,97,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2021,12,109,30,145,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2021,11,85,57,107,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2021,11,72,51,107,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2021,10,251,27,587,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2021,12,100,33,136,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2021,12,47,34,65,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2021,11,41,29,57,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2021,12,76,51,94,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2021,11,54,20,90,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2021,11,71,52,91,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2021,10,68,32,95,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2021,11,119,57,186,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2021,12,71,49,102,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2021,49,89,36,127,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2021,11,52,37,70,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2021,10,42,30,59,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2022,12,33,25,44,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2022,12,41,31,54,South Branch Chicago River,-9758326.630046986,5137947.951214144
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2022,10,43,25,69,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2022,12,56,22,76,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2022,10,33,20,71,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,SO4   ,Sulfate,mg/L,2022,12,161,36,235,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,SO4   ,Sulfate,mg/L,2022,11,69,52,101,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2022,12,59,38,75,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2022,11,60,23,88,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2022,11,62,47,87,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2022,11,70,46,100,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2022,12,46,39,59,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2022,12,46,29,61,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2022,12,63,43,85,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2022,11,110,95,178,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2022,12,82,53,117,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2022,11,81,58,111,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2022,11,271,64,567,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2022,11,116,78,149,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2022,12,46,28,61,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2022,12,43,31,59,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2022,10,76,49,96,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2022,12,44,21,76,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2022,12,70,49,91,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2022,10,55,28,73,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2022,12,172,81,238,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2022,11,67,39,95,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2022,52,85,57,123,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2022,12,48,21,66,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2022,10,43,33,56,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2023,12,34,22,53,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2023,12,41,31,59,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2023,6,65,55,80,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2023,12,54,28,107,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2023,12,61,49,71,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2023,12,38,23,70,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,SO4   ,Sulfate,mg/L,2023,12,196,117,292,Weller Creek,-9791310.180190712,5169842.130070917
+128,Washington Avenue,Salt Creek at Washington Avenue,SO4   ,Sulfate,mg/L,2023,6,71,54,81,Salt Creek,-9778632.442307537,5135217.403079835
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2023,12,61,51,69,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2023,12,61,43,79,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2023,12,63,47,79,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2023,12,64,48,82,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2023,12,46,36,58,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2023,12,46,39,57,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2023,12,62,39,87,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2023,11,102,71,147,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2023,12,81,49,110,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2023,12,66,38,104,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2023,12,215,53,458,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2023,18,118,64,146,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2023,12,46,38,58,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2023,12,43,28,58,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2023,12,94,53,308,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2023,12,40,24,56,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2023,12,75,53,89,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2023,12,59,47,70,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2023,12,152,93,216,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2023,12,63,45,85,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2023,52,84,55,119,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2023,12,50,37,60,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2023,12,43,32,55,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2024,12,34,23,53,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2024,12,41,29,56,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2024,12,68,44,85,Salt Creek,-9778479.118246686,5134478.740255858
+110,Springinsguth Rd.,West Branch DuPage River at Springinsguth Road,SO4   ,Sulfate,mg/L,2024,12,57,20,109,West Branch Du Page River,-9809372.143319122,5162219.006850576
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2024,12,56,26,78,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2024,12,37,22,79,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,SO4   ,Sulfate,mg/L,2024,12,169,40,288,Weller Creek,-9791310.180190712,5169842.130070917
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2024,12,58,34,75,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2024,12,55,28,74,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2024,12,59,35,77,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2024,12,62,34,86,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2024,12,43,23,57,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2024,12,44,20,57,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2024,12,65,41,89,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2024,12,94,56,179,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2024,12,77,52,102,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2024,12,60,36,76,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2024,12,203,64,617,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2024,12,104,56,166,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2024,12,43,23,56,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2024,12,42,30,58,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2024,18,73,48,93,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2024,12,41,18,71,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2024,12,71,43,87,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2024,11,54,26,85,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2024,12,147,97,245,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2024,12,58,31,75,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2024,53,78,52,118,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2024,12,46,16,60,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2024,12,43,29,58,Bubbly Creek,-9758696.948071491,5136817.240627698
+100,Wells Street,Chicago River at Wells Street,SO4   ,Sulfate,mg/L,2025,3,47,44,51,Chicago River,-9755339.676982595,5144145.544547021
+108,Loomis Street,South Branch Chicago River at Loomis Street,SO4   ,Sulfate,mg/L,2025,3,51,47,56,South Branch Chicago River,-9758326.630046986,5137947.951214144
+109,Brookfield Avenue,Salt Creek at Brookfield Avenue,SO4   ,Sulfate,mg/L,2025,3,66,51,74,Salt Creek,-9778479.118246686,5134478.740255858
+111,Arlington Dr.,West Branch DuPage River at Arlington Drive,SO4   ,Sulfate,mg/L,2025,3,65,55,72,West Branch DuPage River,-9811547.219382191,5157233.888994125
+112,Dempster St.,North Shore Channel at Dempster Street,SO4   ,Sulfate,mg/L,2025,1,50,50,50,North Shore Channel,-9763803.492506059,5167131.2098396
+127,Lincoln Street,Weller Creek at Lincoln Street,SO4   ,Sulfate,mg/L,2025,3,172,118,210,Weller Creek,-9791310.180190712,5169842.130070917
+18,Devon Avenue,Salt Creek at Devon Avenue,SO4   ,Sulfate,mg/L,2025,3,59,47,67,Salt Creek,-9795587.075606022,5159923.790866642
+19,Belmont Avenue,Des Plaines River at Belmont Avenue,SO4   ,Sulfate,mg/L,2025,3,61,50,70,Des Plaines River,-9779371.53102385,5151588.097147647
+22,Ogden Avenue,Des Plaines River at Ogden Avenue,SO4   ,Sulfate,mg/L,2025,3,63,50,70,Des Plaines River,-9775033.160497827,5134155.08934849
+23,Willow Springs Road,Des Plaines River at Willow Springs Road,SO4   ,Sulfate,mg/L,2025,3,65,50,72,Des Plaines River,-9782918.22214516,5121485.94585754
+36,Touhy Avenue,North Shore Channel at Touhy Avenue,SO4   ,Sulfate,mg/L,2025,3,50,47,57,North Shore Channel,-9763880.193364626,5162772.158302309
+37,Wilson Avenue,North Branch Chicago River at Wilson Avenue,SO4   ,Sulfate,mg/L,2025,3,52,48,60,North Branch Chicago River,-9762427.895694703,5155720.021993471
+41,Harlem Avenue,Chicago Sanitary and Ship Canal at Harlem Avenue,SO4   ,Sulfate,mg/L,2025,1,68,68,68,Chicago Sanitary and Ship Canal,-9774026.337077957,5131234.839862472
+43,Route 83,Calumet-Sag Channel at Route 83,SO4   ,Sulfate,mg/L,2025,1,82,82,82,Calumet-Sag Channel,-9789029.93158179,5115601.921870255
+48,Stephen Street,Chicago Sanitary and Ship Canal at Stephen Street,SO4   ,Sulfate,mg/L,2025,1,99,99,99,Chicago Sanitary and Ship Canal,-9796052.154215598,5113077.68374999
+56,Indiana Avenue,Little Calumet River at Indiana Avenue,SO4   ,Sulfate,mg/L,2025,2,77,72,82,Little Calumet River,-9753472.181457821,5108772.571885121
+57,Ashland Avenue,Little Calumet River at Ashland Avenue,SO4   ,Sulfate,mg/L,2025,2,279,151,407,Little Calumet River,-9758345.734333793,5108959.791525536
+59,Cicero Avenue,Calumet-Sag Channel at Cicero Avenue,SO4   ,Sulfate,mg/L,2025,3,117,98,149,Calumet-Sag Channel,-9766975.298081215,5109491.834437173
+73,Diversey Parkway,North Branch Chicago River at Diversey Parkway,SO4   ,Sulfate,mg/L,2025,3,53,49,58,North Branch Chicago River,-9760793.273420712,5150867.342273781
+75,Cicero Avenue,Chicago Sanitary and Ship Canal at Cicero Avenue,SO4   ,Sulfate,mg/L,2025,3,52,48,58,Chicago Sanitary and Ship Canal,-9767527.508297497,5134013.305608013
+76,Halsted Street,Little Calumet River at Halsted Street,SO4   ,Sulfate,mg/L,2025,1,83,83,83,Little Calumet River,-9756147.689317683,5109826.122291395
+77,Elmhurst Road,Higgins Creek at Elmhurst Road,SO4   ,Sulfate,mg/L,2025,3,61,48,69,Higgins Creek,-9789503.463971145,5164194.269628853
+78,Wille Road,Higgins Creek at Wille Road,SO4   ,Sulfate,mg/L,2025,3,70,60,78,Higgins Creek,-9789066.534741784,5163778.873133089
+79,Higgins Road,Salt Creek at Higgins Road,SO4   ,Sulfate,mg/L,2025,1,76,76,76,Salt Creek,-9797375.60963822,5165675.359292448
+86,Burnham Avenue,Grand Calumet River at Burnham Avenue,SO4   ,Sulfate,mg/L,2025,3,159,144,173,Grand Calumet River,-9744810.951107476,5105915.20396417
+91,Material Service Road,Des Plaines River at Material Service Road,SO4   ,Sulfate,mg/L,2025,3,65,47,75,Des Plaines River,-9803757.593335949,5100729.017568359
+92,Lockport Powerhouse,Chicago Sanitary and Ship Canal at Lockport Powerhouse Forebay,SO4   ,Sulfate,mg/L,2025,14,89,67,115,Chicago Sanitary and Ship Canal,-9804834.016711399,5096870.642820761
+96,Albany Avenue,North Branch Chicago River at Albany Avenue,SO4   ,Sulfate,mg/L,2025,3,61,59,64,North Branch Chicago River,-9764088.462110577,5156857.124687181
+99,Archer Avenue,Bubbly Creek at Archer Avenue,SO4   ,Sulfate,mg/L,2025,1,53,53,53,Bubbly Creek,-9758696.948071491,5136817.240627698
