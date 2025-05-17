@@ -4,6 +4,6 @@ This repository contains code and analysis for studying the relationship between
 
 ## Contents
 
-- `Fish/analyze.ipynb`: [Interactive analysis notebook](Fish/analyze.ipynb) containing data processing, modeling, and network visualizations.
+- `Fish/analyze.ipynb`: [Interactive analysis notebook](/analyze.ipynb) containing data processing, modeling, and network visualizations.
 - `data/`: Raw and processed data files (not included in repo if large).
 - `figures/`: Output plots and network graphs.
